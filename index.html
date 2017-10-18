@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>População Brasileira</title>
+
+	<script src="popBrasil.json"></script>
+
+	<link rel="stylesheet" href="style.css">
+
+	<script>
+
+		const PRIMEIRO_ANO = 2001;
+		const ULTIMO_ANO = 2017;
+		const TAMANHO_BARRA = 445;
+		const TAMANHO_BARRA_POP = 45000000; // 40 milhões é o tamanho máximo da barra em população
+		const QTD_ESTADOS = 26;
+		const COLORS = ['Blue', 'BlueViolet', 'Brown', 'CadetBlue', 'Chartreuse', 'Chocolate', 'CornflowerBlue', 'Crimson', 'DarkGreen', 'DarkMagenta',
+						'DarkRed', 'DeepPink', 'FireBrick', 'Indigo', 'LawnGreen', 'LightSeaGreen', 'MediumOrchid', 'Olive', 'Red', 'SteelBlue',
+						'Tomato', 'Yellow', 'Sienna', 'RoyalBlue', 'Plum', 'LimeGreen'];
+		var dataset = {};
+
+		indexaCidades();
+
+		var ano_selecionado = 2008;
+
+		function draw() {
+
+			var canvas = document.getElementById("canvas");
+			var ctx = canvas.getContext("2d");
+
+			ctx.restore();
+			ctx.save();
+
+			ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+			var height, width, widthOffset, heightOffset;
+			width = canvas.width;
+			height = canvas.height;
+			widthOffset = width/2;
+			heightOffset = 20;
+
+			ctx.strokeStyle = "#000";
+			ctx.font = "bold 20px Arial";
+			
+			// Eixo y
+			ctx.moveTo(110, 5);
+			ctx.lineTo(110, 450);
+			ctx.stroke();
+
+			// Eixo x
+			ctx.moveTo(110, 450);
+   			ctx.lineTo(1040, 450);
+   			ctx.stroke();
+
+   			// Labels
+			ctx.fillText("Estados", widthOffset, height - heightOffset);
+			ctx.fillText("População", 3, height/2 - heightOffset);
+
+			
+			ctx.strokeStyle = "#999";
+			ctx.font = "bold 14px Arial"
+
+			// Desenha gráfico de estados do ano selecionado									
+			var estados = dataset[ano_selecionado].estados;
+			var barOffset = 12;
+			var barWidth = (930 - barOffset * (QTD_ESTADOS + 1)) / QTD_ESTADOS - 1;
+			var xPos = 110 + barOffset;
+			var i = 0;
+			for (var label in estados){
+			    estado = estados[label];
+			    var size = (estado.populacao * TAMANHO_BARRA) / TAMANHO_BARRA_POP;
+			    ctx.fillStyle = COLORS[i % QTD_ESTADOS];
+			    ctx.fillRect(xPos, 450 - size - 1, barWidth, size);
+			    ctx.fillStyle = '#000'
+			    ctx.fillText(label, xPos, 465);
+			    xPos += barOffset + barWidth;
+			    i++;
+			}
+
+		}
+
+		function mostraAnos () {
+			ano_selecionado = parseInt(document.getElementById("anos-range").value);
+			document.getElementById("anos-text").innerHTML = ano_selecionado;
+			draw();
+		}
+
+		function indexaCidades() {
+			// Organiza os dados em um novo dataset
+			
+			for (var i = PRIMEIRO_ANO; i <= ULTIMO_ANO; i++) {
+				dataset[i] = {'estados': {}};				
+			}
+			
+			for (i in popbrasil) {
+
+				var cidade = popbrasil[i];
+				var nome = cidade['Cidade']; // Nome da cidade
+				var estado = nome.match(/\(.+\)/)[0].substr(1,2); // Pega o estado e retira os "( )"
+
+				for (var j = PRIMEIRO_ANO; j <= ULTIMO_ANO; j++) {
+					if(!dataset[j].estados[estado]){ // Se ano ainda não tem o estado, cria
+						dataset[j].estados[estado] = {'cidades': [], 'populacao': 0};
+					}
+					var populacao = Number.isInteger(cidade[j]) ? cidade[j] : 0; // Algumas populações estão zeradas
+					dataset[j].estados[estado].populacao += populacao; // Soma a população estado naquele ano
+					dataset[j].estados[estado].cidades.push({'nome': nome, 'populacao': populacao}); // registra a cidade
+				}
+			}
+
+			console.log(dataset);
+		}
+
+	</script>
+</head>
+<body onload="draw()">
+	
+	<label id="anos-text">2008 </label> <input type="range" min="2001" max="2017" value="2008" class="slider" id="anos-range" onchange="mostraAnos()"> 
+
+	<br>
+
+	<canvas id="canvas" width="1080" height="540">
+		
+
+	</canvas>
+	
+</body>
+</html>

@@ -1,0 +1,9 @@
+canvas {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(20, 126, 239, 0.50)
+}
+
+#anos-text {
+	font-size: 44px;
+}
