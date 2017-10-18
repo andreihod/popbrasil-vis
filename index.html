@@ -23,6 +23,7 @@
 		indexaCidades();
 
 		var ano_selecionado = 2008;
+		var rects = [] // Barras desenhadas para fazer o mouseover
 
 		function draw() {
 
@@ -74,6 +75,7 @@
 			    ctx.fillRect(xPos, 450 - size - 1, barWidth, size);
 			    ctx.fillStyle = '#000'
 			    ctx.fillText(label, xPos, 465);
+			    ctx.fillText(parseInt(estado.populacao/1000000)+'M', xPos, 450 - size - 5);
 			    xPos += barOffset + barWidth;
 			    i++;
 			}
