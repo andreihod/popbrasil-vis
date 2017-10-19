@@ -13,17 +13,21 @@
 		const PRIMEIRO_ANO = 2001;
 		const ULTIMO_ANO = 2017;
 		const TAMANHO_BARRA = 445;
-		const TAMANHO_BARRA_POP = 45000000; // 40 milhões é o tamanho máximo da barra em população
+		const TAMANHO_BARRA_POP = 47000000; // 40 milhões é o tamanho máximo da barra em população
 		const QTD_ESTADOS = 26;
 		const COLORS = ['Blue', 'BlueViolet', 'Brown', 'CadetBlue', 'Chartreuse', 'Chocolate', 'CornflowerBlue', 'Crimson', 'DarkGreen', 'DarkMagenta',
 						'DarkRed', 'DeepPink', 'FireBrick', 'Indigo', 'LawnGreen', 'LightSeaGreen', 'MediumOrchid', 'Olive', 'Red', 'SteelBlue',
 						'Tomato', 'Yellow', 'Sienna', 'RoyalBlue', 'Plum', 'LimeGreen'];
-		var dataset = {};
+		
 
-		indexaCidades();
+		const SLIDER_ANIM_TIMER = 300;
+
+		var dataset = {};
 
 		var ano_selecionado = 2008;
 		var rects = [] // Barras desenhadas para fazer o mouseover
+		var timerAnimacao = null;
+
 
 		function draw() {
 
@@ -110,15 +114,103 @@
 					dataset[j].estados[estado].cidades.push({'nome': nome, 'populacao': populacao}); // registra a cidade
 				}
 			}
-
-			console.log(dataset);
+			ordenaEstados(dataset);
 		}
+
+		
+		function comparaEstado(estadoA, estadoB) {
+			return estadoA.populacao - estadoB.populacao;
+		}
+
+
+		function ordenaEstados(dataset) {
+			for (var ano in dataset) {
+				var anoSortable = [];
+				for (var estado in dataset[ano]["estados"]) {
+					anoSortable.push([estado,dataset[ano]["estados"][estado].populacao]);
+				}
+				anoSortable.sort(function(a, b) {
+					return a[1] - b[1];
+				});
+				//dataset[ano] 
+				var novoEstados = {};
+					
+				for (var estado in anoSortable) {
+					novoEstados[anoSortable[estado][0]] = dataset[ano]["estados"][anoSortable[estado][0]];
+				}
+
+				dataset[ano]["estados"] = novoEstados;
+
+			}
+		}
+
+		function desativarAnimacaoSlider() {
+			if (timerAnimacao != null) {
+				clearInterval(timerAnimacao);
+				timerAnimacao = null;
+			}
+		}
+
+		function getProximoAno() {
+			var slider = document.getElementById("anos-range");
+			var valor = parseInt(slider.value) + 1;
+
+			if (valor > slider.max) {
+				valor = slider.min;
+			}
+
+			return valor;
+		}
+
+		function getTotalAno(ano) {
+			var estados = dataset[ano]["estados"];
+			var valor = 0;
+			for (var estado in estados) {
+				valor += dataset[ano]["estados"][estado].populacao;
+			}
+			
+			return valor;
+		}
+
+		function ativarAnimacaoSlider(ativar) {	
+			if (ativar) {
+				if (timerAnimacao != null) {
+					desativarAnimacaoSlider();
+				}
+
+				timerAnimacao = setInterval(function() {
+					var slider = document.getElementById("anos-range");
+					var controle = true;
+					do {
+						var ano = getProximoAno();
+						slider.value = ano;
+
+						if (getTotalAno(ano) > 0) {
+							mostraAnos();
+							controle = false;
+						} 
+						
+					} while(controle);
+				}, SLIDER_ANIM_TIMER);
+			} else {
+				desativarAnimacaoSlider();	
+			}
+
+		}
+
+		window.onload = function() {
+			indexaCidades();
+			draw();
+
+		};
 
 	</script>
 </head>
-<body onload="draw()">
+<body>
 	
-	<label id="anos-text">2008 </label> <input type="range" min="2001" max="2017" value="2008" class="slider" id="anos-range" onchange="mostraAnos()"> 
+	<label id="anos-text">2008 </label> 
+	<input type="range" min="2001" max="2017" value="2008" class="slider" id="anos-range" onchange="mostraAnos()">
+	<input type="checkbox" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
 
 	<br>
 
