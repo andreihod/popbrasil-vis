@@ -13,7 +13,13 @@
 	
 	<label id="anos-text">2001 </label> 
 	<input type="range" min="2001" max="2017" value="2001" class="slider" id="anos-range" onchange="mostraAnos()">
-	<input type="checkbox" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
+	<input type="checkbox" id="ativaAnimacao" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
+
+	<select name="animacao_velocidade" id="animacao_velocidade" onchange="trocaVelocidade()">
+		<option value="700">Lento</option>
+		<option value="600">Normal</option>
+		<option selected="selected" value="300">Rápido</option>
+	</select>
 
 	<br>
 
@@ -29,7 +35,6 @@
 		const TAMANHO_BARRA = 445;
 		const TAMANHO_BARRA_POP = 47000000; // 40 milhões é o tamanho máximo da barra em população
 		const QTD_ESTADOS = 26;
-		const SLIDER_ANIM_TIMER = 300;
 
 		var coresEstado = 
 			{'RR': 'Blue', 'AP': 'BlueViolet', 'AC': 'Brown', 'TO': 'CadetBlue', 'RO': 'Chartreuse',
@@ -41,6 +46,8 @@
 		var dataset = {};
 
 		var ano_selecionado = 2008;
+		var animacaoSlider = 200;
+
 		var isDrawing = false;
 
 		var canvas = document.getElementById("canvas");
@@ -223,11 +230,19 @@
 						} 
 						
 					} while(controle);
-				}, SLIDER_ANIM_TIMER);
+				}, animacaoSlider);
 			} else {
-				desativarAnimacaoSlider();	
+				desativarAnimacaoSlider();
 			}
 
+		}
+
+		function trocaVelocidade() {
+			animacaoSlider = document.getElementById("animacao_velocidade").value;
+			if (document.getElementById('ativaAnimacao').checked) {
+				desativarAnimacaoSlider();
+				ativarAnimacaoSlider(true)
+			}
 		}
 
 		window.onload = function() {
