@@ -29,12 +29,14 @@
 		const TAMANHO_BARRA = 445;
 		const TAMANHO_BARRA_POP = 47000000; // 40 milhões é o tamanho máximo da barra em população
 		const QTD_ESTADOS = 26;
-		const COLORS = ['Blue', 'BlueViolet', 'Brown', 'CadetBlue', 'Chartreuse', 'Chocolate', 'CornflowerBlue', 'Crimson', 'DarkGreen', 'DarkMagenta',
-						'DarkRed', 'DeepPink', 'FireBrick', 'Indigo', 'LawnGreen', 'LightSeaGreen', 'MediumOrchid', 'Olive', 'Red', 'SteelBlue',
-						'Tomato', 'Yellow', 'Sienna', 'RoyalBlue', 'Plum', 'LimeGreen'];
-		
-
 		const SLIDER_ANIM_TIMER = 300;
+
+		var coresEstado = 
+			{'RR': 'Blue', 'AP': 'BlueViolet', 'AC': 'Brown', 'TO': 'CadetBlue', 'RO': 'Chartreuse',
+			 'SE': 'Chocolate', 'MS': 'CornflowerBlue', 'DF': 'Crimson', 'PI': 'DarkGreen', 'MT': 'DarkMagenta',
+			 'AL': 'DarkRed', 'RN': 'DeepPink', 'ES': 'FireBrick', 'PB': 'Indigo', 'AM': 'LawnGreen',
+			 'GO': 'LightSeaGreen', 'MA': 'MediumOrchid', 'SC': 'Olive', 'PA': 'Red', 'CE': 'SteelBlue', 
+			 'PR': 'Tomato', 'RS': 'Yellow', 'BA': 'Sienna', 'RJ': 'RoyalBlue', 'MG': 'Plum', 'SP': 'LimeGreen'};
 
 		var dataset = {};
 
@@ -96,7 +98,7 @@
 
 			    var size = (estado.populacao * TAMANHO_BARRA) / TAMANHO_BARRA_POP; // Calcula tamanho da barra em relação a população
 			    var yPos = 450 - size - 1;
-			    ctx.fillStyle = COLORS[i % QTD_ESTADOS]; // Escolhe a cor
+			    ctx.fillStyle = coresEstado[label]; // Escolhe a cor
 			    ctx.fillRect(xPos, yPos, barWidth, size); // Desenha a barra
 
 			    ctx.fillStyle = '#333'
