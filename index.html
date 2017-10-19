@@ -11,7 +11,9 @@
 </head>
 <body onload="draw()">
 	
-	<label id="anos-text">2008 </label> <input type="range" min="2001" max="2017" value="2008" class="slider" id="anos-range" onchange="mostraAnos()"> 
+	<label id="anos-text">2001 </label> 
+	<input type="range" min="2001" max="2017" value="2001" class="slider" id="anos-range" onchange="mostraAnos()">
+	<input type="checkbox" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
 
 	<br>
 
@@ -25,21 +27,24 @@
 		const PRIMEIRO_ANO = 2001;
 		const ULTIMO_ANO = 2017;
 		const TAMANHO_BARRA = 445;
-		const TAMANHO_BARRA_POP = 45000000; // 40 milhões é o tamanho máximo da barra em população
+		const TAMANHO_BARRA_POP = 47000000; // 40 milhões é o tamanho máximo da barra em população
 		const QTD_ESTADOS = 26;
 		const COLORS = ['Blue', 'BlueViolet', 'Brown', 'CadetBlue', 'Chartreuse', 'Chocolate', 'CornflowerBlue', 'Crimson', 'DarkGreen', 'DarkMagenta',
 						'DarkRed', 'DeepPink', 'FireBrick', 'Indigo', 'LawnGreen', 'LightSeaGreen', 'MediumOrchid', 'Olive', 'Red', 'SteelBlue',
 						'Tomato', 'Yellow', 'Sienna', 'RoyalBlue', 'Plum', 'LimeGreen'];
+		
+
+		const SLIDER_ANIM_TIMER = 300;
+
 		var dataset = {};
 
-		indexaCidades();
-
 		var ano_selecionado = 2008;
-		var rects = [] // Barras desenhadas para fazer o mouseover
 		var isDrawing = false;
 
 		var canvas = document.getElementById("canvas");
 		var ctx = canvas.getContext("2d");
+		var timerAnimacao = null;
+
 
 		function draw() {
 
@@ -85,7 +90,6 @@
 			var barWidth = (930 - barOffset * (QTD_ESTADOS + 1)) / QTD_ESTADOS - 1; // Calcula a largura da barra necessária
 			var xPos = 110 + barOffset;
 			var i = 0;
-			rects = [];
 			for (var label in estados){
 
 			    estado = estados[label];
@@ -94,7 +98,6 @@
 			    var yPos = 450 - size - 1;
 			    ctx.fillStyle = COLORS[i % QTD_ESTADOS]; // Escolhe a cor
 			    ctx.fillRect(xPos, yPos, barWidth, size); // Desenha a barra
-			    rects.push({x: xPos, y:yPos, w: barWidth, h: size});
 
 			    ctx.fillStyle = '#333'
 				ctx.font = "14px Arial";
@@ -141,45 +144,97 @@
 					dataset[j].estados[estado].cidades.push({'nome': nome, 'populacao': populacao}); // registra a cidade
 				}
 			}
-
-			console.log(dataset);
+			ordenaEstados(dataset);
 		}
 
-		canvas.onmousemove = function(e) {
+		
+		function comparaEstado(estadoA, estadoB) {
+			return estadoA.populacao - estadoB.populacao;
+		}
 
-			if (isDrawing)
-				return;
 
-		  	// Pega a posição do mouse
-		  	var rect = this.getBoundingClientRect(),
-		    x = e.clientX - rect.left,
-		    y = e.clientY - rect.top,
-		    i = 0, r;
+		function ordenaEstados(dataset) {
+			for (var ano in dataset) {
+				var anoSortable = [];
+				for (var estado in dataset[ano]["estados"]) {
+					anoSortable.push([estado,dataset[ano]["estados"][estado].populacao]);
+				}
+				anoSortable.sort(function(a, b) {
+					return a[1] - b[1];
+				});
+				//dataset[ano] 
+				var novoEstados = {};
+					
+				for (var estado in anoSortable) {
+					novoEstados[anoSortable[estado][0]] = dataset[ano]["estados"][anoSortable[estado][0]];
+				}
 
-		    canvas.style.cursor = "default";
+				dataset[ano]["estados"] = novoEstados;
 
-		    draw();
-		   
-			while(r = rects[i++]) {
+			}
+		}
 
-				// add a single rect to path:
-			    ctx.beginPath();
-			    ctx.rect(r.x, r.y, r.w, r.h); 
+		function desativarAnimacaoSlider() {
+			if (timerAnimacao != null) {
+				clearInterval(timerAnimacao);
+				timerAnimacao = null;
+			}
+		}
 
-				if (ctx.isPointInPath(x, y)) { // Se está em cima da barra
+		function getProximoAno() {
+			var slider = document.getElementById("anos-range");
+			var valor = parseInt(slider.value) + 1;
 
-					canvas.style.cursor = "pointer";				    
-				    ctx.strokeStyle = "black";
-				    ctx.lineWidth = 3;
-				    ctx.strokeRect(r.x, r.y, r.w, r.h);
-				} 
+			if (valor > slider.max) {
+				valor = slider.min;
+			}
 
-			  	ctx.closePath();
-			    
-			 }
+			return valor;
+		}
+
+		function getTotalAno(ano) {
+			var estados = dataset[ano]["estados"];
+			var valor = 0;
+			for (var estado in estados) {
+				valor += dataset[ano]["estados"][estado].populacao;
+			}
+			
+			return valor;
+		}
+
+		function ativarAnimacaoSlider(ativar) {	
+			if (ativar) {
+				if (timerAnimacao != null) {
+					desativarAnimacaoSlider();
+				}
+
+				timerAnimacao = setInterval(function() {
+					var slider = document.getElementById("anos-range");
+					var controle = true;
+					do {
+						var ano = getProximoAno();
+						slider.value = ano;
+
+						if (getTotalAno(ano) > 0) {
+							mostraAnos();
+							controle = false;
+						} 
+						
+					} while(controle);
+				}, SLIDER_ANIM_TIMER);
+			} else {
+				desativarAnimacaoSlider();	
+			}
+
+		}
+
+		window.onload = function() {
+			indexaCidades();
+			draw();
+
 		};
 
 	</script>
-	
+
 </body>
 </html>
