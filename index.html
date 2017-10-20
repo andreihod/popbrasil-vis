@@ -8,6 +8,29 @@
 
 	<link rel="stylesheet" href="style.css">
 
+</head>
+<body onload="draw()">
+
+	<div>
+	
+		<input type="range" min="2001" max="2017" value="2001" class="slider" id="anos-range" onchange="mostraAnos()">
+		<input type="checkbox" id="ativaAnimacao" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
+
+		<select name="animacao_velocidade" id="animacao_velocidade" onchange="trocaVelocidade()">
+			<option value="700">Lento</option>
+			<option value="600">Normal</option>
+			<option selected="selected" value="300">Rápido</option>
+		</select>
+
+	</div>
+
+	<br>
+
+	<canvas id="canvas" width="1080" height="540">
+		
+
+	</canvas>
+
 	<script>
 
 		const PRIMEIRO_ANO = 2001;
@@ -15,24 +38,30 @@
 		const TAMANHO_BARRA = 445;
 		const TAMANHO_BARRA_POP = 47000000; // 40 milhões é o tamanho máximo da barra em população
 		const QTD_ESTADOS = 26;
-		const COLORS = ['Blue', 'BlueViolet', 'Brown', 'CadetBlue', 'Chartreuse', 'Chocolate', 'CornflowerBlue', 'Crimson', 'DarkGreen', 'DarkMagenta',
-						'DarkRed', 'DeepPink', 'FireBrick', 'Indigo', 'LawnGreen', 'LightSeaGreen', 'MediumOrchid', 'Olive', 'Red', 'SteelBlue',
-						'Tomato', 'Yellow', 'Sienna', 'RoyalBlue', 'Plum', 'LimeGreen'];
-		
+		const GRID_SIZE = 35;
 
-		const SLIDER_ANIM_TIMER = 300;
+		var coresEstado = 
+			{'RR': 'Blue', 'AP': 'BlueViolet', 'AC': 'Brown', 'TO': 'CadetBlue', 'RO': 'Chartreuse',
+			 'SE': 'Chocolate', 'MS': 'CornflowerBlue', 'DF': 'Crimson', 'PI': 'DarkGreen', 'MT': 'DarkMagenta',
+			 'AL': 'DarkRed', 'RN': 'DeepPink', 'ES': 'FireBrick', 'PB': 'Indigo', 'AM': 'LawnGreen',
+			 'GO': 'LightSeaGreen', 'MA': 'MediumOrchid', 'SC': 'Olive', 'PA': 'Red', 'CE': 'SteelBlue', 
+			 'PR': 'Tomato', 'RS': 'Yellow', 'BA': 'Sienna', 'RJ': 'RoyalBlue', 'MG': 'Plum', 'SP': 'LimeGreen'};
 
 		var dataset = {};
 
-		var ano_selecionado = 2008;
-		var rects = [] // Barras desenhadas para fazer o mouseover
+		var ano_selecionado = 2001;
+		var animacaoSlider = 200;
+
+		var isDrawing = false;
+
+		var canvas = document.getElementById("canvas");
+		var ctx = canvas.getContext("2d");
 		var timerAnimacao = null;
 
 
 		function draw() {
 
-			var canvas = document.getElementById("canvas");
-			var ctx = canvas.getContext("2d");
+			isDrawing = true;
 
 			ctx.restore();
 			ctx.save();
@@ -45,9 +74,9 @@
 			widthOffset = width/2;
 			heightOffset = 20;
 
-			ctx.strokeStyle = "#000";
-			ctx.font = "bold 20px Arial";
-			
+			ctx.strokeStyle = "#e5e5e5";
+			ctx.font = "bold 18px Arial";
+
 			// Eixo y
 			ctx.moveTo(110, 5);
 			ctx.lineTo(110, 450);
@@ -55,40 +84,73 @@
 
 			// Eixo x
 			ctx.moveTo(110, 450);
-   			ctx.lineTo(1040, 450);
+   			ctx.lineTo(1056, 450);
    			ctx.stroke();
 
    			// Labels
 			ctx.fillText("Estados", widthOffset, height - heightOffset);
-			ctx.fillText("População", 3, height/2 - heightOffset);
+			ctx.fillText("População", 8, height/2 - heightOffset);
+			ctx.font = "normal 12px Arial";
+			ctx.fillText("(em milhões)", 8, height/2 - heightOffset + 20);
 
+			// Desenha o grid atrás das barras
+			// Linha
+			ctx.beginPath();
+			for (var i = 0; i < 450/GRID_SIZE; i++) {
+				ctx.moveTo(111, i * GRID_SIZE + 6);
+				ctx.lineTo(1056, i * GRID_SIZE + 6);
+				ctx.stroke();
+			}
+			// Coluna
+			for (var i = 1; i < 1040/GRID_SIZE; i++) {
+				ctx.moveTo(i * GRID_SIZE + 111, 6);
+				ctx.lineTo(i * GRID_SIZE + 111, 449);
+				ctx.stroke();
+			}
+			ctx.closePath();
+
+			ctx.fillStyle = '#666'
+			ctx.font = "bold 85px Arial";
+			ctx.fillText(ano_selecionado, 125, 80);
 			
 			ctx.strokeStyle = "#999";
-			ctx.font = "bold 14px Arial"
+			ctx.font = "bold 14px Arial";
 
 			// Desenha gráfico de estados do ano selecionado									
 			var estados = dataset[ano_selecionado].estados;
-			var barOffset = 12;
-			var barWidth = (930 - barOffset * (QTD_ESTADOS + 1)) / QTD_ESTADOS - 1;
+			var barOffset = 14; // Espaçamento das barras
+			// Calcula a largura da barra necessária
+			var barWidth = (946 - barOffset * (QTD_ESTADOS + 1)) / QTD_ESTADOS - 1; 
 			var xPos = 110 + barOffset;
 			var i = 0;
 			for (var label in estados){
+
 			    estado = estados[label];
-			    var size = (estado.populacao * TAMANHO_BARRA) / TAMANHO_BARRA_POP;
-			    ctx.fillStyle = COLORS[i % QTD_ESTADOS];
-			    ctx.fillRect(xPos, 450 - size - 1, barWidth, size);
-			    ctx.fillStyle = '#000'
-			    ctx.fillText(label, xPos, 465);
-			    ctx.fillText(parseInt(estado.populacao/1000000)+'M', xPos, 450 - size - 5);
+
+			    var size = (estado.populacao * TAMANHO_BARRA) / TAMANHO_BARRA_POP; // Calcula tamanho da barra em relação a população
+			    var yPos = 450 - size - 1;
+			    ctx.fillStyle = coresEstado[label]; // Escolhe a cor
+			    ctx.fillRect(xPos, yPos, barWidth, size); // Desenha a barra
+
+			    ctx.fillStyle = '#333';
+				ctx.font = "14px Arial";
+			    ctx.fillText(label, xPos, 465); // Label do estado no eixo X
+
+			    // Alinha a população no centro exato da barra
+			    var txt = parseFloat(estado.populacao/1000000).toFixed(2);
+			    var offsetTxt = (ctx.measureText(txt).width - barWidth) / 2;
+			    ctx.fillText(txt, xPos - offsetTxt, yPos- 5); // População em cima da barra
+
 			    xPos += barOffset + barWidth;
 			    i++;
 			}
+
+			isDrawing = false;
 
 		}
 
 		function mostraAnos () {
 			ano_selecionado = parseInt(document.getElementById("anos-range").value);
-			document.getElementById("anos-text").innerHTML = ano_selecionado;
 			draw();
 		}
 
@@ -191,11 +253,19 @@
 						} 
 						
 					} while(controle);
-				}, SLIDER_ANIM_TIMER);
+				}, animacaoSlider);
 			} else {
-				desativarAnimacaoSlider();	
+				desativarAnimacaoSlider();
 			}
 
+		}
+
+		function trocaVelocidade() {
+			animacaoSlider = document.getElementById("animacao_velocidade").value;
+			if (document.getElementById('ativaAnimacao').checked) {
+				desativarAnimacaoSlider();
+				ativarAnimacaoSlider(true)
+			}
 		}
 
 		window.onload = function() {
@@ -205,19 +275,6 @@
 		};
 
 	</script>
-</head>
-<body>
-	
-	<label id="anos-text">2008 </label> 
-	<input type="range" min="2001" max="2017" value="2008" class="slider" id="anos-range" onchange="mostraAnos()">
-	<input type="checkbox" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
 
-	<br>
-
-	<canvas id="canvas" width="1080" height="540">
-		
-
-	</canvas>
-	
 </body>
 </html>
