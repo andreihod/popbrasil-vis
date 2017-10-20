@@ -21,7 +21,7 @@
 			<option value="600">Normal</option>
 			<option selected="selected" value="300">Rápido</option>
 		</select>
-		
+
 	</div>
 
 	<br>
@@ -38,6 +38,7 @@
 		const TAMANHO_BARRA = 445;
 		const TAMANHO_BARRA_POP = 47000000; // 40 milhões é o tamanho máximo da barra em população
 		const QTD_ESTADOS = 26;
+		const GRID_SIZE = 35;
 
 		var coresEstado = 
 			{'RR': 'Blue', 'AP': 'BlueViolet', 'AC': 'Brown', 'TO': 'CadetBlue', 'RO': 'Chartreuse',
@@ -73,9 +74,9 @@
 			widthOffset = width/2;
 			heightOffset = 20;
 
-			ctx.strokeStyle = "#000";
+			ctx.strokeStyle = "#e5e5e5";
 			ctx.font = "bold 18px Arial";
-			
+
 			// Eixo y
 			ctx.moveTo(110, 5);
 			ctx.lineTo(110, 450);
@@ -83,7 +84,7 @@
 
 			// Eixo x
 			ctx.moveTo(110, 450);
-   			ctx.lineTo(1040, 450);
+   			ctx.lineTo(1056, 450);
    			ctx.stroke();
 
    			// Labels
@@ -92,10 +93,25 @@
 			ctx.font = "normal 12px Arial";
 			ctx.fillText("(em milhões)", 8, height/2 - heightOffset + 20);
 
-			ctx.fillStyle = '#999'
-			ctx.font = "bold 85px Arial";
-			ctx.fillText(ano_selecionado, 125, 70);
+			// Desenha o grid atrás das barras
+			// Linha
+			ctx.beginPath();
+			for (var i = 0; i < 450/GRID_SIZE; i++) {
+				ctx.moveTo(111, i * GRID_SIZE + 6);
+				ctx.lineTo(1056, i * GRID_SIZE + 6);
+				ctx.stroke();
+			}
+			// Coluna
+			for (var i = 1; i < 1040/GRID_SIZE; i++) {
+				ctx.moveTo(i * GRID_SIZE + 111, 6);
+				ctx.lineTo(i * GRID_SIZE + 111, 449);
+				ctx.stroke();
+			}
+			ctx.closePath();
 
+			ctx.fillStyle = '#666'
+			ctx.font = "bold 85px Arial";
+			ctx.fillText(ano_selecionado, 125, 80);
 			
 			ctx.strokeStyle = "#999";
 			ctx.font = "bold 14px Arial";
@@ -103,7 +119,8 @@
 			// Desenha gráfico de estados do ano selecionado									
 			var estados = dataset[ano_selecionado].estados;
 			var barOffset = 14; // Espaçamento das barras
-			var barWidth = (930 - barOffset * (QTD_ESTADOS + 1)) / QTD_ESTADOS - 1; // Calcula a largura da barra necessária
+			// Calcula a largura da barra necessária
+			var barWidth = (946 - barOffset * (QTD_ESTADOS + 1)) / QTD_ESTADOS - 1; 
 			var xPos = 110 + barOffset;
 			var i = 0;
 			for (var label in estados){
