@@ -9,28 +9,29 @@
 	<link rel="stylesheet" href="style.css">
 
 </head>
-<body onload="draw()">
-
-	<div>
-	
-		<input type="range" min="2001" max="2017" value="2001" class="slider" id="anos-range" onchange="mostraAnos()">
-		<input type="checkbox" id="ativaAnimacao" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Ativar Animação 
-
-		<select name="animacao_velocidade" id="animacao_velocidade" onchange="trocaVelocidade()">
-			<option value="700">Lento</option>
-			<option value="600">Normal</option>
-			<option selected="selected" value="300">Rápido</option>
-		</select>
-
-	</div>
-
-	<br>
-
-	<canvas id="canvas" width="1080" height="540">
+<body>
+	<div class="container">
+		<h2 class="titulo">População Brasileira</h2>
 		
+		<div class="controles">
+			<input type="range" min="2001" max="2017" value="2001" class="slider" id="anos-range" onchange="mostraAnos()">
+			<input type="checkbox" id="ativaAnimacao" name="ativaAnimacao" onchange="ativarAnimacaoSlider(this.checked)" value="S"> Animação 
 
-	</canvas>
+			<select name="animacao_velocidade" id="animacao_velocidade" onchange="trocaVelocidade()">
+				<option value="900">Lento</option>
+				<option value="600">Normal</option>
+				<option selected="selected" value="300">Rápido</option>
+			</select>
+		</div>
 
+		<br>
+
+		<canvas id="canvas" width="1080" height="540">
+			
+
+		</canvas>
+	</div>
+	
 	<script>
 
 		const PRIMEIRO_ANO = 2001;

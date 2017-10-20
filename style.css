@@ -7,3 +7,28 @@ canvas {
 #anos-text {
 	font-size: 44px;
 }
+body {
+	background-color: #45d1a9;
+}
+.container {
+	width: 1080px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+	border-radius: 5px;	
+	box-shadow: -5px 5px 5px #2d9678;
+}
+.controles {
+	position: absolute;
+	top: 16px;
+	left: 941px;
+	padding: 13px;
+	background-color: #42bddd;
+	border-radius: 5px;
+
+}
+.titulo {
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
