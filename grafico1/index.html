@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+
+</style>
+<h1>Produção de Maçã vs Área Colhida em SC</h1>
+<svg width="960" height="500"></svg>
+<script src="pxc.json"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+  console.log(prodmaca);
+
+  var svg = d3.select("svg"),
+    margin = {top: 20, right: 60, bottom: 30, left: 50},
+    width = +svg.attr("width") - margin.left - margin.right,
+    height = +svg.attr("height") - margin.top - margin.bottom,
+    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  var x = d3.scaleLinear()
+      .rangeRound([0, width]);
+
+  var y = d3.scaleLinear()
+      .rangeRound([height, 0]);
+
+  var y2 = d3.scaleLinear()
+      .rangeRound([height, 0]);
+
+  var line = d3.line()
+      .x(function(d) { return x(d.Ano); })
+      .y(function(d) { return y(d.AreaColhida); })
+      
+  var line2 = d3.line()
+      .x(function(d) { return x(d.Ano); })
+      .y(function(d) { return y2(d.Produzido); })
+
+  x.domain(d3.extent(prodmaca, function(d) { return d.Ano; }));
+  y.domain(d3.extent(prodmaca, function(d) { return d.AreaColhida; }));
+
+  y2.domain(d3.extent(prodmaca, function(d) { return d.Produzido; }));
+
+  g.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x))
+    .select(".domain")
+      .remove();
+
+  g.append("g")
+      .call(d3.axisLeft(y))
+    .append("text")
+      .attr("fill", "#000")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", "0.71em")
+      .attr("text-anchor", "end")
+      .text("Área Colhida");
+
+  g.append("g")      
+    .attr("transform", "translate(" + width + " ,0)")
+    .call(d3.axisRight(y2))
+    .append("text")
+      .attr("fill", "#000")
+      .attr("transform", "rotate(-90)")
+      .attr("y", -12)
+      .attr("dy", "0.71em")
+      .attr("text-anchor", "end")
+      .text("Produzido");
+
+  g.append("path")
+      .datum(prodmaca)
+      .attr("fill", "none")
+      .attr("stroke", "steelblue")
+      .attr("stroke-linejoin", "round")
+      .attr("stroke-linecap", "round")
+      .attr("stroke-width", 1.5)
+      .attr("d", line)
+    .append("text");
+
+  g.append("path")
+      .datum(prodmaca)
+      .attr("fill", "none")
+      .attr("stroke", "red")
+      .attr("stroke-linejoin", "round")
+      .attr("stroke-linecap", "round")
+      .attr("stroke-width", 1.5)
+      .attr("d", line2)
+    .append("text")
+
+
+</script>

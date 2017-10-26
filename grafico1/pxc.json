@@ -1,0 +1,219 @@
+prodmaca = [
+  {
+    "Ano": 1974,
+    "AreaColhida": 533,
+    "Produzido": 18293
+  },
+  {
+    "Ano": 1975,
+    "AreaColhida": 1327,
+    "Produzido": 54925
+  },
+  {
+    "Ano": 1976,
+    "AreaColhida": 1940,
+    "Produzido": 86908
+  },
+  {
+    "Ano": 1977,
+    "AreaColhida": 1916,
+    "Produzido": 82256
+  },
+  {
+    "Ano": 1978,
+    "AreaColhida": 2163,
+    "Produzido": 96204
+  },
+  {
+    "Ano": 1979,
+    "AreaColhida": 3077,
+    "Produzido": 141350
+  },
+  {
+    "Ano": 1980,
+    "AreaColhida": 3739,
+    "Produzido": 150542
+  },
+  {
+    "Ano": 1981,
+    "AreaColhida": 5182,
+    "Produzido": 301298
+  },
+  {
+    "Ano": 1982,
+    "AreaColhida": 6444,
+    "Produzido": 410479
+  },
+  {
+    "Ano": 1983,
+    "AreaColhida": 7652,
+    "Produzido": 359109
+  },
+  {
+    "Ano": 1984,
+    "AreaColhida": 9085,
+    "Produzido": 718314
+  },
+  {
+    "Ano": 1985,
+    "AreaColhida": 9396,
+    "Produzido": 804318
+  },
+  {
+    "Ano": 1986,
+    "AreaColhida": 10092,
+    "Produzido": 939148
+  },
+  {
+    "Ano": 1987,
+    "AreaColhida": 10808,
+    "Produzido": 900024
+  },
+  {
+    "Ano": 1988,
+    "AreaColhida": 11965,
+    "Produzido": 1110387
+  },
+  {
+    "Ano": 1989,
+    "AreaColhida": 10572,
+    "Produzido": 1252968
+  },
+  {
+    "Ano": 1990,
+    "AreaColhida": 11488,
+    "Produzido": 1519260
+  },
+  {
+    "Ano": 1991,
+    "AreaColhida": 12687,
+    "Produzido": 1248444
+  },
+  {
+    "Ano": 1992,
+    "AreaColhida": 11701,
+    "Produzido": 1601276
+  },
+  {
+    "Ano": 1993,
+    "AreaColhida": 12344,
+    "Produzido": 1896228
+  },
+  {
+    "Ano": 1994,
+    "AreaColhida": 13495,
+    "Produzido": 1489266
+  },
+  {
+    "Ano": 1995,
+    "AreaColhida": 13891,
+    "Produzido": 1649472
+  },
+  {
+    "Ano": 1996,
+    "AreaColhida": 13403,
+    "Produzido": 1993605
+  },
+  {
+    "Ano": 1997,
+    "AreaColhida": 13736,
+    "Produzido": 2230137
+  },
+  {
+    "Ano": 1998,
+    "AreaColhida": 13885,
+    "Produzido": 2163936
+  },
+  {
+    "Ano": 1999,
+    "AreaColhida": 13941,
+    "Produzido": 2230068
+  },
+  {
+    "Ano": 2000,
+    "AreaColhida": 14593,
+    "Produzido": 3000852
+  },
+  {
+    "Ano": 2001,
+    "AreaColhida": 15377,
+    "Produzido": 378748
+  },
+  {
+    "Ano": 2002,
+    "AreaColhida": 15907,
+    "Produzido": 474516
+  },
+  {
+    "Ano": 2003,
+    "AreaColhida": 16348,
+    "Produzido": 475095
+  },
+  {
+    "Ano": 2004,
+    "AreaColhida": 17644,
+    "Produzido": 583205
+  },
+  {
+    "Ano": 2005,
+    "AreaColhida": 18428,
+    "Produzido": 504994
+  },
+  {
+    "Ano": 2006,
+    "AreaColhida": 18721,
+    "Produzido": 496665
+  },
+  {
+    "Ano": 2007,
+    "AreaColhida": 19259,
+    "Produzido": 598680
+  },
+  {
+    "Ano": 2008,
+    "AreaColhida": 19638,
+    "Produzido": 562988
+  },
+  {
+    "Ano": 2009,
+    "AreaColhida": 19817,
+    "Produzido": 622501
+  },
+  {
+    "Ano": 2010,
+    "AreaColhida": 20014,
+    "Produzido": 680000
+  },
+  {
+    "Ano": 2011,
+    "AreaColhida": 18785,
+    "Produzido": 640676
+  },
+  {
+    "Ano": 2012,
+    "AreaColhida": 18708,
+    "Produzido": 659756
+  },
+  {
+    "Ano": 2013,
+    "AreaColhida": 18161,
+    "Produzido": 530725
+  },
+  {
+    "Ano": 2014,
+    "AreaColhida": 17735,
+    "Produzido": 633079
+  },
+  {
+    "Ano": 2015,
+    "AreaColhida": 17604,
+    "Produzido": 613828
+  },
+  {
+    "Ano": 2016,
+    "AreaColhida": 16916,
+    "Produzido": 525953
+  }
+]
+
+	
