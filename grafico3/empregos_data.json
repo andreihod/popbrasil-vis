@@ -1,0 +1,5765 @@
+[
+	{
+		"ANO": "2001",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.30"
+	},
+	{
+		"ANO": "2001",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2001",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.89"
+	},
+	{
+		"ANO": "2001",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.75"
+	},
+	{
+		"ANO": "2001",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.18"
+	},
+	{
+		"ANO": "2001",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2001",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.85"
+	},
+	{
+		"ANO": "2001",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.85"
+	},
+	{
+		"ANO": "2001",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.71"
+	},
+	{
+		"ANO": "2001",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2001",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.28"
+	},
+	{
+		"ANO": "2001",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.76"
+	},
+	{
+		"ANO": "2001",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.47"
+	},
+	{
+		"ANO": "2001",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.05"
+	},
+	{
+		"ANO": "2001",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.90"
+	},
+	{
+		"ANO": "2001",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.45"
+	},
+	{
+		"ANO": "2001",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.56"
+	},
+	{
+		"ANO": "2001",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.27"
+	},
+	{
+		"ANO": "2001",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.58"
+	},
+	{
+		"ANO": "2001",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.98"
+	},
+	{
+		"ANO": "2001",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.97"
+	},
+	{
+		"ANO": "2001",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.20"
+	},
+	{
+		"ANO": "2001",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.05"
+	},
+	{
+		"ANO": "2001",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.29"
+	},
+	{
+		"ANO": "2001",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.83"
+	},
+	{
+		"ANO": "2001",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.09"
+	},
+	{
+		"ANO": "2001",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.58"
+	},
+	{
+		"ANO": "2001",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.84"
+	},
+	{
+		"ANO": "2001",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2001",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.04"
+	},
+	{
+		"ANO": "2001",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.49"
+	},
+	{
+		"ANO": "2001",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.43"
+	},
+	{
+		"ANO": "2001",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.40"
+	},
+	{
+		"ANO": "2001",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.97"
+	},
+	{
+		"ANO": "2001",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2001",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.96"
+	},
+	{
+		"ANO": "2001",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2001",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.01"
+	},
+	{
+		"ANO": "2001",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.93"
+	},
+	{
+		"ANO": "2001",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.44"
+	},
+	{
+		"ANO": "2001",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.49"
+	},
+	{
+		"ANO": "2001",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.09"
+	},
+	{
+		"ANO": "2001",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.74"
+	},
+	{
+		"ANO": "2001",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.11"
+	},
+	{
+		"ANO": "2001",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.66"
+	},
+	{
+		"ANO": "2001",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.76"
+	},
+	{
+		"ANO": "2001",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.32"
+	},
+	{
+		"ANO": "2001",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.28"
+	},
+	{
+		"ANO": "2002",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.85"
+	},
+	{
+		"ANO": "2002",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.99"
+	},
+	{
+		"ANO": "2002",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.84"
+	},
+	{
+		"ANO": "2002",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2002",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.89"
+	},
+	{
+		"ANO": "2002",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2002",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.09"
+	},
+	{
+		"ANO": "2002",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.73"
+	},
+	{
+		"ANO": "2002",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2002",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2002",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.30"
+	},
+	{
+		"ANO": "2002",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.20"
+	},
+	{
+		"ANO": "2002",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.99"
+	},
+	{
+		"ANO": "2002",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.29"
+	},
+	{
+		"ANO": "2002",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.94"
+	},
+	{
+		"ANO": "2002",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.76"
+	},
+	{
+		"ANO": "2002",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.71"
+	},
+	{
+		"ANO": "2002",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.10"
+	},
+	{
+		"ANO": "2002",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.31"
+	},
+	{
+		"ANO": "2002",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.51"
+	},
+	{
+		"ANO": "2002",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.70"
+	},
+	{
+		"ANO": "2002",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.64"
+	},
+	{
+		"ANO": "2002",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.85"
+	},
+	{
+		"ANO": "2002",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.87"
+	},
+	{
+		"ANO": "2002",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.65"
+	},
+	{
+		"ANO": "2002",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.91"
+	},
+	{
+		"ANO": "2002",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.17"
+	},
+	{
+		"ANO": "2002",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2002",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.94"
+	},
+	{
+		"ANO": "2002",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.05"
+	},
+	{
+		"ANO": "2002",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.28"
+	},
+	{
+		"ANO": "2002",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.32"
+	},
+	{
+		"ANO": "2002",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.83"
+	},
+	{
+		"ANO": "2002",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.59"
+	},
+	{
+		"ANO": "2002",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.30"
+	},
+	{
+		"ANO": "2002",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.08"
+	},
+	{
+		"ANO": "2002",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.17"
+	},
+	{
+		"ANO": "2002",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.84"
+	},
+	{
+		"ANO": "2002",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.67"
+	},
+	{
+		"ANO": "2002",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.10"
+	},
+	{
+		"ANO": "2002",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.61"
+	},
+	{
+		"ANO": "2002",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.95"
+	},
+	{
+		"ANO": "2002",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2002",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.58"
+	},
+	{
+		"ANO": "2002",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.77"
+	},
+	{
+		"ANO": "2002",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.86"
+	},
+	{
+		"ANO": "2002",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.92"
+	},
+	{
+		"ANO": "2002",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.75"
+	},
+	{
+		"ANO": "2003",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2003",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.08"
+	},
+	{
+		"ANO": "2003",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.45"
+	},
+	{
+		"ANO": "2003",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.29"
+	},
+	{
+		"ANO": "2003",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.25"
+	},
+	{
+		"ANO": "2003",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.64"
+	},
+	{
+		"ANO": "2003",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.72"
+	},
+	{
+		"ANO": "2003",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.42"
+	},
+	{
+		"ANO": "2003",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.26"
+	},
+	{
+		"ANO": "2003",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.41"
+	},
+	{
+		"ANO": "2003",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.13"
+	},
+	{
+		"ANO": "2003",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.30"
+	},
+	{
+		"ANO": "2003",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.41"
+	},
+	{
+		"ANO": "2003",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.36"
+	},
+	{
+		"ANO": "2003",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.14"
+	},
+	{
+		"ANO": "2003",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2003",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.39"
+	},
+	{
+		"ANO": "2003",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2003",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.09"
+	},
+	{
+		"ANO": "2003",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.91"
+	},
+	{
+		"ANO": "2003",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.90"
+	},
+	{
+		"ANO": "2003",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.75"
+	},
+	{
+		"ANO": "2003",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.65"
+	},
+	{
+		"ANO": "2003",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.97"
+	},
+	{
+		"ANO": "2003",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.93"
+	},
+	{
+		"ANO": "2003",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2003",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.91"
+	},
+	{
+		"ANO": "2003",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.03"
+	},
+	{
+		"ANO": "2003",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.14"
+	},
+	{
+		"ANO": "2003",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.09"
+	},
+	{
+		"ANO": "2003",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.15"
+	},
+	{
+		"ANO": "2003",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.71"
+	},
+	{
+		"ANO": "2003",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.78"
+	},
+	{
+		"ANO": "2003",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.86"
+	},
+	{
+		"ANO": "2003",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.15"
+	},
+	{
+		"ANO": "2003",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.28"
+	},
+	{
+		"ANO": "2003",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2003",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.06"
+	},
+	{
+		"ANO": "2003",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.88"
+	},
+	{
+		"ANO": "2003",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.78"
+	},
+	{
+		"ANO": "2003",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.56"
+	},
+	{
+		"ANO": "2003",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.86"
+	},
+	{
+		"ANO": "2003",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.62"
+	},
+	{
+		"ANO": "2003",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.45"
+	},
+	{
+		"ANO": "2003",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.65"
+	},
+	{
+		"ANO": "2003",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2003",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.29"
+	},
+	{
+		"ANO": "2003",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.72"
+	},
+	{
+		"ANO": "2004",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.33"
+	},
+	{
+		"ANO": "2004",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.73"
+	},
+	{
+		"ANO": "2004",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2004",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.96"
+	},
+	{
+		"ANO": "2004",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.11"
+	},
+	{
+		"ANO": "2004",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.87"
+	},
+	{
+		"ANO": "2004",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.16"
+	},
+	{
+		"ANO": "2004",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.87"
+	},
+	{
+		"ANO": "2004",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.11"
+	},
+	{
+		"ANO": "2004",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.44"
+	},
+	{
+		"ANO": "2004",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.74"
+	},
+	{
+		"ANO": "2004",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2004",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2004",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2004",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.07"
+	},
+	{
+		"ANO": "2004",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.38"
+	},
+	{
+		"ANO": "2004",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.28"
+	},
+	{
+		"ANO": "2004",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.77"
+	},
+	{
+		"ANO": "2004",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.89"
+	},
+	{
+		"ANO": "2004",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.10"
+	},
+	{
+		"ANO": "2004",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.44"
+	},
+	{
+		"ANO": "2004",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.70"
+	},
+	{
+		"ANO": "2004",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2004",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2004",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.27"
+	},
+	{
+		"ANO": "2004",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.69"
+	},
+	{
+		"ANO": "2004",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2004",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.98"
+	},
+	{
+		"ANO": "2004",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.81"
+	},
+	{
+		"ANO": "2004",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.76"
+	},
+	{
+		"ANO": "2004",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.82"
+	},
+	{
+		"ANO": "2004",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.58"
+	},
+	{
+		"ANO": "2004",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.85"
+	},
+	{
+		"ANO": "2004",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.69"
+	},
+	{
+		"ANO": "2004",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2004",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.37"
+	},
+	{
+		"ANO": "2004",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.19"
+	},
+	{
+		"ANO": "2004",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.45"
+	},
+	{
+		"ANO": "2004",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.64"
+	},
+	{
+		"ANO": "2004",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.86"
+	},
+	{
+		"ANO": "2004",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.68"
+	},
+	{
+		"ANO": "2004",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.87"
+	},
+	{
+		"ANO": "2004",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.47"
+	},
+	{
+		"ANO": "2004",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.19"
+	},
+	{
+		"ANO": "2004",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.80"
+	},
+	{
+		"ANO": "2004",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2004",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.78"
+	},
+	{
+		"ANO": "2004",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.82"
+	},
+	{
+		"ANO": "2005",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.28"
+	},
+	{
+		"ANO": "2005",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.01"
+	},
+	{
+		"ANO": "2005",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.99"
+	},
+	{
+		"ANO": "2005",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.30"
+	},
+	{
+		"ANO": "2005",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.19"
+	},
+	{
+		"ANO": "2005",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2005",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2005",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.64"
+	},
+	{
+		"ANO": "2005",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.74"
+	},
+	{
+		"ANO": "2005",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2005",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.43"
+	},
+	{
+		"ANO": "2005",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.28"
+	},
+	{
+		"ANO": "2005",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.86"
+	},
+	{
+		"ANO": "2005",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.97"
+	},
+	{
+		"ANO": "2005",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.96"
+	},
+	{
+		"ANO": "2005",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.00"
+	},
+	{
+		"ANO": "2005",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.76"
+	},
+	{
+		"ANO": "2005",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.12"
+	},
+	{
+		"ANO": "2005",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.34"
+	},
+	{
+		"ANO": "2005",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.64"
+	},
+	{
+		"ANO": "2005",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.98"
+	},
+	{
+		"ANO": "2005",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.13"
+	},
+	{
+		"ANO": "2005",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.28"
+	},
+	{
+		"ANO": "2005",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.93"
+	},
+	{
+		"ANO": "2005",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.78"
+	},
+	{
+		"ANO": "2005",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.04"
+	},
+	{
+		"ANO": "2005",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2005",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.97"
+	},
+	{
+		"ANO": "2005",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2005",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.19"
+	},
+	{
+		"ANO": "2005",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.38"
+	},
+	{
+		"ANO": "2005",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.07"
+	},
+	{
+		"ANO": "2005",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.61"
+	},
+	{
+		"ANO": "2005",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.72"
+	},
+	{
+		"ANO": "2005",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.02"
+	},
+	{
+		"ANO": "2005",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.89"
+	},
+	{
+		"ANO": "2005",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.79"
+	},
+	{
+		"ANO": "2005",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.69"
+	},
+	{
+		"ANO": "2005",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.50"
+	},
+	{
+		"ANO": "2005",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.79"
+	},
+	{
+		"ANO": "2005",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.40"
+	},
+	{
+		"ANO": "2005",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.30"
+	},
+	{
+		"ANO": "2005",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.69"
+	},
+	{
+		"ANO": "2005",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.96"
+	},
+	{
+		"ANO": "2005",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.78"
+	},
+	{
+		"ANO": "2005",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2005",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.62"
+	},
+	{
+		"ANO": "2005",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.14"
+	},
+	{
+		"ANO": "2006",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.17"
+	},
+	{
+		"ANO": "2006",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.32"
+	},
+	{
+		"ANO": "2006",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2006",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2006",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2006",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.42"
+	},
+	{
+		"ANO": "2006",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.11"
+	},
+	{
+		"ANO": "2006",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.41"
+	},
+	{
+		"ANO": "2006",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.88"
+	},
+	{
+		"ANO": "2006",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.91"
+	},
+	{
+		"ANO": "2006",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.83"
+	},
+	{
+		"ANO": "2006",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.78"
+	},
+	{
+		"ANO": "2006",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.78"
+	},
+	{
+		"ANO": "2006",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2006",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.34"
+	},
+	{
+		"ANO": "2006",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.60"
+	},
+	{
+		"ANO": "2006",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.64"
+	},
+	{
+		"ANO": "2006",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.08"
+	},
+	{
+		"ANO": "2006",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2006",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.37"
+	},
+	{
+		"ANO": "2006",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.23"
+	},
+	{
+		"ANO": "2006",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.98"
+	},
+	{
+		"ANO": "2006",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2006",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2006",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.99"
+	},
+	{
+		"ANO": "2006",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.95"
+	},
+	{
+		"ANO": "2006",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.17"
+	},
+	{
+		"ANO": "2006",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.52"
+	},
+	{
+		"ANO": "2006",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.37"
+	},
+	{
+		"ANO": "2006",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2006",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.00"
+	},
+	{
+		"ANO": "2006",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.02"
+	},
+	{
+		"ANO": "2006",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.73"
+	},
+	{
+		"ANO": "2006",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.87"
+	},
+	{
+		"ANO": "2006",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.63"
+	},
+	{
+		"ANO": "2006",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2006",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.23"
+	},
+	{
+		"ANO": "2006",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.98"
+	},
+	{
+		"ANO": "2006",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2006",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.02"
+	},
+	{
+		"ANO": "2006",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.65"
+	},
+	{
+		"ANO": "2006",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.13"
+	},
+	{
+		"ANO": "2006",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.04"
+	},
+	{
+		"ANO": "2006",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.02"
+	},
+	{
+		"ANO": "2006",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.85"
+	},
+	{
+		"ANO": "2006",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2006",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.79"
+	},
+	{
+		"ANO": "2006",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.51"
+	},
+	{
+		"ANO": "2007",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2007",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.14"
+	},
+	{
+		"ANO": "2007",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2007",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.48"
+	},
+	{
+		"ANO": "2007",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.68"
+	},
+	{
+		"ANO": "2007",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.48"
+	},
+	{
+		"ANO": "2007",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.46"
+	},
+	{
+		"ANO": "2007",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2007",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.11"
+	},
+	{
+		"ANO": "2007",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.51"
+	},
+	{
+		"ANO": "2007",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.29"
+	},
+	{
+		"ANO": "2007",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.72"
+	},
+	{
+		"ANO": "2007",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.19"
+	},
+	{
+		"ANO": "2007",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.31"
+	},
+	{
+		"ANO": "2007",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.97"
+	},
+	{
+		"ANO": "2007",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.20"
+	},
+	{
+		"ANO": "2007",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.99"
+	},
+	{
+		"ANO": "2007",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2007",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.54"
+	},
+	{
+		"ANO": "2007",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.94"
+	},
+	{
+		"ANO": "2007",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2007",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.21"
+	},
+	{
+		"ANO": "2007",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.43"
+	},
+	{
+		"ANO": "2007",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.38"
+	},
+	{
+		"ANO": "2007",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.55"
+	},
+	{
+		"ANO": "2007",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.28"
+	},
+	{
+		"ANO": "2007",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2007",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2007",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2007",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2007",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.90"
+	},
+	{
+		"ANO": "2007",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.85"
+	},
+	{
+		"ANO": "2007",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.12"
+	},
+	{
+		"ANO": "2007",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.71"
+	},
+	{
+		"ANO": "2007",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.18"
+	},
+	{
+		"ANO": "2007",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.19"
+	},
+	{
+		"ANO": "2007",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.39"
+	},
+	{
+		"ANO": "2007",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.05"
+	},
+	{
+		"ANO": "2007",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.89"
+	},
+	{
+		"ANO": "2007",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.26"
+	},
+	{
+		"ANO": "2007",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2007",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.15"
+	},
+	{
+		"ANO": "2007",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.73"
+	},
+	{
+		"ANO": "2007",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.32"
+	},
+	{
+		"ANO": "2007",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.04"
+	},
+	{
+		"ANO": "2007",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.90"
+	},
+	{
+		"ANO": "2007",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.63"
+	},
+	{
+		"ANO": "2007",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2008",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2008",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.42"
+	},
+	{
+		"ANO": "2008",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.80"
+	},
+	{
+		"ANO": "2008",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.10"
+	},
+	{
+		"ANO": "2008",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.00"
+	},
+	{
+		"ANO": "2008",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.70"
+	},
+	{
+		"ANO": "2008",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.36"
+	},
+	{
+		"ANO": "2008",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.23"
+	},
+	{
+		"ANO": "2008",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.97"
+	},
+	{
+		"ANO": "2008",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.70"
+	},
+	{
+		"ANO": "2008",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.38"
+	},
+	{
+		"ANO": "2008",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.12"
+	},
+	{
+		"ANO": "2008",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.27"
+	},
+	{
+		"ANO": "2008",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.76"
+	},
+	{
+		"ANO": "2008",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.98"
+	},
+	{
+		"ANO": "2008",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.96"
+	},
+	{
+		"ANO": "2008",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.66"
+	},
+	{
+		"ANO": "2008",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.34"
+	},
+	{
+		"ANO": "2008",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2008",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2008",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.80"
+	},
+	{
+		"ANO": "2008",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.28"
+	},
+	{
+		"ANO": "2008",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.29"
+	},
+	{
+		"ANO": "2008",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.56"
+	},
+	{
+		"ANO": "2008",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.94"
+	},
+	{
+		"ANO": "2008",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2008",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.73"
+	},
+	{
+		"ANO": "2008",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2008",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.87"
+	},
+	{
+		"ANO": "2008",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.67"
+	},
+	{
+		"ANO": "2008",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.13"
+	},
+	{
+		"ANO": "2008",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2008",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.60"
+	},
+	{
+		"ANO": "2008",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.61"
+	},
+	{
+		"ANO": "2008",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.94"
+	},
+	{
+		"ANO": "2008",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.68"
+	},
+	{
+		"ANO": "2008",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2008",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.66"
+	},
+	{
+		"ANO": "2008",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.84"
+	},
+	{
+		"ANO": "2008",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.97"
+	},
+	{
+		"ANO": "2008",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.60"
+	},
+	{
+		"ANO": "2008",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.79"
+	},
+	{
+		"ANO": "2008",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.44"
+	},
+	{
+		"ANO": "2008",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.90"
+	},
+	{
+		"ANO": "2008",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.41"
+	},
+	{
+		"ANO": "2008",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.70"
+	},
+	{
+		"ANO": "2008",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.24"
+	},
+	{
+		"ANO": "2008",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.48"
+	},
+	{
+		"ANO": "2009",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.56"
+	},
+	{
+		"ANO": "2009",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.60"
+	},
+	{
+		"ANO": "2009",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.51"
+	},
+	{
+		"ANO": "2009",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.54"
+	},
+	{
+		"ANO": "2009",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.76"
+	},
+	{
+		"ANO": "2009",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.08"
+	},
+	{
+		"ANO": "2009",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.19"
+	},
+	{
+		"ANO": "2009",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.65"
+	},
+	{
+		"ANO": "2009",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.62"
+	},
+	{
+		"ANO": "2009",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.48"
+	},
+	{
+		"ANO": "2009",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.81"
+	},
+	{
+		"ANO": "2009",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.57"
+	},
+	{
+		"ANO": "2009",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.54"
+	},
+	{
+		"ANO": "2009",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.79"
+	},
+	{
+		"ANO": "2009",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.33"
+	},
+	{
+		"ANO": "2009",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.61"
+	},
+	{
+		"ANO": "2009",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.32"
+	},
+	{
+		"ANO": "2009",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.36"
+	},
+	{
+		"ANO": "2009",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.54"
+	},
+	{
+		"ANO": "2009",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.15"
+	},
+	{
+		"ANO": "2009",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2009",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.37"
+	},
+	{
+		"ANO": "2009",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.84"
+	},
+	{
+		"ANO": "2009",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.80"
+	},
+	{
+		"ANO": "2009",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.27"
+	},
+	{
+		"ANO": "2009",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.36"
+	},
+	{
+		"ANO": "2009",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.81"
+	},
+	{
+		"ANO": "2009",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.26"
+	},
+	{
+		"ANO": "2009",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.69"
+	},
+	{
+		"ANO": "2009",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2009",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.28"
+	},
+	{
+		"ANO": "2009",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2009",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.41"
+	},
+	{
+		"ANO": "2009",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.01"
+	},
+	{
+		"ANO": "2009",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.05"
+	},
+	{
+		"ANO": "2009",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.79"
+	},
+	{
+		"ANO": "2009",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.70"
+	},
+	{
+		"ANO": "2009",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.88"
+	},
+	{
+		"ANO": "2009",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.81"
+	},
+	{
+		"ANO": "2009",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.30"
+	},
+	{
+		"ANO": "2009",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.33"
+	},
+	{
+		"ANO": "2009",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.94"
+	},
+	{
+		"ANO": "2009",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.15"
+	},
+	{
+		"ANO": "2009",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.75"
+	},
+	{
+		"ANO": "2009",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.02"
+	},
+	{
+		"ANO": "2009",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.22"
+	},
+	{
+		"ANO": "2009",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.90"
+	},
+	{
+		"ANO": "2009",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.78"
+	},
+	{
+		"ANO": "2010",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.86"
+	},
+	{
+		"ANO": "2010",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.12"
+	},
+	{
+		"ANO": "2010",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.33"
+	},
+	{
+		"ANO": "2010",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.95"
+	},
+	{
+		"ANO": "2010",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.88"
+	},
+	{
+		"ANO": "2010",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.40"
+	},
+	{
+		"ANO": "2010",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.32"
+	},
+	{
+		"ANO": "2010",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.12"
+	},
+	{
+		"ANO": "2010",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.01"
+	},
+	{
+		"ANO": "2010",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.30"
+	},
+	{
+		"ANO": "2010",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.55"
+	},
+	{
+		"ANO": "2010",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.47"
+	},
+	{
+		"ANO": "2010",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.53"
+	},
+	{
+		"ANO": "2010",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.68"
+	},
+	{
+		"ANO": "2010",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.63"
+	},
+	{
+		"ANO": "2010",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.14"
+	},
+	{
+		"ANO": "2010",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.35"
+	},
+	{
+		"ANO": "2010",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2010",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.89"
+	},
+	{
+		"ANO": "2010",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.35"
+	},
+	{
+		"ANO": "2010",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.97"
+	},
+	{
+		"ANO": "2010",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.43"
+	},
+	{
+		"ANO": "2010",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.04"
+	},
+	{
+		"ANO": "2010",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.99"
+	},
+	{
+		"ANO": "2010",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.79"
+	},
+	{
+		"ANO": "2010",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.43"
+	},
+	{
+		"ANO": "2010",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.39"
+	},
+	{
+		"ANO": "2010",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.00"
+	},
+	{
+		"ANO": "2010",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.94"
+	},
+	{
+		"ANO": "2010",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2010",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.38"
+	},
+	{
+		"ANO": "2010",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.04"
+	},
+	{
+		"ANO": "2010",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.38"
+	},
+	{
+		"ANO": "2010",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.47"
+	},
+	{
+		"ANO": "2010",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.28"
+	},
+	{
+		"ANO": "2010",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.58"
+	},
+	{
+		"ANO": "2010",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.44"
+	},
+	{
+		"ANO": "2010",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.42"
+	},
+	{
+		"ANO": "2010",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.06"
+	},
+	{
+		"ANO": "2010",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.35"
+	},
+	{
+		"ANO": "2010",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.94"
+	},
+	{
+		"ANO": "2010",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.58"
+	},
+	{
+		"ANO": "2010",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.74"
+	},
+	{
+		"ANO": "2010",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2010",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.20"
+	},
+	{
+		"ANO": "2010",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.27"
+	},
+	{
+		"ANO": "2010",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.16"
+	},
+	{
+		"ANO": "2010",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.22"
+	},
+	{
+		"ANO": "2011",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.49"
+	},
+	{
+		"ANO": "2011",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.44"
+	},
+	{
+		"ANO": "2011",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.75"
+	},
+	{
+		"ANO": "2011",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.27"
+	},
+	{
+		"ANO": "2011",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.16"
+	},
+	{
+		"ANO": "2011",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.68"
+	},
+	{
+		"ANO": "2011",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.65"
+	},
+	{
+		"ANO": "2011",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.74"
+	},
+	{
+		"ANO": "2011",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.23"
+	},
+	{
+		"ANO": "2011",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.08"
+	},
+	{
+		"ANO": "2011",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.72"
+	},
+	{
+		"ANO": "2011",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "5.00"
+	},
+	{
+		"ANO": "2011",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.19"
+	},
+	{
+		"ANO": "2011",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.96"
+	},
+	{
+		"ANO": "2011",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.29"
+	},
+	{
+		"ANO": "2011",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "5.06"
+	},
+	{
+		"ANO": "2011",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.10"
+	},
+	{
+		"ANO": "2011",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2011",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.36"
+	},
+	{
+		"ANO": "2011",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.17"
+	},
+	{
+		"ANO": "2011",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.52"
+	},
+	{
+		"ANO": "2011",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.47"
+	},
+	{
+		"ANO": "2011",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.66"
+	},
+	{
+		"ANO": "2011",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.48"
+	},
+	{
+		"ANO": "2011",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2011",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2011",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.11"
+	},
+	{
+		"ANO": "2011",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.66"
+	},
+	{
+		"ANO": "2011",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.12"
+	},
+	{
+		"ANO": "2011",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.70"
+	},
+	{
+		"ANO": "2011",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.11"
+	},
+	{
+		"ANO": "2011",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.89"
+	},
+	{
+		"ANO": "2011",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.94"
+	},
+	{
+		"ANO": "2011",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2011",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.56"
+	},
+	{
+		"ANO": "2011",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.67"
+	},
+	{
+		"ANO": "2011",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2011",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.43"
+	},
+	{
+		"ANO": "2011",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2011",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.89"
+	},
+	{
+		"ANO": "2011",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.84"
+	},
+	{
+		"ANO": "2011",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.68"
+	},
+	{
+		"ANO": "2011",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.13"
+	},
+	{
+		"ANO": "2011",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.74"
+	},
+	{
+		"ANO": "2011",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.95"
+	},
+	{
+		"ANO": "2011",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.78"
+	},
+	{
+		"ANO": "2011",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.30"
+	},
+	{
+		"ANO": "2011",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.88"
+	},
+	{
+		"ANO": "2012",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2012",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.40"
+	},
+	{
+		"ANO": "2012",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.20"
+	},
+	{
+		"ANO": "2012",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.10"
+	},
+	{
+		"ANO": "2012",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2012",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.55"
+	},
+	{
+		"ANO": "2012",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.43"
+	},
+	{
+		"ANO": "2012",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.10"
+	},
+	{
+		"ANO": "2012",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.98"
+	},
+	{
+		"ANO": "2012",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.26"
+	},
+	{
+		"ANO": "2012",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.01"
+	},
+	{
+		"ANO": "2012",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.45"
+	},
+	{
+		"ANO": "2012",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.96"
+	},
+	{
+		"ANO": "2012",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2012",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.09"
+	},
+	{
+		"ANO": "2012",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.15"
+	},
+	{
+		"ANO": "2012",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.79"
+	},
+	{
+		"ANO": "2012",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.67"
+	},
+	{
+		"ANO": "2012",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.54"
+	},
+	{
+		"ANO": "2012",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.23"
+	},
+	{
+		"ANO": "2012",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.37"
+	},
+	{
+		"ANO": "2012",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2012",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.93"
+	},
+	{
+		"ANO": "2012",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.66"
+	},
+	{
+		"ANO": "2012",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.52"
+	},
+	{
+		"ANO": "2012",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.26"
+	},
+	{
+		"ANO": "2012",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.73"
+	},
+	{
+		"ANO": "2012",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.62"
+	},
+	{
+		"ANO": "2012",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.71"
+	},
+	{
+		"ANO": "2012",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2012",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.34"
+	},
+	{
+		"ANO": "2012",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.05"
+	},
+	{
+		"ANO": "2012",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.65"
+	},
+	{
+		"ANO": "2012",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.07"
+	},
+	{
+		"ANO": "2012",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.80"
+	},
+	{
+		"ANO": "2012",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.52"
+	},
+	{
+		"ANO": "2012",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2012",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.22"
+	},
+	{
+		"ANO": "2012",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.34"
+	},
+	{
+		"ANO": "2012",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.95"
+	},
+	{
+		"ANO": "2012",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.82"
+	},
+	{
+		"ANO": "2012",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.30"
+	},
+	{
+		"ANO": "2012",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.08"
+	},
+	{
+		"ANO": "2012",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.77"
+	},
+	{
+		"ANO": "2012",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.73"
+	},
+	{
+		"ANO": "2012",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.03"
+	},
+	{
+		"ANO": "2012",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.79"
+	},
+	{
+		"ANO": "2012",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.62"
+	},
+	{
+		"ANO": "2013",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2013",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.32"
+	},
+	{
+		"ANO": "2013",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.79"
+	},
+	{
+		"ANO": "2013",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.12"
+	},
+	{
+		"ANO": "2013",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.62"
+	},
+	{
+		"ANO": "2013",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.60"
+	},
+	{
+		"ANO": "2013",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.67"
+	},
+	{
+		"ANO": "2013",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.26"
+	},
+	{
+		"ANO": "2013",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.07"
+	},
+	{
+		"ANO": "2013",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.74"
+	},
+	{
+		"ANO": "2013",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.31"
+	},
+	{
+		"ANO": "2013",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.34"
+	},
+	{
+		"ANO": "2013",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.30"
+	},
+	{
+		"ANO": "2013",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.83"
+	},
+	{
+		"ANO": "2013",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.54"
+	},
+	{
+		"ANO": "2013",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.37"
+	},
+	{
+		"ANO": "2013",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.53"
+	},
+	{
+		"ANO": "2013",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2013",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.47"
+	},
+	{
+		"ANO": "2013",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.64"
+	},
+	{
+		"ANO": "2013",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.23"
+	},
+	{
+		"ANO": "2013",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.28"
+	},
+	{
+		"ANO": "2013",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2013",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.80"
+	},
+	{
+		"ANO": "2013",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.29"
+	},
+	{
+		"ANO": "2013",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.48"
+	},
+	{
+		"ANO": "2013",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.18"
+	},
+	{
+		"ANO": "2013",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.34"
+	},
+	{
+		"ANO": "2013",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.12"
+	},
+	{
+		"ANO": "2013",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.45"
+	},
+	{
+		"ANO": "2013",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.63"
+	},
+	{
+		"ANO": "2013",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.89"
+	},
+	{
+		"ANO": "2013",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2013",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.02"
+	},
+	{
+		"ANO": "2013",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.15"
+	},
+	{
+		"ANO": "2013",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.59"
+	},
+	{
+		"ANO": "2013",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.35"
+	},
+	{
+		"ANO": "2013",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.11"
+	},
+	{
+		"ANO": "2013",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.92"
+	},
+	{
+		"ANO": "2013",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.07"
+	},
+	{
+		"ANO": "2013",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.46"
+	},
+	{
+		"ANO": "2013",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.13"
+	},
+	{
+		"ANO": "2013",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.86"
+	},
+	{
+		"ANO": "2013",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.58"
+	},
+	{
+		"ANO": "2013",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.52"
+	},
+	{
+		"ANO": "2013",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.04"
+	},
+	{
+		"ANO": "2013",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.44"
+	},
+	{
+		"ANO": "2013",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.82"
+	},
+	{
+		"ANO": "2014",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.45"
+	},
+	{
+		"ANO": "2014",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.03"
+	},
+	{
+		"ANO": "2014",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.88"
+	},
+	{
+		"ANO": "2014",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.83"
+	},
+	{
+		"ANO": "2014",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.82"
+	},
+	{
+		"ANO": "2014",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.46"
+	},
+	{
+		"ANO": "2014",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "5.57"
+	},
+	{
+		"ANO": "2014",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.45"
+	},
+	{
+		"ANO": "2014",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2014",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.45"
+	},
+	{
+		"ANO": "2014",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.39"
+	},
+	{
+		"ANO": "2014",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.86"
+	},
+	{
+		"ANO": "2014",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.66"
+	},
+	{
+		"ANO": "2014",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.71"
+	},
+	{
+		"ANO": "2014",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "4.24"
+	},
+	{
+		"ANO": "2014",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.90"
+	},
+	{
+		"ANO": "2014",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.10"
+	},
+	{
+		"ANO": "2014",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2014",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.97"
+	},
+	{
+		"ANO": "2014",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.08"
+	},
+	{
+		"ANO": "2014",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.70"
+	},
+	{
+		"ANO": "2014",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.08"
+	},
+	{
+		"ANO": "2014",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.50"
+	},
+	{
+		"ANO": "2014",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.86"
+	},
+	{
+		"ANO": "2014",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.76"
+	},
+	{
+		"ANO": "2014",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.22"
+	},
+	{
+		"ANO": "2014",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.31"
+	},
+	{
+		"ANO": "2014",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.74"
+	},
+	{
+		"ANO": "2014",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.97"
+	},
+	{
+		"ANO": "2014",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.26"
+	},
+	{
+		"ANO": "2014",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.62"
+	},
+	{
+		"ANO": "2014",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.73"
+	},
+	{
+		"ANO": "2014",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.10"
+	},
+	{
+		"ANO": "2014",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.96"
+	},
+	{
+		"ANO": "2014",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.48"
+	},
+	{
+		"ANO": "2014",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.76"
+	},
+	{
+		"ANO": "2014",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.80"
+	},
+	{
+		"ANO": "2014",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.22"
+	},
+	{
+		"ANO": "2014",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.57"
+	},
+	{
+		"ANO": "2014",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.46"
+	},
+	{
+		"ANO": "2014",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.28"
+	},
+	{
+		"ANO": "2014",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.24"
+	},
+	{
+		"ANO": "2014",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.83"
+	},
+	{
+		"ANO": "2014",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.84"
+	},
+	{
+		"ANO": "2014",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.32"
+	},
+	{
+		"ANO": "2014",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.25"
+	},
+	{
+		"ANO": "2014",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.59"
+	},
+	{
+		"ANO": "2014",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "4.09"
+	},
+	{
+		"ANO": "2015",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.89"
+	},
+	{
+		"ANO": "2015",
+		"MES": "janeiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.70"
+	},
+	{
+		"ANO": "2015",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "janeiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.09"
+	},
+	{
+		"ANO": "2015",
+		"MES": "fevereiro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.14"
+	},
+	{
+		"ANO": "2015",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "fevereiro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.00"
+	},
+	{
+		"ANO": "2015",
+		"MES": "março",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.30"
+	},
+	{
+		"ANO": "2015",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "março",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "3.10"
+	},
+	{
+		"ANO": "2015",
+		"MES": "abril",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.50"
+	},
+	{
+		"ANO": "2015",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "abril",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.14"
+	},
+	{
+		"ANO": "2015",
+		"MES": "maio",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.16"
+	},
+	{
+		"ANO": "2015",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "maio",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.95"
+	},
+	{
+		"ANO": "2015",
+		"MES": "junho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.92"
+	},
+	{
+		"ANO": "2015",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "junho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.10"
+	},
+	{
+		"ANO": "2015",
+		"MES": "julho",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.78"
+	},
+	{
+		"ANO": "2015",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "julho",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.00"
+	},
+	{
+		"ANO": "2015",
+		"MES": "agosto",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.65"
+	},
+	{
+		"ANO": "2015",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "agosto",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "2.25"
+	},
+	{
+		"ANO": "2015",
+		"MES": "setembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.29"
+	},
+	{
+		"ANO": "2015",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "setembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.80"
+	},
+	{
+		"ANO": "2015",
+		"MES": "outubro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.44"
+	},
+	{
+		"ANO": "2015",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "outubro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "1.54"
+	},
+	{
+		"ANO": "2015",
+		"MES": "novembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "2.60"
+	},
+	{
+		"ANO": "2015",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "novembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "0.96"
+	},
+	{
+		"ANO": "2015",
+		"MES": "dezembro",
+		"REGIAO": "Brasil",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "3.43"
+	},
+	{
+		"ANO": "2015",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de admissão (%)",
+		"VAR_CODIGO": "TX_ADM",
+		"PERC": "..."
+	},
+	{
+		"ANO": "2015",
+		"MES": "dezembro",
+		"REGIAO": "Santa Catarina",
+		"VARIAVEL": "Taxa de desligamento (%)",
+		"VAR_CODIGO": "TX_DESL",
+		"PERC": "..."
+	},
+	{
+		"ANO": ""
+	}
+]
