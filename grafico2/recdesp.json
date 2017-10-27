@@ -1,0 +1,7429 @@
+[
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 827981,
+    "DESPESA": 772853,
+    "RELACAO": "6,66"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 571318,
+    "DESPESA": 541349,
+    "RELACAO": "5,25"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 571318,
+    "DESPESA": 541349,
+    "RELACAO": "5,25"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "07 Extração de minerais metálicos",
+    "RECEITA": 6058,
+    "DESPESA": 2525,
+    "RELACAO": "58,32"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "07.2 Extração de minerais metálicos não-ferrosos",
+    "RECEITA": 6058,
+    "DESPESA": 2525,
+    "RELACAO": "58,32"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 250605,
+    "DESPESA": 228979,
+    "RELACAO": "8,63"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 166876,
+    "DESPESA": 142401,
+    "RELACAO": "14,67"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 83729,
+    "DESPESA": 86577,
+    "RELACAO": "-3,40"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 64411000,
+    "DESPESA": 59184893,
+    "RELACAO": "8,11"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 11919818,
+    "DESPESA": 13437602,
+    "RELACAO": "-12,73"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 5726398,
+    "DESPESA": 6525893,
+    "RELACAO": "-13,96"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 668414,
+    "DESPESA": 642827,
+    "RELACAO": "3,83"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 185569,
+    "DESPESA": 187832,
+    "RELACAO": "-1,22"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 657944,
+    "DESPESA": 577235,
+    "RELACAO": "12,27"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 1195669,
+    "DESPESA": 971612,
+    "RELACAO": "18,74"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 2579034,
+    "DESPESA": 3649367,
+    "RELACAO": "-41,50"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 4311,
+    "DESPESA": 3997,
+    "RELACAO": "7,28"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 12352,
+    "DESPESA": 10677,
+    "RELACAO": "13,56"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 890126,
+    "DESPESA": 868164,
+    "RELACAO": "2,47"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 857336,
+    "DESPESA": 590966,
+    "RELACAO": "31,07"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 543565,
+    "DESPESA": 370650,
+    "RELACAO": "31,81"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 313771,
+    "DESPESA": 220316,
+    "RELACAO": "29,78"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 2882045,
+    "DESPESA": 921723,
+    "RELACAO": "68,02"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 2880713,
+    "DESPESA": 917260,
+    "RELACAO": "68,16"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 1332,
+    "DESPESA": 4463,
+    "RELACAO": "-235,06"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 4496218,
+    "DESPESA": 4487631,
+    "RELACAO": "0,19"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 493890,
+    "DESPESA": 496388,
+    "RELACAO": "-0,51"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 1754852,
+    "DESPESA": 1750488,
+    "RELACAO": "0,25"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 872687,
+    "DESPESA": 860099,
+    "RELACAO": "1,44"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 519100,
+    "DESPESA": 592732,
+    "RELACAO": "-14,18"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 855688,
+    "DESPESA": 787924,
+    "RELACAO": "7,92"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 4772185,
+    "DESPESA": 4182159,
+    "RELACAO": "12,36"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 4710219,
+    "DESPESA": 4122170,
+    "RELACAO": "12,48"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 61966,
+    "DESPESA": 59989,
+    "RELACAO": "3,19"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 646212,
+    "DESPESA": 640168,
+    "RELACAO": "0,94"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 202184,
+    "DESPESA": 200118,
+    "RELACAO": "1,02"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 42952,
+    "DESPESA": 38088,
+    "RELACAO": "11,32"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 354912,
+    "DESPESA": 349602,
+    "RELACAO": "1,50"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 46163,
+    "DESPESA": 52360,
+    "RELACAO": "-13,42"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 2404167,
+    "DESPESA": 2328042,
+    "RELACAO": "3,17"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 824907,
+    "DESPESA": 781694,
+    "RELACAO": "5,24"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 1579260,
+    "DESPESA": 1546348,
+    "RELACAO": "2,08"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 3563025,
+    "DESPESA": 3248465,
+    "RELACAO": "8,83"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 9722,
+    "DESPESA": 15194,
+    "RELACAO": "-56,28"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 1011592,
+    "DESPESA": 1220877,
+    "RELACAO": "-20,69"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1415947,
+    "DESPESA": 1161348,
+    "RELACAO": "17,98"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1125765,
+    "DESPESA": 851047,
+    "RELACAO": "24,40"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 379760,
+    "DESPESA": 268351,
+    "RELACAO": "29,34"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 331868,
+    "DESPESA": 229879,
+    "RELACAO": "30,73"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 50171,
+    "DESPESA": 50116,
+    "RELACAO": "0,11"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 1987179,
+    "DESPESA": 1790273,
+    "RELACAO": "9,91"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 367856,
+    "DESPESA": 336107,
+    "RELACAO": "8,63"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 321040,
+    "DESPESA": 276822,
+    "RELACAO": "13,77"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 27342,
+    "DESPESA": 24675,
+    "RELACAO": "9,75"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 74264,
+    "DESPESA": 76601,
+    "RELACAO": "-3,15"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 882746,
+    "DESPESA": 812464,
+    "RELACAO": "7,96"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 278122,
+    "DESPESA": 229254,
+    "RELACAO": "17,57"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 97650,
+    "DESPESA": 143683,
+    "RELACAO": "-47,14"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 4065046,
+    "DESPESA": 3901081,
+    "RELACAO": "4,03"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 354941,
+    "DESPESA": 308298,
+    "RELACAO": "13,14"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 3710105,
+    "DESPESA": 3592782,
+    "RELACAO": "3,16"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 2509672,
+    "DESPESA": 2427190,
+    "RELACAO": "3,29"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 252291,
+    "DESPESA": 276464,
+    "RELACAO": "-9,58"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 120023,
+    "DESPESA": 48300,
+    "RELACAO": "59,76"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 515243,
+    "DESPESA": 474282,
+    "RELACAO": "7,95"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 1503324,
+    "DESPESA": 1509028,
+    "RELACAO": "-0,38"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 118791,
+    "DESPESA": 119116,
+    "RELACAO": "-0,27"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 3555913,
+    "DESPESA": 3195688,
+    "RELACAO": "10,13"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 1960582,
+    "DESPESA": 1721487,
+    "RELACAO": "12,20"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "24.3 Produção de tubos de aço, exceto tubos sem costura",
+    "RECEITA": 507530,
+    "DESPESA": 546624,
+    "RELACAO": "-7,70"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 205549,
+    "DESPESA": 140371,
+    "RELACAO": "31,71"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 882251,
+    "DESPESA": 787206,
+    "RELACAO": "10,77"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 2776347,
+    "DESPESA": 2414198,
+    "RELACAO": "13,04"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 530838,
+    "DESPESA": 496458,
+    "RELACAO": "6,48"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 173139,
+    "DESPESA": 127320,
+    "RELACAO": "26,46"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 619510,
+    "DESPESA": 458587,
+    "RELACAO": "25,98"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 186680,
+    "DESPESA": 167435,
+    "RELACAO": "10,31"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1266180,
+    "DESPESA": 1164397,
+    "RELACAO": "8,04"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 804762,
+    "DESPESA": 699436,
+    "RELACAO": "13,09"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 44069,
+    "DESPESA": 36053,
+    "RELACAO": "18,19"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 46056,
+    "DESPESA": 37615,
+    "RELACAO": "18,33"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 198128,
+    "DESPESA": 178451,
+    "RELACAO": "9,93"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 41460,
+    "DESPESA": 33936,
+    "RELACAO": "18,15"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 472009,
+    "DESPESA": 411373,
+    "RELACAO": "12,85"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 5794482,
+    "DESPESA": 4623056,
+    "RELACAO": "20,22"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 2545708,
+    "DESPESA": 2164168,
+    "RELACAO": "14,99"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 23263,
+    "DESPESA": 21609,
+    "RELACAO": "7,11"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 434502,
+    "DESPESA": 286692,
+    "RELACAO": "34,02"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 47180,
+    "DESPESA": 44769,
+    "RELACAO": "5,11"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 2564709,
+    "DESPESA": 1968310,
+    "RELACAO": "23,25"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 179122,
+    "DESPESA": 137507,
+    "RELACAO": "23,23"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 4972034,
+    "DESPESA": 4352961,
+    "RELACAO": "12,45"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2117851,
+    "DESPESA": 1898402,
+    "RELACAO": "10,36"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 909060,
+    "DESPESA": 687915,
+    "RELACAO": "24,33"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 609935,
+    "DESPESA": 560498,
+    "RELACAO": "8,11"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 279998,
+    "DESPESA": 252505,
+    "RELACAO": "9,82"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 158203,
+    "DESPESA": 148855,
+    "RELACAO": "5,91"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 896987,
+    "DESPESA": 804786,
+    "RELACAO": "10,28"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 2955948,
+    "DESPESA": 2616800,
+    "RELACAO": "11,47"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 762825,
+    "DESPESA": 640918,
+    "RELACAO": "15,98"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 2157231,
+    "DESPESA": 1943268,
+    "RELACAO": "9,92"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 35892,
+    "DESPESA": 32614,
+    "RELACAO": "9,13"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 324539,
+    "DESPESA": 464947,
+    "RELACAO": "-43,26"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 227122,
+    "DESPESA": 371143,
+    "RELACAO": "-63,41"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 1459951,
+    "DESPESA": 1440845,
+    "RELACAO": "1,31"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 1459951,
+    "DESPESA": 1440845,
+    "RELACAO": "1,31"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 840808,
+    "DESPESA": 749013,
+    "RELACAO": "10,92"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 8724,
+    "DESPESA": 2647,
+    "RELACAO": "69,66"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 57505,
+    "DESPESA": 50340,
+    "RELACAO": "12,46"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 495199,
+    "DESPESA": 446611,
+    "RELACAO": "9,81"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 264583,
+    "DESPESA": 236094,
+    "RELACAO": "10,77"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 295732,
+    "DESPESA": 210500,
+    "RELACAO": "28,82"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 250615,
+    "DESPESA": 172657,
+    "RELACAO": "31,11"
+  },
+  {
+    "ANO": 2007,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 45117,
+    "DESPESA": 37843,
+    "RELACAO": "16,12"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1074499,
+    "DESPESA": 1025969,
+    "RELACAO": "4,52"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 707391,
+    "DESPESA": 688441,
+    "RELACAO": "2,68"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 707391,
+    "DESPESA": 688441,
+    "RELACAO": "2,68"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "07 Extração de minerais metálicos",
+    "RECEITA": 7019,
+    "DESPESA": 8099,
+    "RELACAO": "-15,39"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "07.2 Extração de minerais metálicos não-ferrosos",
+    "RECEITA": 7019,
+    "DESPESA": 8099,
+    "RELACAO": "-15,39"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 360088,
+    "DESPESA": 329429,
+    "RELACAO": "8,51"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 272989,
+    "DESPESA": 230508,
+    "RELACAO": "15,56"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 87100,
+    "DESPESA": 98921,
+    "RELACAO": "-13,57"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 73686456,
+    "DESPESA": 67979978,
+    "RELACAO": "7,74"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 14706757,
+    "DESPESA": 16981919,
+    "RELACAO": "-15,47"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 7298742,
+    "DESPESA": 9538905,
+    "RELACAO": "-30,69"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 669700,
+    "DESPESA": 675861,
+    "RELACAO": "-0,92"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 241798,
+    "DESPESA": 151294,
+    "RELACAO": "37,43"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 936734,
+    "DESPESA": 1114931,
+    "RELACAO": "-19,02"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 1470135,
+    "DESPESA": 1247178,
+    "RELACAO": "15,17"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 3153916,
+    "DESPESA": 3252650,
+    "RELACAO": "-3,13"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 771,
+    "DESPESA": 291,
+    "RELACAO": "62,26"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 26473,
+    "DESPESA": 30388,
+    "RELACAO": "-14,79"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 908488,
+    "DESPESA": 970422,
+    "RELACAO": "-6,82"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 982962,
+    "DESPESA": 601753,
+    "RELACAO": "38,78"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 674087,
+    "DESPESA": 389441,
+    "RELACAO": "42,23"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 308875,
+    "DESPESA": 212312,
+    "RELACAO": "31,26"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 3255855,
+    "DESPESA": 960664,
+    "RELACAO": "70,49"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 3255112,
+    "DESPESA": 954742,
+    "RELACAO": "70,67"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 743,
+    "DESPESA": 5922,
+    "RELACAO": "-697,04"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 4983021,
+    "DESPESA": 4941472,
+    "RELACAO": "0,83"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 527204,
+    "DESPESA": 517152,
+    "RELACAO": "1,91"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 1780734,
+    "DESPESA": 1782290,
+    "RELACAO": "-0,09"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 1009727,
+    "DESPESA": 949589,
+    "RELACAO": "5,96"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 643598,
+    "DESPESA": 709461,
+    "RELACAO": "-10,23"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 1021758,
+    "DESPESA": 982980,
+    "RELACAO": "3,80"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 5206921,
+    "DESPESA": 4814051,
+    "RELACAO": "7,55"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 5131471,
+    "DESPESA": 4740051,
+    "RELACAO": "7,63"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 75450,
+    "DESPESA": 74000,
+    "RELACAO": "1,92"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 652441,
+    "DESPESA": 621706,
+    "RELACAO": "4,71"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 193985,
+    "DESPESA": 174778,
+    "RELACAO": "9,90"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 45837,
+    "DESPESA": 39886,
+    "RELACAO": "12,98"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 372552,
+    "DESPESA": 362959,
+    "RELACAO": "2,57"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 40067,
+    "DESPESA": 44083,
+    "RELACAO": "-10,02"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 2020519,
+    "DESPESA": 1991848,
+    "RELACAO": "1,42"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 610094,
+    "DESPESA": 679059,
+    "RELACAO": "-11,30"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 1410426,
+    "DESPESA": 1312789,
+    "RELACAO": "6,92"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 3935943,
+    "DESPESA": 3244278,
+    "RELACAO": "17,57"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 9397,
+    "DESPESA": 14251,
+    "RELACAO": "-51,65"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 1064159,
+    "DESPESA": 1248616,
+    "RELACAO": "-17,33"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1530172,
+    "DESPESA": 1264131,
+    "RELACAO": "17,39"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1332215,
+    "DESPESA": 717279,
+    "RELACAO": "46,16"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 319973,
+    "DESPESA": 261943,
+    "RELACAO": "18,14"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 265444,
+    "DESPESA": 215176,
+    "RELACAO": "18,94"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 99623,
+    "DESPESA": 92465,
+    "RELACAO": "7,19"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 2457477,
+    "DESPESA": 2218387,
+    "RELACAO": "9,73"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 467469,
+    "DESPESA": 442317,
+    "RELACAO": "5,38"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 368156,
+    "DESPESA": 311873,
+    "RELACAO": "15,29"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 19886,
+    "DESPESA": 17928,
+    "RELACAO": "9,85"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 118828,
+    "DESPESA": 113528,
+    "RELACAO": "4,46"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1032057,
+    "DESPESA": 912710,
+    "RELACAO": "11,56"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 400437,
+    "DESPESA": 371853,
+    "RELACAO": "7,14"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 430580,
+    "DESPESA": 427105,
+    "RELACAO": "0,81"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "21.1 Fabricação de produtos farmoquímicos",
+    "RECEITA": 16798,
+    "DESPESA": 6982,
+    "RELACAO": "58,44"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "21.2 Fabricação de produtos farmacêuticos",
+    "RECEITA": 413782,
+    "DESPESA": 420123,
+    "RELACAO": "-1,53"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 4346577,
+    "DESPESA": 4169776,
+    "RELACAO": "4,07"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 349000,
+    "DESPESA": 263624,
+    "RELACAO": "24,46"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 3997576,
+    "DESPESA": 3906152,
+    "RELACAO": "2,29"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 3042708,
+    "DESPESA": 2833253,
+    "RELACAO": "6,88"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 251312,
+    "DESPESA": 240947,
+    "RELACAO": "4,12"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 175581,
+    "DESPESA": 149182,
+    "RELACAO": "15,04"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 710808,
+    "DESPESA": 683051,
+    "RELACAO": "3,90"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 1789974,
+    "DESPESA": 1646551,
+    "RELACAO": "8,01"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 115033,
+    "DESPESA": 113524,
+    "RELACAO": "1,31"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 3977537,
+    "DESPESA": 3578716,
+    "RELACAO": "10,03"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 1980184,
+    "DESPESA": 1691699,
+    "RELACAO": "14,57"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "24.3 Produção de tubos de aço, exceto tubos sem costura",
+    "RECEITA": 722686,
+    "DESPESA": 704295,
+    "RELACAO": "2,54"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 254313,
+    "DESPESA": 226436,
+    "RELACAO": "10,96"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1020355,
+    "DESPESA": 956287,
+    "RELACAO": "6,28"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 3428072,
+    "DESPESA": 2974242,
+    "RELACAO": "13,24"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 778983,
+    "DESPESA": 667937,
+    "RELACAO": "14,26"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 212626,
+    "DESPESA": 185292,
+    "RELACAO": "12,86"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 592909,
+    "DESPESA": 501374,
+    "RELACAO": "15,44"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 268552,
+    "DESPESA": 237449,
+    "RELACAO": "11,58"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1575003,
+    "DESPESA": 1382190,
+    "RELACAO": "12,24"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 1134211,
+    "DESPESA": 995277,
+    "RELACAO": "12,25"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 53000,
+    "DESPESA": 41865,
+    "RELACAO": "21,01"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 313723,
+    "DESPESA": 255159,
+    "RELACAO": "18,67"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 43091,
+    "DESPESA": 36388,
+    "RELACAO": "15,56"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 670899,
+    "DESPESA": 614006,
+    "RELACAO": "8,48"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "26.6 Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação",
+    "RECEITA": 4425,
+    "DESPESA": 2155,
+    "RELACAO": "51,30"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 6401313,
+    "DESPESA": 5027338,
+    "RELACAO": "21,46"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 3180848,
+    "DESPESA": 2462841,
+    "RELACAO": "22,57"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 38262,
+    "DESPESA": 38463,
+    "RELACAO": "-0,53"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 647533,
+    "DESPESA": 587514,
+    "RELACAO": "9,27"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 45029,
+    "DESPESA": 42859,
+    "RELACAO": "4,82"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 2434058,
+    "DESPESA": 1852780,
+    "RELACAO": "23,88"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 55583,
+    "DESPESA": 42881,
+    "RELACAO": "22,85"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 5524360,
+    "DESPESA": 4894483,
+    "RELACAO": "11,40"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2120197,
+    "DESPESA": 1935399,
+    "RELACAO": "8,72"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 799714,
+    "DESPESA": 689877,
+    "RELACAO": "13,73"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 787139,
+    "DESPESA": 697287,
+    "RELACAO": "11,42"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 263816,
+    "DESPESA": 236260,
+    "RELACAO": "10,45"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 225711,
+    "DESPESA": 211113,
+    "RELACAO": "6,47"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1327783,
+    "DESPESA": 1124547,
+    "RELACAO": "15,31"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 3798378,
+    "DESPESA": 3422206,
+    "RELACAO": "9,90"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 892672,
+    "DESPESA": 815133,
+    "RELACAO": "8,69"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 2869161,
+    "DESPESA": 2574929,
+    "RELACAO": "10,25"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 559261,
+    "DESPESA": 738963,
+    "RELACAO": "-32,13"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 415969,
+    "DESPESA": 606267,
+    "RELACAO": "-45,75"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 1447987,
+    "DESPESA": 1349611,
+    "RELACAO": "6,79"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 1447987,
+    "DESPESA": 1349611,
+    "RELACAO": "6,79"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 579585,
+    "DESPESA": 527078,
+    "RELACAO": "9,06"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 6515,
+    "DESPESA": 6015,
+    "RELACAO": "7,67"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 49449,
+    "DESPESA": 43489,
+    "RELACAO": "12,05"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 230553,
+    "DESPESA": 228645,
+    "RELACAO": "0,83"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 273122,
+    "DESPESA": 233109,
+    "RELACAO": "14,65"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 394391,
+    "DESPESA": 311446,
+    "RELACAO": "21,03"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 341979,
+    "DESPESA": 269069,
+    "RELACAO": "21,32"
+  },
+  {
+    "ANO": 2008,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 52413,
+    "DESPESA": 42377,
+    "RELACAO": "19,15"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1021735,
+    "DESPESA": 883058,
+    "RELACAO": "13,57"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 660976,
+    "DESPESA": 572637,
+    "RELACAO": "13,36"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 660976,
+    "DESPESA": 572637,
+    "RELACAO": "13,36"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 346204,
+    "DESPESA": 303137,
+    "RELACAO": "12,44"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 247381,
+    "DESPESA": 199846,
+    "RELACAO": "19,22"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 98823,
+    "DESPESA": 103290,
+    "RELACAO": "-4,52"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 74149084,
+    "DESPESA": 66580992,
+    "RELACAO": "10,21"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 14697358,
+    "DESPESA": 15649194,
+    "RELACAO": "-6,48"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 6629874,
+    "DESPESA": 8074224,
+    "RELACAO": "-21,79"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 783944,
+    "DESPESA": 729736,
+    "RELACAO": "6,91"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 131152,
+    "DESPESA": 129568,
+    "RELACAO": "1,21"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 972140,
+    "DESPESA": 958782,
+    "RELACAO": "1,37"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 1690919,
+    "DESPESA": 1455311,
+    "RELACAO": "13,93"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 3302067,
+    "DESPESA": 3213664,
+    "RELACAO": "2,68"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 1175570,
+    "DESPESA": 1078014,
+    "RELACAO": "8,30"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 1163797,
+    "DESPESA": 661736,
+    "RELACAO": "43,14"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 777026,
+    "DESPESA": 420039,
+    "RELACAO": "45,94"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 386771,
+    "DESPESA": 241697,
+    "RELACAO": "37,51"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 3709887,
+    "DESPESA": 1128592,
+    "RELACAO": "69,58"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 3709419,
+    "DESPESA": 1122024,
+    "RELACAO": "69,75"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 467,
+    "DESPESA": 6569,
+    "RELACAO": "-1306,64"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 5742050,
+    "DESPESA": 5634038,
+    "RELACAO": "1,88"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 537239,
+    "DESPESA": 507891,
+    "RELACAO": "5,46"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 1780986,
+    "DESPESA": 1753643,
+    "RELACAO": "1,54"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 1523172,
+    "DESPESA": 1497228,
+    "RELACAO": "1,70"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 741816,
+    "DESPESA": 813984,
+    "RELACAO": "-9,73"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 1158837,
+    "DESPESA": 1061292,
+    "RELACAO": "8,42"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 5817187,
+    "DESPESA": 5071594,
+    "RELACAO": "12,82"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 5748725,
+    "DESPESA": 5005322,
+    "RELACAO": "12,93"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 68462,
+    "DESPESA": 66273,
+    "RELACAO": "3,20"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 492928,
+    "DESPESA": 450213,
+    "RELACAO": "8,67"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 103218,
+    "DESPESA": 84401,
+    "RELACAO": "18,23"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 30426,
+    "DESPESA": 27519,
+    "RELACAO": "9,55"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 314490,
+    "DESPESA": 292664,
+    "RELACAO": "6,94"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 44794,
+    "DESPESA": 45629,
+    "RELACAO": "-1,86"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 2009667,
+    "DESPESA": 1978939,
+    "RELACAO": "1,53"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 603115,
+    "DESPESA": 582632,
+    "RELACAO": "3,40"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 1406552,
+    "DESPESA": 1396307,
+    "RELACAO": "0,73"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 3370329,
+    "DESPESA": 3244858,
+    "RELACAO": "3,72"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 7696,
+    "DESPESA": 10898,
+    "RELACAO": "-41,61"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 1310880,
+    "DESPESA": 1223607,
+    "RELACAO": "6,66"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1558709,
+    "DESPESA": 1432948,
+    "RELACAO": "8,07"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 493043,
+    "DESPESA": 577405,
+    "RELACAO": "-17,11"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 355943,
+    "DESPESA": 291240,
+    "RELACAO": "18,18"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 266577,
+    "DESPESA": 223074,
+    "RELACAO": "16,32"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "18.2 Serviços de pré-impressão e acabamentos gráficos",
+    "RECEITA": 89366,
+    "DESPESA": 68166,
+    "RELACAO": "23,72"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 85649,
+    "DESPESA": 77987,
+    "RELACAO": "8,95"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "19.1 Coquerias",
+    "RECEITA": 82165,
+    "DESPESA": 74629,
+    "RELACAO": "9,17"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 2380476,
+    "DESPESA": 2179311,
+    "RELACAO": "8,45"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 558306,
+    "DESPESA": 537066,
+    "RELACAO": "3,80"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 147744,
+    "DESPESA": 123664,
+    "RELACAO": "16,30"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 18126,
+    "DESPESA": 18231,
+    "RELACAO": "-0,58"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 26086,
+    "DESPESA": 14592,
+    "RELACAO": "44,06"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 32348,
+    "DESPESA": 31633,
+    "RELACAO": "2,21"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 177361,
+    "DESPESA": 156996,
+    "RELACAO": "11,48"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1000735,
+    "DESPESA": 933932,
+    "RELACAO": "6,68"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 419770,
+    "DESPESA": 363198,
+    "RELACAO": "13,48"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 489797,
+    "DESPESA": 390551,
+    "RELACAO": "20,26"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 4437659,
+    "DESPESA": 4047077,
+    "RELACAO": "8,80"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 335405,
+    "DESPESA": 254776,
+    "RELACAO": "24,04"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 4102254,
+    "DESPESA": 3792301,
+    "RELACAO": "7,56"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 3142789,
+    "DESPESA": 2806143,
+    "RELACAO": "10,71"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 222323,
+    "DESPESA": 233320,
+    "RELACAO": "-4,95"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 204995,
+    "DESPESA": 156341,
+    "RELACAO": "23,73"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 840618,
+    "DESPESA": 659334,
+    "RELACAO": "21,57"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 1752901,
+    "DESPESA": 1654274,
+    "RELACAO": "5,63"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 121953,
+    "DESPESA": 102874,
+    "RELACAO": "15,64"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 4420676,
+    "DESPESA": 3519712,
+    "RELACAO": "20,38"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 2308254,
+    "DESPESA": 1343260,
+    "RELACAO": "41,81"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "24.3 Produção de tubos de aço, exceto tubos sem costura",
+    "RECEITA": 617600,
+    "DESPESA": 648857,
+    "RELACAO": "-5,06"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 700365,
+    "DESPESA": 747972,
+    "RELACAO": "-6,80"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 794457,
+    "DESPESA": 779624,
+    "RELACAO": "1,87"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 2787183,
+    "DESPESA": 2561477,
+    "RELACAO": "8,10"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 620662,
+    "DESPESA": 593231,
+    "RELACAO": "4,42"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 205273,
+    "DESPESA": 194976,
+    "RELACAO": "5,02"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 463791,
+    "DESPESA": 418856,
+    "RELACAO": "9,69"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 226842,
+    "DESPESA": 195023,
+    "RELACAO": "14,03"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1270614,
+    "DESPESA": 1159392,
+    "RELACAO": "8,75"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 1115864,
+    "DESPESA": 1009610,
+    "RELACAO": "9,52"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 39734,
+    "DESPESA": 34202,
+    "RELACAO": "13,92"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 92707,
+    "DESPESA": 81987,
+    "RELACAO": "11,56"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 264437,
+    "DESPESA": 274312,
+    "RELACAO": "-3,73"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 49022,
+    "DESPESA": 39280,
+    "RELACAO": "19,87"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 664970,
+    "DESPESA": 575338,
+    "RELACAO": "13,48"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.6 Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação",
+    "RECEITA": 3884,
+    "DESPESA": 2725,
+    "RELACAO": "29,84"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "26.7 Fabricação de equipamentos e instrumentos ópticos, fotográficos e cinematográficos",
+    "RECEITA": 1109,
+    "DESPESA": 1766,
+    "RELACAO": "-59,24"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 7131246,
+    "DESPESA": 5851728,
+    "RELACAO": "17,94"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 2958861,
+    "DESPESA": 2400615,
+    "RELACAO": "18,87"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 59846,
+    "DESPESA": 30451,
+    "RELACAO": "49,12"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 467991,
+    "DESPESA": 389493,
+    "RELACAO": "16,77"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 67142,
+    "DESPESA": 57687,
+    "RELACAO": "14,08"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 3524564,
+    "DESPESA": 2928974,
+    "RELACAO": "16,90"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 52843,
+    "DESPESA": 44506,
+    "RELACAO": "15,78"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 4908449,
+    "DESPESA": 4539642,
+    "RELACAO": "7,51"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2167690,
+    "DESPESA": 2180305,
+    "RELACAO": "-0,58"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 767674,
+    "DESPESA": 615958,
+    "RELACAO": "19,76"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 754832,
+    "DESPESA": 633785,
+    "RELACAO": "16,04"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 198642,
+    "DESPESA": 174380,
+    "RELACAO": "12,21"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 209049,
+    "DESPESA": 203866,
+    "RELACAO": "2,48"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 810564,
+    "DESPESA": 731347,
+    "RELACAO": "9,77"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 2678508,
+    "DESPESA": 2646523,
+    "RELACAO": "1,19"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "29.1 Fabricação de automóveis, camionetas e utilitários",
+    "RECEITA": 922,
+    "DESPESA": 22786,
+    "RELACAO": "-2371,37"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 508820,
+    "DESPESA": 551985,
+    "RELACAO": "-8,48"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 2131345,
+    "DESPESA": 2038779,
+    "RELACAO": "4,34"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 37421,
+    "DESPESA": 32974,
+    "RELACAO": "11,88"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 761608,
+    "DESPESA": 750462,
+    "RELACAO": "1,46"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 624429,
+    "DESPESA": 621307,
+    "RELACAO": "0,50"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "30.9 Fabricação de equipamentos de transporte não especificados anteriormente",
+    "RECEITA": 137179,
+    "DESPESA": 129155,
+    "RELACAO": "5,85"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 1518355,
+    "DESPESA": 1313461,
+    "RELACAO": "13,49"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 1518355,
+    "DESPESA": 1313461,
+    "RELACAO": "13,49"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 538904,
+    "DESPESA": 491283,
+    "RELACAO": "8,84"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 18067,
+    "DESPESA": 14349,
+    "RELACAO": "20,58"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 53097,
+    "DESPESA": 48367,
+    "RELACAO": "8,91"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 202398,
+    "DESPESA": 185723,
+    "RELACAO": "8,24"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 256830,
+    "DESPESA": 234529,
+    "RELACAO": "8,68"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 392776,
+    "DESPESA": 285619,
+    "RELACAO": "27,28"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 349787,
+    "DESPESA": 253580,
+    "RELACAO": "27,50"
+  },
+  {
+    "ANO": 2009,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 42988,
+    "DESPESA": 32040,
+    "RELACAO": "25,47"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1115378,
+    "DESPESA": 950220,
+    "RELACAO": "14,81"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 633310,
+    "DESPESA": 568062,
+    "RELACAO": "10,30"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 633310,
+    "DESPESA": 568062,
+    "RELACAO": "10,30"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 439274,
+    "DESPESA": 349682,
+    "RELACAO": "20,40"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 269421,
+    "DESPESA": 199238,
+    "RELACAO": "26,05"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 169853,
+    "DESPESA": 150444,
+    "RELACAO": "11,43"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 90513245,
+    "DESPESA": 78889156,
+    "RELACAO": "12,84"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 17544407,
+    "DESPESA": 16535139,
+    "RELACAO": "5,75"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 8866381,
+    "DESPESA": 8710959,
+    "RELACAO": "1,75"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 1045473,
+    "DESPESA": 992123,
+    "RELACAO": "5,10"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 181132,
+    "DESPESA": 173097,
+    "RELACAO": "4,44"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 973553,
+    "DESPESA": 1016760,
+    "RELACAO": "-4,44"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 2082327,
+    "DESPESA": 1700435,
+    "RELACAO": "18,34"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 3015253,
+    "DESPESA": 2615878,
+    "RELACAO": "13,25"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 53687,
+    "DESPESA": 37694,
+    "RELACAO": "29,79"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 10911,
+    "DESPESA": 9039,
+    "RELACAO": "17,16"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 1315690,
+    "DESPESA": 1279154,
+    "RELACAO": "2,78"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 1221232,
+    "DESPESA": 840367,
+    "RELACAO": "31,19"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 791882,
+    "DESPESA": 499936,
+    "RELACAO": "36,87"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 429350,
+    "DESPESA": 340430,
+    "RELACAO": "20,71"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 4225203,
+    "DESPESA": 1134817,
+    "RELACAO": "73,14"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 4224650,
+    "DESPESA": 1129496,
+    "RELACAO": "73,26"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 553,
+    "DESPESA": 5321,
+    "RELACAO": "-862,21"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 6783176,
+    "DESPESA": 6484463,
+    "RELACAO": "4,40"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 705577,
+    "DESPESA": 683485,
+    "RELACAO": "3,13"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 1983726,
+    "DESPESA": 1911913,
+    "RELACAO": "3,62"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 1670019,
+    "DESPESA": 1736707,
+    "RELACAO": "-3,99"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 851804,
+    "DESPESA": 908030,
+    "RELACAO": "-6,60"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 1572050,
+    "DESPESA": 1244328,
+    "RELACAO": "20,85"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 8573275,
+    "DESPESA": 7153514,
+    "RELACAO": "16,56"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 8514140,
+    "DESPESA": 7107116,
+    "RELACAO": "16,53"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 59135,
+    "DESPESA": 46398,
+    "RELACAO": "21,54"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 640368,
+    "DESPESA": 608572,
+    "RELACAO": "4,97"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 137256,
+    "DESPESA": 129955,
+    "RELACAO": "5,32"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 30448,
+    "DESPESA": 28253,
+    "RELACAO": "7,21"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 419439,
+    "DESPESA": 405513,
+    "RELACAO": "3,32"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 53226,
+    "DESPESA": 44851,
+    "RELACAO": "15,73"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 2394620,
+    "DESPESA": 2074243,
+    "RELACAO": "13,38"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 754800,
+    "DESPESA": 666729,
+    "RELACAO": "11,67"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 1639820,
+    "DESPESA": 1407514,
+    "RELACAO": "14,17"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 4090837,
+    "DESPESA": 3762142,
+    "RELACAO": "8,03"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 16973,
+    "DESPESA": 20050,
+    "RELACAO": "-18,13"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 1471148,
+    "DESPESA": 1336863,
+    "RELACAO": "9,13"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1942417,
+    "DESPESA": 1694167,
+    "RELACAO": "12,78"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 660299,
+    "DESPESA": 711062,
+    "RELACAO": "-7,69"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 406061,
+    "DESPESA": 326464,
+    "RELACAO": "19,60"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 330614,
+    "DESPESA": 266667,
+    "RELACAO": "19,34"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "18.2 Serviços de pré-impressão e acabamentos gráficos",
+    "RECEITA": 75446,
+    "DESPESA": 59797,
+    "RELACAO": "20,74"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 129138,
+    "DESPESA": 127348,
+    "RELACAO": "1,39"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "19.1 Coquerias",
+    "RECEITA": 118654,
+    "DESPESA": 117472,
+    "RELACAO": "1,00"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 2614268,
+    "DESPESA": 2422301,
+    "RELACAO": "7,34"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 558255,
+    "DESPESA": 519639,
+    "RELACAO": "6,92"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 154657,
+    "DESPESA": 138449,
+    "RELACAO": "10,48"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 40919,
+    "DESPESA": 30387,
+    "RELACAO": "25,74"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 34859,
+    "DESPESA": 19560,
+    "RELACAO": "43,89"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 28844,
+    "DESPESA": 29847,
+    "RELACAO": "-3,48"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 165779,
+    "DESPESA": 193378,
+    "RELACAO": "-16,65"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1169345,
+    "DESPESA": 1072025,
+    "RELACAO": "8,32"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 461611,
+    "DESPESA": 419014,
+    "RELACAO": "9,23"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 500923,
+    "DESPESA": 454641,
+    "RELACAO": "9,24"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 5401619,
+    "DESPESA": 5023418,
+    "RELACAO": "7,00"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 344756,
+    "DESPESA": 279646,
+    "RELACAO": "18,89"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 5056863,
+    "DESPESA": 4743773,
+    "RELACAO": "6,19"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 3698355,
+    "DESPESA": 3271306,
+    "RELACAO": "11,55"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 278369,
+    "DESPESA": 229284,
+    "RELACAO": "17,63"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 243487,
+    "DESPESA": 193089,
+    "RELACAO": "20,70"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 991033,
+    "DESPESA": 893125,
+    "RELACAO": "9,88"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 2064923,
+    "DESPESA": 1838229,
+    "RELACAO": "10,98"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 120542,
+    "DESPESA": 117579,
+    "RELACAO": "2,46"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 6661213,
+    "DESPESA": 4944331,
+    "RELACAO": "25,77"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 3221298,
+    "DESPESA": 1605223,
+    "RELACAO": "50,17"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "24.3 Produção de tubos de aço, exceto tubos sem costura",
+    "RECEITA": 779912,
+    "DESPESA": 775382,
+    "RELACAO": "0,58"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 1414810,
+    "DESPESA": 1386398,
+    "RELACAO": "2,01"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1245192,
+    "DESPESA": 1177328,
+    "RELACAO": "5,45"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 3452284,
+    "DESPESA": 3059700,
+    "RELACAO": "11,37"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 817478,
+    "DESPESA": 770360,
+    "RELACAO": "5,76"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 209840,
+    "DESPESA": 206896,
+    "RELACAO": "1,40"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 709986,
+    "DESPESA": 560511,
+    "RELACAO": "21,05"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 296131,
+    "DESPESA": 266228,
+    "RELACAO": "10,10"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1418850,
+    "DESPESA": 1255705,
+    "RELACAO": "11,50"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 1195196,
+    "DESPESA": 1106810,
+    "RELACAO": "7,40"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 47114,
+    "DESPESA": 50241,
+    "RELACAO": "-6,64"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 80224,
+    "DESPESA": 73266,
+    "RELACAO": "8,67"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 316998,
+    "DESPESA": 346985,
+    "RELACAO": "-9,46"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 56465,
+    "DESPESA": 47945,
+    "RELACAO": "15,09"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 688157,
+    "DESPESA": 583548,
+    "RELACAO": "15,20"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 8124024,
+    "DESPESA": 8064311,
+    "RELACAO": "0,74"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 2835191,
+    "DESPESA": 2345772,
+    "RELACAO": "17,26"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 61254,
+    "DESPESA": 70973,
+    "RELACAO": "-15,87"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 793676,
+    "DESPESA": 708572,
+    "RELACAO": "10,72"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 107012,
+    "DESPESA": 96969,
+    "RELACAO": "9,38"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 4221869,
+    "DESPESA": 4758980,
+    "RELACAO": "-12,72"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 105022,
+    "DESPESA": 83045,
+    "RELACAO": "20,93"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 6017926,
+    "DESPESA": 5524832,
+    "RELACAO": "8,19"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2752563,
+    "DESPESA": 2705739,
+    "RELACAO": "1,70"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 748125,
+    "DESPESA": 656314,
+    "RELACAO": "12,27"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 722377,
+    "DESPESA": 647165,
+    "RELACAO": "10,41"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 330624,
+    "DESPESA": 309232,
+    "RELACAO": "6,47"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 299457,
+    "DESPESA": 264917,
+    "RELACAO": "11,53"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1164779,
+    "DESPESA": 941465,
+    "RELACAO": "19,17"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 3191900,
+    "DESPESA": 2921440,
+    "RELACAO": "8,47"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 558839,
+    "DESPESA": 576322,
+    "RELACAO": "-3,13"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 2574089,
+    "DESPESA": 2290898,
+    "RELACAO": "11,00"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 716111,
+    "DESPESA": 551387,
+    "RELACAO": "23,00"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 540384,
+    "DESPESA": 382227,
+    "RELACAO": "29,27"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "30.9 Fabricação de equipamentos de transporte não especificados anteriormente",
+    "RECEITA": 175726,
+    "DESPESA": 169160,
+    "RELACAO": "3,74"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 1814754,
+    "DESPESA": 1592848,
+    "RELACAO": "12,23"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 1814754,
+    "DESPESA": 1592848,
+    "RELACAO": "12,23"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 677995,
+    "DESPESA": 597679,
+    "RELACAO": "11,85"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 8984,
+    "DESPESA": 9792,
+    "RELACAO": "-8,99"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32.2 Fabricação de instrumentos musicais",
+    "RECEITA": 5199,
+    "DESPESA": 4312,
+    "RELACAO": "17,06"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 34905,
+    "DESPESA": 25403,
+    "RELACAO": "27,22"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 66804,
+    "DESPESA": 51971,
+    "RELACAO": "22,20"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 221276,
+    "DESPESA": 202367,
+    "RELACAO": "8,55"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 340827,
+    "DESPESA": 303834,
+    "RELACAO": "10,85"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 438359,
+    "DESPESA": 307082,
+    "RELACAO": "29,95"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 386054,
+    "DESPESA": 277194,
+    "RELACAO": "28,20"
+  },
+  {
+    "ANO": 2010,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 52306,
+    "DESPESA": 29888,
+    "RELACAO": "42,86"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1128287,
+    "DESPESA": 1033096,
+    "RELACAO": "8,44"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 647022,
+    "DESPESA": 587884,
+    "RELACAO": "9,14"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 647022,
+    "DESPESA": 587884,
+    "RELACAO": "9,14"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 421097,
+    "DESPESA": 316258,
+    "RELACAO": "24,90"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 303444,
+    "DESPESA": 245043,
+    "RELACAO": "19,25"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 117653,
+    "DESPESA": 71215,
+    "RELACAO": "39,47"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "09 Atividades de apoio à extração de minerais",
+    "RECEITA": 57310,
+    "DESPESA": 28385,
+    "RELACAO": "50,47"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "09.1 Atividades de apoio à extração de petróleo e gás natural",
+    "RECEITA": 57310,
+    "DESPESA": 28385,
+    "RELACAO": "50,47"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 98256303,
+    "DESPESA": 87576101,
+    "RELACAO": "10,87"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 22532135,
+    "DESPESA": 20435386,
+    "RELACAO": "9,31"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 11864212,
+    "DESPESA": 11501471,
+    "RELACAO": "3,06"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 1163267,
+    "DESPESA": 1083658,
+    "RELACAO": "6,84"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 186539,
+    "DESPESA": 175807,
+    "RELACAO": "5,75"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 695379,
+    "DESPESA": 917161,
+    "RELACAO": "-31,89"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 3447921,
+    "DESPESA": 2130962,
+    "RELACAO": "38,20"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 3483383,
+    "DESPESA": 3044659,
+    "RELACAO": "12,59"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 52334,
+    "DESPESA": 36922,
+    "RELACAO": "29,45"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 12937,
+    "DESPESA": 10057,
+    "RELACAO": "22,26"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 1626163,
+    "DESPESA": 1534689,
+    "RELACAO": "5,63"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 1277081,
+    "DESPESA": 892878,
+    "RELACAO": "30,08"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 814750,
+    "DESPESA": 569827,
+    "RELACAO": "30,06"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 462331,
+    "DESPESA": 323051,
+    "RELACAO": "30,13"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 1261680,
+    "DESPESA": 1086312,
+    "RELACAO": "13,90"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 1261159,
+    "DESPESA": 1066602,
+    "RELACAO": "15,43"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 521,
+    "DESPESA": 19710,
+    "RELACAO": "-3683,11"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 7061389,
+    "DESPESA": 7025131,
+    "RELACAO": "0,51"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 803377,
+    "DESPESA": 876056,
+    "RELACAO": "-9,05"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 2040177,
+    "DESPESA": 2008103,
+    "RELACAO": "1,57"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 1713306,
+    "DESPESA": 1814370,
+    "RELACAO": "-5,90"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 936092,
+    "DESPESA": 968018,
+    "RELACAO": "-3,41"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 1568437,
+    "DESPESA": 1358584,
+    "RELACAO": "13,38"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 8542287,
+    "DESPESA": 6755255,
+    "RELACAO": "20,92"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 8462547,
+    "DESPESA": 6692582,
+    "RELACAO": "20,92"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 79740,
+    "DESPESA": 62673,
+    "RELACAO": "21,40"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 689271,
+    "DESPESA": 649580,
+    "RELACAO": "5,76"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 176656,
+    "DESPESA": 158341,
+    "RELACAO": "10,37"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 44903,
+    "DESPESA": 31810,
+    "RELACAO": "29,16"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 423975,
+    "DESPESA": 418928,
+    "RELACAO": "1,19"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 43737,
+    "DESPESA": 40501,
+    "RELACAO": "7,40"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 2548434,
+    "DESPESA": 2425341,
+    "RELACAO": "4,83"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 858125,
+    "DESPESA": 840206,
+    "RELACAO": "2,09"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 1690309,
+    "DESPESA": 1585135,
+    "RELACAO": "6,22"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 4937055,
+    "DESPESA": 3920999,
+    "RELACAO": "20,58"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 21228,
+    "DESPESA": 19235,
+    "RELACAO": "9,39"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 2107847,
+    "DESPESA": 1805818,
+    "RELACAO": "14,33"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1946098,
+    "DESPESA": 1355025,
+    "RELACAO": "30,37"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 861882,
+    "DESPESA": 740921,
+    "RELACAO": "14,03"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 551127,
+    "DESPESA": 446607,
+    "RELACAO": "18,96"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 454630,
+    "DESPESA": 373448,
+    "RELACAO": "17,86"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "18.2 Serviços de pré-impressão e acabamentos gráficos",
+    "RECEITA": 96497,
+    "DESPESA": 73159,
+    "RELACAO": "24,19"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 116654,
+    "DESPESA": 86706,
+    "RELACAO": "25,67"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "19.1 Coquerias",
+    "RECEITA": 107819,
+    "DESPESA": 76511,
+    "RELACAO": "29,04"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 2825328,
+    "DESPESA": 2477345,
+    "RELACAO": "12,32"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 588714,
+    "DESPESA": 442319,
+    "RELACAO": "24,87"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 179719,
+    "DESPESA": 172399,
+    "RELACAO": "4,07"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 152961,
+    "DESPESA": 85911,
+    "RELACAO": "43,83"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 13435,
+    "DESPESA": 8440,
+    "RELACAO": "37,18"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 27771,
+    "DESPESA": 25770,
+    "RELACAO": "7,21"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 194339,
+    "DESPESA": 215845,
+    "RELACAO": "-11,07"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1296855,
+    "DESPESA": 1179597,
+    "RELACAO": "9,04"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 371534,
+    "DESPESA": 347064,
+    "RELACAO": "6,59"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 579357,
+    "DESPESA": 561210,
+    "RELACAO": "3,13"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "21.2 Fabricação de produtos farmacêuticos",
+    "RECEITA": 579357,
+    "DESPESA": 561210,
+    "RELACAO": "3,13"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 5767186,
+    "DESPESA": 5624857,
+    "RELACAO": "2,47"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 363135,
+    "DESPESA": 345975,
+    "RELACAO": "4,73"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 5404051,
+    "DESPESA": 5278882,
+    "RELACAO": "2,32"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 4322880,
+    "DESPESA": 4011482,
+    "RELACAO": "7,20"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 286383,
+    "DESPESA": 278470,
+    "RELACAO": "2,76"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 467283,
+    "DESPESA": 494059,
+    "RELACAO": "-5,73"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 1178619,
+    "DESPESA": 994433,
+    "RELACAO": "15,63"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 2236875,
+    "DESPESA": 2105337,
+    "RELACAO": "5,88"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 153720,
+    "DESPESA": 139183,
+    "RELACAO": "9,46"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 7185828,
+    "DESPESA": 5695244,
+    "RELACAO": "20,74"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 3312212,
+    "DESPESA": 1934013,
+    "RELACAO": "41,61"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "24.3 Produção de tubos de aço, exceto tubos sem costura",
+    "RECEITA": 789941,
+    "DESPESA": 788427,
+    "RELACAO": "0,19"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 1689117,
+    "DESPESA": 1730541,
+    "RELACAO": "-2,45"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1394558,
+    "DESPESA": 1242263,
+    "RELACAO": "10,92"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 4204793,
+    "DESPESA": 3549558,
+    "RELACAO": "15,58"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 1033289,
+    "DESPESA": 897980,
+    "RELACAO": "13,09"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 262303,
+    "DESPESA": 216835,
+    "RELACAO": "17,33"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 786114,
+    "DESPESA": 525997,
+    "RELACAO": "33,09"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 413839,
+    "DESPESA": 328498,
+    "RELACAO": "20,62"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1709248,
+    "DESPESA": 1580248,
+    "RELACAO": "7,55"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 1446471,
+    "DESPESA": 1307986,
+    "RELACAO": "9,57"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 58802,
+    "DESPESA": 54212,
+    "RELACAO": "7,81"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 67347,
+    "DESPESA": 57039,
+    "RELACAO": "15,31"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 410272,
+    "DESPESA": 406022,
+    "RELACAO": "1,04"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 63905,
+    "DESPESA": 50059,
+    "RELACAO": "21,67"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 836528,
+    "DESPESA": 733245,
+    "RELACAO": "12,35"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 8394824,
+    "DESPESA": 6813193,
+    "RELACAO": "18,84"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 3393158,
+    "DESPESA": 3001924,
+    "RELACAO": "11,53"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 60103,
+    "DESPESA": 60627,
+    "RELACAO": "-0,87"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 833773,
+    "DESPESA": 644734,
+    "RELACAO": "22,67"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 115670,
+    "DESPESA": 81492,
+    "RELACAO": "29,55"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 3873093,
+    "DESPESA": 2930984,
+    "RELACAO": "24,32"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 119027,
+    "DESPESA": 93432,
+    "RELACAO": "21,50"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 6463887,
+    "DESPESA": 6861932,
+    "RELACAO": "-6,16"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2262577,
+    "DESPESA": 3128935,
+    "RELACAO": "-38,29"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 1475053,
+    "DESPESA": 1280151,
+    "RELACAO": "13,21"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 841283,
+    "DESPESA": 772287,
+    "RELACAO": "8,20"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 407878,
+    "DESPESA": 367427,
+    "RELACAO": "9,92"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 315838,
+    "DESPESA": 268274,
+    "RELACAO": "15,06"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1161258,
+    "DESPESA": 1044858,
+    "RELACAO": "10,02"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 3856922,
+    "DESPESA": 3480629,
+    "RELACAO": "9,76"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 771761,
+    "DESPESA": 705012,
+    "RELACAO": "8,65"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 3035443,
+    "DESPESA": 2718245,
+    "RELACAO": "10,45"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 47006,
+    "DESPESA": 51492,
+    "RELACAO": "-9,54"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 758241,
+    "DESPESA": 815967,
+    "RELACAO": "-7,61"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 526116,
+    "DESPESA": 587642,
+    "RELACAO": "-11,69"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 1598583,
+    "DESPESA": 1562879,
+    "RELACAO": "2,23"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 1598583,
+    "DESPESA": 1562879,
+    "RELACAO": "2,23"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 851789,
+    "DESPESA": 744584,
+    "RELACAO": "12,59"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 7105,
+    "DESPESA": 11894,
+    "RELACAO": "-67,40"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 42015,
+    "DESPESA": 28974,
+    "RELACAO": "31,04"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 248318,
+    "DESPESA": 234689,
+    "RELACAO": "5,49"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 475264,
+    "DESPESA": 405408,
+    "RELACAO": "14,70"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 483101,
+    "DESPESA": 345040,
+    "RELACAO": "28,58"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 414735,
+    "DESPESA": 296375,
+    "RELACAO": "28,54"
+  },
+  {
+    "ANO": 2011,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 68366,
+    "DESPESA": 48665,
+    "RELACAO": "28,82"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1373542,
+    "DESPESA": 1390939,
+    "RELACAO": "-1,27"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 679687,
+    "DESPESA": 669277,
+    "RELACAO": "1,53"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 679687,
+    "DESPESA": 669277,
+    "RELACAO": "1,53"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 647144,
+    "DESPESA": 468662,
+    "RELACAO": "27,58"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 525679,
+    "DESPESA": 376328,
+    "RELACAO": "28,41"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 121465,
+    "DESPESA": 92334,
+    "RELACAO": "23,98"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "09 Atividades de apoio à extração de minerais",
+    "RECEITA": 43707,
+    "DESPESA": 19753,
+    "RELACAO": "54,81"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "09.1 Atividades de apoio à extração de petróleo e gás natural",
+    "RECEITA": 43146,
+    "DESPESA": 19337,
+    "RELACAO": "55,18"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 110301648,
+    "DESPESA": 97793460,
+    "RELACAO": "11,34"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 27073465,
+    "DESPESA": 24276559,
+    "RELACAO": "10,33"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 13980897,
+    "DESPESA": 13006562,
+    "RELACAO": "6,97"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 1464774,
+    "DESPESA": 1340936,
+    "RELACAO": "8,45"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 227147,
+    "DESPESA": 236625,
+    "RELACAO": "-4,17"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 1600948,
+    "DESPESA": 1736937,
+    "RELACAO": "-8,49"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 4074691,
+    "DESPESA": 2371406,
+    "RELACAO": "41,80"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 3729051,
+    "DESPESA": 3714181,
+    "RELACAO": "0,40"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 81268,
+    "DESPESA": 74158,
+    "RELACAO": "8,75"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 15063,
+    "DESPESA": 12502,
+    "RELACAO": "17,00"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 1899626,
+    "DESPESA": 1783252,
+    "RELACAO": "6,13"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 1532319,
+    "DESPESA": 974793,
+    "RELACAO": "36,38"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 1005424,
+    "DESPESA": 602546,
+    "RELACAO": "40,07"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 526895,
+    "DESPESA": 372247,
+    "RELACAO": "29,35"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 1625148,
+    "DESPESA": 1228180,
+    "RELACAO": "24,43"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 1624572,
+    "DESPESA": 1207268,
+    "RELACAO": "25,69"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 576,
+    "DESPESA": 20912,
+    "RELACAO": "-3530,56"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 7695076,
+    "DESPESA": 7474805,
+    "RELACAO": "2,86"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 796901,
+    "DESPESA": 740082,
+    "RELACAO": "7,13"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 1964758,
+    "DESPESA": 1989620,
+    "RELACAO": "-1,27"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 2231812,
+    "DESPESA": 2256933,
+    "RELACAO": "-1,13"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 1004547,
+    "DESPESA": 1018609,
+    "RELACAO": "-1,40"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 1697058,
+    "DESPESA": 1469561,
+    "RELACAO": "13,41"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 8735537,
+    "DESPESA": 7323501,
+    "RELACAO": "16,16"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 8634697,
+    "DESPESA": 7235758,
+    "RELACAO": "16,20"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 100840,
+    "DESPESA": 87743,
+    "RELACAO": "12,99"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 800356,
+    "DESPESA": 737826,
+    "RELACAO": "7,81"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 252767,
+    "DESPESA": 199212,
+    "RELACAO": "21,19"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 44877,
+    "DESPESA": 36340,
+    "RELACAO": "19,02"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 460526,
+    "DESPESA": 454613,
+    "RELACAO": "1,28"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 42186,
+    "DESPESA": 47661,
+    "RELACAO": "-12,98"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 2967902,
+    "DESPESA": 2631406,
+    "RELACAO": "11,34"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 1019262,
+    "DESPESA": 895342,
+    "RELACAO": "12,16"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 1948640,
+    "DESPESA": 1736064,
+    "RELACAO": "10,91"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 5436466,
+    "DESPESA": 4254959,
+    "RELACAO": "21,73"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 84735,
+    "DESPESA": 285985,
+    "RELACAO": "-237,51"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 2177574,
+    "DESPESA": 1721435,
+    "RELACAO": "20,95"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 2050967,
+    "DESPESA": 1329170,
+    "RELACAO": "35,19"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1123190,
+    "DESPESA": 918369,
+    "RELACAO": "18,24"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 589976,
+    "DESPESA": 504736,
+    "RELACAO": "14,45"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 495715,
+    "DESPESA": 422423,
+    "RELACAO": "14,79"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "18.2 Serviços de pré-impressão e acabamentos gráficos",
+    "RECEITA": 94261,
+    "DESPESA": 82313,
+    "RELACAO": "12,68"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 203721,
+    "DESPESA": 183799,
+    "RELACAO": "9,78"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "19.2 Fabricação de produtos derivados do petróleo",
+    "RECEITA": 8271,
+    "DESPESA": 7318,
+    "RELACAO": "11,52"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 3284739,
+    "DESPESA": 3032566,
+    "RELACAO": "7,68"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 800026,
+    "DESPESA": 724865,
+    "RELACAO": "9,39"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 103952,
+    "DESPESA": 86370,
+    "RELACAO": "16,91"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 106372,
+    "DESPESA": 91653,
+    "RELACAO": "13,84"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 156521,
+    "DESPESA": 152864,
+    "RELACAO": "2,34"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 30531,
+    "DESPESA": 28163,
+    "RELACAO": "7,76"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 344308,
+    "DESPESA": 332954,
+    "RELACAO": "3,30"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1365146,
+    "DESPESA": 1262830,
+    "RELACAO": "7,49"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 377883,
+    "DESPESA": 352867,
+    "RELACAO": "6,62"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 627850,
+    "DESPESA": 608928,
+    "RELACAO": "3,01"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "21.2 Fabricação de produtos farmacêuticos",
+    "RECEITA": 627850,
+    "DESPESA": 608928,
+    "RELACAO": "3,01"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 5781693,
+    "DESPESA": 5594311,
+    "RELACAO": "3,24"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 384434,
+    "DESPESA": 349465,
+    "RELACAO": "9,10"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 5397259,
+    "DESPESA": 5244846,
+    "RELACAO": "2,82"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 5080798,
+    "DESPESA": 4642981,
+    "RELACAO": "8,62"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 373941,
+    "DESPESA": 340355,
+    "RELACAO": "8,98"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 491206,
+    "DESPESA": 412997,
+    "RELACAO": "15,92"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 1430934,
+    "DESPESA": 1275181,
+    "RELACAO": "10,88"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 2642988,
+    "DESPESA": 2458519,
+    "RELACAO": "6,98"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 141729,
+    "DESPESA": 155929,
+    "RELACAO": "-10,02"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 8327308,
+    "DESPESA": 7054575,
+    "RELACAO": "15,28"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 3462984,
+    "DESPESA": 2109615,
+    "RELACAO": "39,08"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 2296205,
+    "DESPESA": 2446917,
+    "RELACAO": "-6,56"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1377108,
+    "DESPESA": 1333178,
+    "RELACAO": "3,19"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 4405162,
+    "DESPESA": 3940204,
+    "RELACAO": "10,55"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 1256420,
+    "DESPESA": 1129260,
+    "RELACAO": "10,12"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 197147,
+    "DESPESA": 200915,
+    "RELACAO": "-1,91"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 749286,
+    "DESPESA": 599551,
+    "RELACAO": "19,98"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 481717,
+    "DESPESA": 419751,
+    "RELACAO": "12,86"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1720592,
+    "DESPESA": 1590727,
+    "RELACAO": "7,55"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 1256212,
+    "DESPESA": 1054356,
+    "RELACAO": "16,07"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 70046,
+    "DESPESA": 60432,
+    "RELACAO": "13,73"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 66971,
+    "DESPESA": 53752,
+    "RELACAO": "19,74"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 466107,
+    "DESPESA": 428089,
+    "RELACAO": "8,16"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 60782,
+    "DESPESA": 53661,
+    "RELACAO": "11,72"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 581472,
+    "DESPESA": 453002,
+    "RELACAO": "22,09"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 9295112,
+    "DESPESA": 7452597,
+    "RELACAO": "19,82"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 3630186,
+    "DESPESA": 3090487,
+    "RELACAO": "14,87"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 47040,
+    "DESPESA": 45823,
+    "RELACAO": "2,59"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 1531683,
+    "DESPESA": 1151306,
+    "RELACAO": "24,83"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 121322,
+    "DESPESA": 103779,
+    "RELACAO": "14,46"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 3825646,
+    "DESPESA": 2947024,
+    "RELACAO": "22,97"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 139235,
+    "DESPESA": 114178,
+    "RELACAO": "18,00"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 6935623,
+    "DESPESA": 6762036,
+    "RELACAO": "2,50"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2553920,
+    "DESPESA": 2828641,
+    "RELACAO": "-10,76"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 1300871,
+    "DESPESA": 1175976,
+    "RELACAO": "9,60"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 874740,
+    "DESPESA": 775427,
+    "RELACAO": "11,35"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 432751,
+    "DESPESA": 399946,
+    "RELACAO": "7,58"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 340046,
+    "DESPESA": 307750,
+    "RELACAO": "9,50"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1433295,
+    "DESPESA": 1274296,
+    "RELACAO": "11,09"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 3864245,
+    "DESPESA": 3552003,
+    "RELACAO": "8,08"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "29.1 Fabricação de automóveis, camionetas e utilitários",
+    "RECEITA": 54910,
+    "DESPESA": 28192,
+    "RELACAO": "48,66"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 700204,
+    "DESPESA": 669456,
+    "RELACAO": "4,39"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 3064709,
+    "DESPESA": 2814671,
+    "RELACAO": "8,16"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 44422,
+    "DESPESA": 39684,
+    "RELACAO": "10,67"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 1349795,
+    "DESPESA": 1429691,
+    "RELACAO": "-5,92"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 1082129,
+    "DESPESA": 1172899,
+    "RELACAO": "-8,39"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 1891839,
+    "DESPESA": 1753845,
+    "RELACAO": "7,29"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 1891839,
+    "DESPESA": 1753845,
+    "RELACAO": "7,29"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 825467,
+    "DESPESA": 802392,
+    "RELACAO": "2,80"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 12678,
+    "DESPESA": 14134,
+    "RELACAO": "-11,48"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32.2 Fabricação de instrumentos musicais",
+    "RECEITA": 5751,
+    "DESPESA": 4192,
+    "RELACAO": "27,11"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 47644,
+    "DESPESA": 31498,
+    "RELACAO": "33,89"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 106746,
+    "DESPESA": 73019,
+    "RELACAO": "31,60"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 221516,
+    "DESPESA": 233337,
+    "RELACAO": "-5,34"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 431132,
+    "DESPESA": 446212,
+    "RELACAO": "-3,50"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 715839,
+    "DESPESA": 522411,
+    "RELACAO": "27,02"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 633983,
+    "DESPESA": 469139,
+    "RELACAO": "26,00"
+  },
+  {
+    "ANO": 2012,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 81856,
+    "DESPESA": 53272,
+    "RELACAO": "34,92"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1702052,
+    "DESPESA": 1892750,
+    "RELACAO": "-11,20"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 877857,
+    "DESPESA": 834224,
+    "RELACAO": "4,97"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 877857,
+    "DESPESA": 834224,
+    "RELACAO": "4,97"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 773046,
+    "DESPESA": 518383,
+    "RELACAO": "32,94"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 624340,
+    "DESPESA": 400028,
+    "RELACAO": "35,93"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 148706,
+    "DESPESA": 118355,
+    "RELACAO": "20,41"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "09 Atividades de apoio à extração de minerais",
+    "RECEITA": 47858,
+    "DESPESA": 21519,
+    "RELACAO": "55,04"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "09.1 Atividades de apoio à extração de petróleo e gás natural",
+    "RECEITA": 47858,
+    "DESPESA": 21519,
+    "RELACAO": "55,04"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 122873578,
+    "DESPESA": 109111951,
+    "RELACAO": "11,20"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 30318108,
+    "DESPESA": 27094840,
+    "RELACAO": "10,63"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 13403925,
+    "DESPESA": 13986850,
+    "RELACAO": "-4,35"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 1863388,
+    "DESPESA": 1677387,
+    "RELACAO": "9,98"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 319303,
+    "DESPESA": 291608,
+    "RELACAO": "8,67"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 1809099,
+    "DESPESA": 1999886,
+    "RELACAO": "-10,55"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 6784314,
+    "DESPESA": 3111552,
+    "RELACAO": "54,14"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 3988985,
+    "DESPESA": 3967964,
+    "RELACAO": "0,53"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 54722,
+    "DESPESA": 34120,
+    "RELACAO": "37,65"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 12093,
+    "DESPESA": 11077,
+    "RELACAO": "8,40"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 2082279,
+    "DESPESA": 2014396,
+    "RELACAO": "3,26"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 1489366,
+    "DESPESA": 1108510,
+    "RELACAO": "25,57"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 860263,
+    "DESPESA": 585387,
+    "RELACAO": "31,95"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 629103,
+    "DESPESA": 523123,
+    "RELACAO": "16,85"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 1534884,
+    "DESPESA": 1247870,
+    "RELACAO": "18,70"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 1533711,
+    "DESPESA": 1226740,
+    "RELACAO": "20,01"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 1173,
+    "DESPESA": 21130,
+    "RELACAO": "-1701,36"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 8625460,
+    "DESPESA": 8361530,
+    "RELACAO": "3,06"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 931385,
+    "DESPESA": 776230,
+    "RELACAO": "16,66"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 2241711,
+    "DESPESA": 2192548,
+    "RELACAO": "2,19"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 2162963,
+    "DESPESA": 2366762,
+    "RELACAO": "-9,42"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 1245630,
+    "DESPESA": 1237130,
+    "RELACAO": "0,68"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 2043771,
+    "DESPESA": 1788860,
+    "RELACAO": "12,47"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 9950179,
+    "DESPESA": 8502624,
+    "RELACAO": "14,55"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 9826593,
+    "DESPESA": 8395572,
+    "RELACAO": "14,56"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 123586,
+    "DESPESA": 107052,
+    "RELACAO": "13,38"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 909204,
+    "DESPESA": 855856,
+    "RELACAO": "5,87"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 292588,
+    "DESPESA": 241804,
+    "RELACAO": "17,36"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 46888,
+    "DESPESA": 38811,
+    "RELACAO": "17,23"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 516767,
+    "DESPESA": 522125,
+    "RELACAO": "-1,04"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 52961,
+    "DESPESA": 53116,
+    "RELACAO": "-0,29"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 3600660,
+    "DESPESA": 3202083,
+    "RELACAO": "11,07"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 1086628,
+    "DESPESA": 1004990,
+    "RELACAO": "7,51"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 2514032,
+    "DESPESA": 2197093,
+    "RELACAO": "12,61"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 5595767,
+    "DESPESA": 5003110,
+    "RELACAO": "10,59"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 94883,
+    "DESPESA": 315915,
+    "RELACAO": "-232,95"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 1994874,
+    "DESPESA": 2248880,
+    "RELACAO": "-12,73"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 2132305,
+    "DESPESA": 1410528,
+    "RELACAO": "33,85"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1373705,
+    "DESPESA": 1027787,
+    "RELACAO": "25,18"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 658922,
+    "DESPESA": 580676,
+    "RELACAO": "11,87"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 548606,
+    "DESPESA": 473840,
+    "RELACAO": "13,63"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "18.2 Serviços de pré-impressão e acabamentos gráficos",
+    "RECEITA": 110316,
+    "DESPESA": 106836,
+    "RELACAO": "3,15"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 134564,
+    "DESPESA": 115163,
+    "RELACAO": "14,42"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "19.2 Fabricação de produtos derivados do petróleo",
+    "RECEITA": 6578,
+    "DESPESA": 6709,
+    "RELACAO": "-1,99"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 3730917,
+    "DESPESA": 3330557,
+    "RELACAO": "10,73"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 863584,
+    "DESPESA": 812344,
+    "RELACAO": "5,93"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 211044,
+    "DESPESA": 181387,
+    "RELACAO": "14,05"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 144571,
+    "DESPESA": 133168,
+    "RELACAO": "7,89"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 218645,
+    "DESPESA": 182951,
+    "RELACAO": "16,33"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 39461,
+    "DESPESA": 30630,
+    "RELACAO": "22,38"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 380151,
+    "DESPESA": 298879,
+    "RELACAO": "21,38"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1558763,
+    "DESPESA": 1450067,
+    "RELACAO": "6,97"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 314698,
+    "DESPESA": 241131,
+    "RELACAO": "23,38"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 296738,
+    "DESPESA": 226658,
+    "RELACAO": "23,62"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "21.1 Fabricação de produtos farmoquímicos",
+    "RECEITA": 50148,
+    "DESPESA": 35831,
+    "RELACAO": "28,55"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "21.2 Fabricação de produtos farmacêuticos",
+    "RECEITA": 246590,
+    "DESPESA": 190827,
+    "RELACAO": "22,61"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 6439468,
+    "DESPESA": 6388745,
+    "RELACAO": "0,79"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 407609,
+    "DESPESA": 361319,
+    "RELACAO": "11,36"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 6031859,
+    "DESPESA": 6027426,
+    "RELACAO": "0,07"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 5514677,
+    "DESPESA": 5007715,
+    "RELACAO": "9,19"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 558249,
+    "DESPESA": 511517,
+    "RELACAO": "8,37"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 481464,
+    "DESPESA": 424220,
+    "RELACAO": "11,89"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 1546924,
+    "DESPESA": 1351265,
+    "RELACAO": "12,65"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 2746337,
+    "DESPESA": 2559959,
+    "RELACAO": "6,79"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 181703,
+    "DESPESA": 160754,
+    "RELACAO": "11,53"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 9312748,
+    "DESPESA": 6746536,
+    "RELACAO": "27,56"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 4464241,
+    "DESPESA": 1749068,
+    "RELACAO": "60,82"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 2164953,
+    "DESPESA": 2393869,
+    "RELACAO": "-10,57"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1485071,
+    "DESPESA": 1469407,
+    "RELACAO": "1,05"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 4873159,
+    "DESPESA": 4370509,
+    "RELACAO": "10,31"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 1524979,
+    "DESPESA": 1402968,
+    "RELACAO": "8,00"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 228937,
+    "DESPESA": 222755,
+    "RELACAO": "2,70"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 706691,
+    "DESPESA": 595615,
+    "RELACAO": "15,72"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 542693,
+    "DESPESA": 487558,
+    "RELACAO": "10,16"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1869859,
+    "DESPESA": 1661613,
+    "RELACAO": "11,14"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 707849,
+    "DESPESA": 684910,
+    "RELACAO": "3,24"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 75670,
+    "DESPESA": 62818,
+    "RELACAO": "16,98"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 97602,
+    "DESPESA": 83938,
+    "RELACAO": "14,00"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 276045,
+    "DESPESA": 332245,
+    "RELACAO": "-20,36"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 65788,
+    "DESPESA": 53129,
+    "RELACAO": "19,24"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 181458,
+    "DESPESA": 145013,
+    "RELACAO": "20,08"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 10957599,
+    "DESPESA": 8863459,
+    "RELACAO": "19,11"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 4559224,
+    "DESPESA": 3742578,
+    "RELACAO": "17,91"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 42889,
+    "DESPESA": 49651,
+    "RELACAO": "-15,77"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 1650604,
+    "DESPESA": 1428224,
+    "RELACAO": "13,47"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 124998,
+    "DESPESA": 111076,
+    "RELACAO": "11,14"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 4454739,
+    "DESPESA": 3410496,
+    "RELACAO": "23,44"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 125145,
+    "DESPESA": 121434,
+    "RELACAO": "2,97"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 7855801,
+    "DESPESA": 7410438,
+    "RELACAO": "5,67"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2647923,
+    "DESPESA": 2854138,
+    "RELACAO": "-7,79"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 1460571,
+    "DESPESA": 1295533,
+    "RELACAO": "11,30"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 1109450,
+    "DESPESA": 943001,
+    "RELACAO": "15,00"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 544001,
+    "DESPESA": 474867,
+    "RELACAO": "12,71"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 384982,
+    "DESPESA": 337612,
+    "RELACAO": "12,30"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1708874,
+    "DESPESA": 1505287,
+    "RELACAO": "11,91"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 4754053,
+    "DESPESA": 4461342,
+    "RELACAO": "6,16"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "29.1 Fabricação de automóveis, camionetas e utilitários",
+    "RECEITA": 30359,
+    "DESPESA": 152819,
+    "RELACAO": "-403,37"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 1042260,
+    "DESPESA": 982451,
+    "RELACAO": "5,74"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 3603031,
+    "DESPESA": 3281231,
+    "RELACAO": "8,93"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 78403,
+    "DESPESA": 44841,
+    "RELACAO": "42,81"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 1372878,
+    "DESPESA": 1662117,
+    "RELACAO": "-21,07"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 1091714,
+    "DESPESA": 1397489,
+    "RELACAO": "-28,01"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 2245809,
+    "DESPESA": 2063486,
+    "RELACAO": "8,12"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 2245809,
+    "DESPESA": 2063486,
+    "RELACAO": "8,12"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 1335332,
+    "DESPESA": 1311540,
+    "RELACAO": "1,78"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 17646,
+    "DESPESA": 16241,
+    "RELACAO": "7,96"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32.2 Fabricação de instrumentos musicais",
+    "RECEITA": 5509,
+    "DESPESA": 4909,
+    "RELACAO": "10,89"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 53480,
+    "DESPESA": 35559,
+    "RELACAO": "33,51"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 121044,
+    "DESPESA": 90726,
+    "RELACAO": "25,05"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 668784,
+    "DESPESA": 690660,
+    "RELACAO": "-3,27"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 468869,
+    "DESPESA": 473445,
+    "RELACAO": "-0,98"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 659436,
+    "DESPESA": 511677,
+    "RELACAO": "22,41"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 571180,
+    "DESPESA": 447434,
+    "RELACAO": "21,66"
+  },
+  {
+    "ANO": 2013,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 88256,
+    "DESPESA": 64243,
+    "RELACAO": "27,21"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 2015815,
+    "DESPESA": 2800046,
+    "RELACAO": "-38,90"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 1116502,
+    "DESPESA": 1113909,
+    "RELACAO": "0,23"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 1116502,
+    "DESPESA": 1113909,
+    "RELACAO": "0,23"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 808030,
+    "DESPESA": 658763,
+    "RELACAO": "18,47"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 646254,
+    "DESPESA": 512901,
+    "RELACAO": "20,63"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 161776,
+    "DESPESA": 145862,
+    "RELACAO": "9,84"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "09 Atividades de apoio à extração de minerais",
+    "RECEITA": 87040,
+    "DESPESA": 67006,
+    "RELACAO": "23,02"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "09.1 Atividades de apoio à extração de petróleo e gás natural",
+    "RECEITA": 87040,
+    "DESPESA": 67006,
+    "RELACAO": "23,02"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 136248257,
+    "DESPESA": 121878280,
+    "RELACAO": "10,55"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 34563168,
+    "DESPESA": 30100900,
+    "RELACAO": "12,91"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 15887533,
+    "DESPESA": 15081666,
+    "RELACAO": "5,07"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 2107271,
+    "DESPESA": 1870088,
+    "RELACAO": "11,26"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 302617,
+    "DESPESA": 309906,
+    "RELACAO": "-2,41"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 2518168,
+    "DESPESA": 2711787,
+    "RELACAO": "-7,69"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 6574910,
+    "DESPESA": 3361761,
+    "RELACAO": "48,87"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 4756506,
+    "DESPESA": 4486818,
+    "RELACAO": "5,67"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.7 Fabricação e refino de açúcar",
+    "RECEITA": 39753,
+    "DESPESA": 32971,
+    "RELACAO": "17,06"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.8 Torrefação e moagem de café",
+    "RECEITA": 12417,
+    "DESPESA": 10781,
+    "RELACAO": "13,18"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 2363993,
+    "DESPESA": 2235122,
+    "RELACAO": "5,45"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 2014663,
+    "DESPESA": 1592931,
+    "RELACAO": "20,93"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 1259729,
+    "DESPESA": 942684,
+    "RELACAO": "25,17"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 754934,
+    "DESPESA": 650247,
+    "RELACAO": "13,87"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 1076003,
+    "DESPESA": 847346,
+    "RELACAO": "21,25"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 1073304,
+    "DESPESA": 824635,
+    "RELACAO": "23,17"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 2699,
+    "DESPESA": 22711,
+    "RELACAO": "-741,46"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 9380562,
+    "DESPESA": 9072536,
+    "RELACAO": "3,28"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 871523,
+    "DESPESA": 791178,
+    "RELACAO": "9,22"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 2442516,
+    "DESPESA": 2295251,
+    "RELACAO": "6,03"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 2558902,
+    "DESPESA": 2696728,
+    "RELACAO": "-5,39"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 1468555,
+    "DESPESA": 1373769,
+    "RELACAO": "6,45"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 2039066,
+    "DESPESA": 1915610,
+    "RELACAO": "6,05"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 10782422,
+    "DESPESA": 9853643,
+    "RELACAO": "8,61"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 10671765,
+    "DESPESA": 9758923,
+    "RELACAO": "8,55"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 110657,
+    "DESPESA": 94720,
+    "RELACAO": "14,40"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 1080872,
+    "DESPESA": 953097,
+    "RELACAO": "11,82"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 362582,
+    "DESPESA": 289679,
+    "RELACAO": "20,11"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 52336,
+    "DESPESA": 38871,
+    "RELACAO": "25,73"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 596383,
+    "DESPESA": 557673,
+    "RELACAO": "6,49"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 69571,
+    "DESPESA": 66874,
+    "RELACAO": "3,88"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 4121207,
+    "DESPESA": 3661911,
+    "RELACAO": "11,14"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 1258223,
+    "DESPESA": 1122251,
+    "RELACAO": "10,81"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 2862984,
+    "DESPESA": 2539660,
+    "RELACAO": "11,29"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 6380366,
+    "DESPESA": 6024027,
+    "RELACAO": "5,58"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 115889,
+    "DESPESA": 406854,
+    "RELACAO": "-251,07"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 2286630,
+    "DESPESA": 2560522,
+    "RELACAO": "-11,98"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 2353899,
+    "DESPESA": 1784822,
+    "RELACAO": "24,18"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1623948,
+    "DESPESA": 1271829,
+    "RELACAO": "21,68"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 660255,
+    "DESPESA": 563259,
+    "RELACAO": "14,69"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 540168,
+    "DESPESA": 457610,
+    "RELACAO": "15,28"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 152671,
+    "DESPESA": 130781,
+    "RELACAO": "14,34"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "19.2 Fabricação de produtos derivados do petróleo",
+    "RECEITA": 11867,
+    "DESPESA": 14303,
+    "RELACAO": "-20,53"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 4025050,
+    "DESPESA": 3632793,
+    "RELACAO": "9,75"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 826465,
+    "DESPESA": 703354,
+    "RELACAO": "14,90"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 228274,
+    "DESPESA": 225880,
+    "RELACAO": "1,05"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 192702,
+    "DESPESA": 179276,
+    "RELACAO": "6,97"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 251909,
+    "DESPESA": 209900,
+    "RELACAO": "16,68"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 51097,
+    "DESPESA": 41600,
+    "RELACAO": "18,59"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 387553,
+    "DESPESA": 343312,
+    "RELACAO": "11,42"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1677778,
+    "DESPESA": 1574309,
+    "RELACAO": "6,17"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 409272,
+    "DESPESA": 355162,
+    "RELACAO": "13,22"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 183638,
+    "DESPESA": 232057,
+    "RELACAO": "-26,37"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 7189697,
+    "DESPESA": 7309596,
+    "RELACAO": "-1,67"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 435296,
+    "DESPESA": 395288,
+    "RELACAO": "9,19"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 6754401,
+    "DESPESA": 6914308,
+    "RELACAO": "-2,37"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 6619924,
+    "DESPESA": 6164769,
+    "RELACAO": "6,88"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 470514,
+    "DESPESA": 454123,
+    "RELACAO": "3,48"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 684064,
+    "DESPESA": 623639,
+    "RELACAO": "8,83"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 1999271,
+    "DESPESA": 1803394,
+    "RELACAO": "9,80"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 3255957,
+    "DESPESA": 3066523,
+    "RELACAO": "5,82"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 210118,
+    "DESPESA": 217090,
+    "RELACAO": "-3,32"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 10243941,
+    "DESPESA": 7297379,
+    "RELACAO": "28,76"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 4662166,
+    "DESPESA": 1354102,
+    "RELACAO": "70,96"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 3152884,
+    "DESPESA": 3372579,
+    "RELACAO": "-6,97"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1314770,
+    "DESPESA": 1379510,
+    "RELACAO": "-4,92"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 5189431,
+    "DESPESA": 4714204,
+    "RELACAO": "9,16"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 1521546,
+    "DESPESA": 1385534,
+    "RELACAO": "8,94"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 309867,
+    "DESPESA": 300713,
+    "RELACAO": "2,95"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 802079,
+    "DESPESA": 693596,
+    "RELACAO": "13,53"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 676229,
+    "DESPESA": 608093,
+    "RELACAO": "10,08"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1879710,
+    "DESPESA": 1726268,
+    "RELACAO": "8,16"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 830006,
+    "DESPESA": 727100,
+    "RELACAO": "12,40"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 75010,
+    "DESPESA": 66002,
+    "RELACAO": "12,01"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 93187,
+    "DESPESA": 66516,
+    "RELACAO": "28,62"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 392764,
+    "DESPESA": 360708,
+    "RELACAO": "8,16"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 187712,
+    "DESPESA": 176556,
+    "RELACAO": "5,94"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "26.6 Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação",
+    "RECEITA": 18922,
+    "DESPESA": 10609,
+    "RELACAO": "43,93"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 12067955,
+    "DESPESA": 10314201,
+    "RELACAO": "14,53"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 5041055,
+    "DESPESA": 4306783,
+    "RELACAO": "14,57"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 50903,
+    "DESPESA": 64250,
+    "RELACAO": "-26,22"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 1783246,
+    "DESPESA": 1637009,
+    "RELACAO": "8,20"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 297946,
+    "DESPESA": 228986,
+    "RELACAO": "23,15"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 4745863,
+    "DESPESA": 3892407,
+    "RELACAO": "17,98"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 148942,
+    "DESPESA": 184766,
+    "RELACAO": "-24,05"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 8713357,
+    "DESPESA": 8024724,
+    "RELACAO": "7,90"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 2958123,
+    "DESPESA": 2947813,
+    "RELACAO": "0,35"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 1548696,
+    "DESPESA": 1349607,
+    "RELACAO": "12,86"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 1346211,
+    "DESPESA": 1179441,
+    "RELACAO": "12,39"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 576258,
+    "DESPESA": 497977,
+    "RELACAO": "13,58"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 383668,
+    "DESPESA": 341832,
+    "RELACAO": "10,90"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1900401,
+    "DESPESA": 1708054,
+    "RELACAO": "10,12"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 4614504,
+    "DESPESA": 4601917,
+    "RELACAO": "0,27"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "29.1 Fabricação de automóveis, camionetas e utilitários",
+    "RECEITA": 17303,
+    "DESPESA": 252864,
+    "RELACAO": "-1361,39"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 896364,
+    "DESPESA": 978295,
+    "RELACAO": "-9,14"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 3643692,
+    "DESPESA": 3324273,
+    "RELACAO": "8,77"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 57145,
+    "DESPESA": 46485,
+    "RELACAO": "18,65"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 1549879,
+    "DESPESA": 1669487,
+    "RELACAO": "-7,72"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 1282531,
+    "DESPESA": 1428081,
+    "RELACAO": "-11,35"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 2464365,
+    "DESPESA": 2338949,
+    "RELACAO": "5,09"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 2464365,
+    "DESPESA": 2338949,
+    "RELACAO": "5,09"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 1646493,
+    "DESPESA": 1488999,
+    "RELACAO": "9,57"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 17976,
+    "DESPESA": 16387,
+    "RELACAO": "8,84"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32.2 Fabricação de instrumentos musicais",
+    "RECEITA": 6570,
+    "DESPESA": 4858,
+    "RELACAO": "26,06"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 74669,
+    "DESPESA": 48795,
+    "RELACAO": "34,65"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32.4 Fabricação de brinquedos e jogos recreativos",
+    "RECEITA": 134795,
+    "DESPESA": 89844,
+    "RELACAO": "33,35"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 864712,
+    "DESPESA": 773193,
+    "RELACAO": "10,58"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 547771,
+    "DESPESA": 555922,
+    "RELACAO": "-1,49"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 697828,
+    "DESPESA": 561674,
+    "RELACAO": "19,51"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 598860,
+    "DESPESA": 484725,
+    "RELACAO": "19,06"
+  },
+  {
+    "ANO": 2014,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 98968,
+    "DESPESA": 76949,
+    "RELACAO": "22,25"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "B Indústrias extrativas",
+    "RECEITA": 1889941,
+    "DESPESA": 2203240,
+    "RELACAO": "-16,58"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "05 Extração de carvão mineral",
+    "RECEITA": 979373,
+    "DESPESA": 938662,
+    "RELACAO": "4,16"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "05.0 Extração de carvão mineral",
+    "RECEITA": 979373,
+    "DESPESA": 938662,
+    "RELACAO": "4,16"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "08 Extração de minerais não-metálicos",
+    "RECEITA": 812086,
+    "DESPESA": 674778,
+    "RELACAO": "16,91"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "08.1 Extração de pedra, areia e argila",
+    "RECEITA": 655246,
+    "DESPESA": 520867,
+    "RELACAO": "20,51"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "08.9 Extração de outros minerais não-metálicos",
+    "RECEITA": 156840,
+    "DESPESA": 153911,
+    "RELACAO": "1,87"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "C Indústrias de transformação",
+    "RECEITA": 131746768,
+    "DESPESA": 123568546,
+    "RELACAO": "6,21"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10 Fabricação de produtos alimentícios",
+    "RECEITA": 32527875,
+    "DESPESA": 31573145,
+    "RELACAO": "2,94"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.1 Abate e fabricação de produtos de carne",
+    "RECEITA": 15045669,
+    "DESPESA": 15203787,
+    "RELACAO": "-1,05"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.2 Preservação do pescado e fabricação de produtos do pescado",
+    "RECEITA": 2007400,
+    "DESPESA": 1818285,
+    "RELACAO": "9,42"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.3 Fabricação de conservas de frutas, legumes e outros vegetais",
+    "RECEITA": 182962,
+    "DESPESA": 162693,
+    "RELACAO": "11,08"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.4 Fabricação de óleos e gorduras vegetais e animais",
+    "RECEITA": 1651356,
+    "DESPESA": 3256983,
+    "RELACAO": "-97,23"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.5 Laticínios",
+    "RECEITA": 6613333,
+    "DESPESA": 3915732,
+    "RELACAO": "40,79"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.6 Moagem, fabricação de produtos amiláceos e de alimentos para animais",
+    "RECEITA": 4696077,
+    "DESPESA": 5151210,
+    "RELACAO": "-9,69"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "10.9 Fabricação de outros produtos alimentícios",
+    "RECEITA": 2309517,
+    "DESPESA": 2049133,
+    "RELACAO": "11,27"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "11 Fabricação de bebidas",
+    "RECEITA": 2194070,
+    "DESPESA": 1560758,
+    "RELACAO": "28,86"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "11.1 Fabricação de bebidas alcoólicas",
+    "RECEITA": 1505476,
+    "DESPESA": 995279,
+    "RELACAO": "33,89"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "11.2 Fabricação de bebidas não-alcoólicas",
+    "RECEITA": 688594,
+    "DESPESA": 565479,
+    "RELACAO": "17,88"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "12 Fabricação de produtos do fumo",
+    "RECEITA": 1359604,
+    "DESPESA": 895875,
+    "RELACAO": "34,11"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "12.1 Processamento industrial do fumo",
+    "RECEITA": 1358482,
+    "DESPESA": 880252,
+    "RELACAO": "35,20"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "12.2 Fabricação de produtos do fumo",
+    "RECEITA": 1122,
+    "DESPESA": 15623,
+    "RELACAO": "-1292,42"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "13 Fabricação de produtos têxteis",
+    "RECEITA": 9109033,
+    "DESPESA": 8849773,
+    "RELACAO": "2,85"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "13.1 Preparação e fiação de fibras têxteis",
+    "RECEITA": 818671,
+    "DESPESA": 781555,
+    "RELACAO": "4,53"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "13.2 Tecelagem, exceto malha",
+    "RECEITA": 2306125,
+    "DESPESA": 2207813,
+    "RELACAO": "4,26"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "13.3 Fabricação de tecidos de malha",
+    "RECEITA": 2389943,
+    "DESPESA": 2601235,
+    "RELACAO": "-8,84"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "13.4 Acabamentos em fios, tecidos e artefatos têxteis",
+    "RECEITA": 1427653,
+    "DESPESA": 1464035,
+    "RELACAO": "-2,55"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "13.5 Fabricação de artefatos têxteis, exceto vestuário",
+    "RECEITA": 2166641,
+    "DESPESA": 1795135,
+    "RELACAO": "17,15"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "14 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 9702252,
+    "DESPESA": 9160219,
+    "RELACAO": "5,59"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "14.1 Confecção de artigos do vestuário e acessórios",
+    "RECEITA": 9606159,
+    "DESPESA": 9080068,
+    "RELACAO": "5,48"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "14.2 Fabricação de artigos de malharia e tricotagem",
+    "RECEITA": 96093,
+    "DESPESA": 80151,
+    "RELACAO": "16,59"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "15 Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",
+    "RECEITA": 1115135,
+    "DESPESA": 1026145,
+    "RELACAO": "7,98"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "15.1 Curtimento e outras preparações de couro",
+    "RECEITA": 400625,
+    "DESPESA": 306345,
+    "RELACAO": "23,53"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "15.2 Fabricação de artigos para viagem e de artefatos diversos de couro",
+    "RECEITA": 67678,
+    "DESPESA": 55439,
+    "RELACAO": "18,08"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "15.3 Fabricação de calçados",
+    "RECEITA": 573260,
+    "DESPESA": 587203,
+    "RELACAO": "-2,43"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "15.4 Fabricação de partes para calçados, de qualquer material",
+    "RECEITA": 73572,
+    "DESPESA": 77158,
+    "RELACAO": "-4,87"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "16 Fabricação de produtos de madeira",
+    "RECEITA": 4711244,
+    "DESPESA": 4151609,
+    "RELACAO": "11,88"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "16.1 Desdobramento de madeira",
+    "RECEITA": 1267082,
+    "DESPESA": 1130860,
+    "RELACAO": "10,75"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "16.2 Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",
+    "RECEITA": 3444162,
+    "DESPESA": 3020749,
+    "RELACAO": "12,29"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "17 Fabricação de celulose, papel e produtos de papel",
+    "RECEITA": 6210665,
+    "DESPESA": 6223940,
+    "RELACAO": "-0,21"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "17.1 Fabricação de celulose e outras pastas para a fabricação de papel",
+    "RECEITA": 145092,
+    "DESPESA": 494699,
+    "RELACAO": "-240,96"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "17.2 Fabricação de papel, cartolina e papel-cartão",
+    "RECEITA": 2030135,
+    "DESPESA": 2679519,
+    "RELACAO": "-31,99"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "17.3 Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 2271146,
+    "DESPESA": 1652616,
+    "RELACAO": "27,23"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "17.4 Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",
+    "RECEITA": 1764292,
+    "DESPESA": 1397106,
+    "RELACAO": "20,81"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "18 Impressão e reprodução de gravações",
+    "RECEITA": 772243,
+    "DESPESA": 668389,
+    "RELACAO": "13,45"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "18.1 Atividade de impressão",
+    "RECEITA": 634036,
+    "DESPESA": 560686,
+    "RELACAO": "11,57"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "18.2 Serviços de pré-impressão e acabamentos gráficos",
+    "RECEITA": 138207,
+    "DESPESA": 107703,
+    "RELACAO": "22,07"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "19 Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",
+    "RECEITA": 126222,
+    "DESPESA": 114774,
+    "RELACAO": "9,07"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "19.2 Fabricação de produtos derivados do petróleo",
+    "RECEITA": 16119,
+    "DESPESA": 18869,
+    "RELACAO": "-17,06"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20 Fabricação de produtos químicos",
+    "RECEITA": 4718090,
+    "DESPESA": 4334674,
+    "RELACAO": "8,13"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.1 Fabricação de produtos químicos inorgânicos",
+    "RECEITA": 883142,
+    "DESPESA": 790498,
+    "RELACAO": "10,49"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.2 Fabricação de produtos químicos orgânicos",
+    "RECEITA": 238369,
+    "DESPESA": 218558,
+    "RELACAO": "8,31"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.3 Fabricação de resinas e elastômeros",
+    "RECEITA": 208764,
+    "DESPESA": 193464,
+    "RELACAO": "7,33"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.4 Fabricação de fibras artificiais e sintéticas",
+    "RECEITA": 303209,
+    "DESPESA": 262350,
+    "RELACAO": "13,48"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.5 Fabricação de defensivos agrícolas e desinfestantes domissanitários",
+    "RECEITA": 59925,
+    "DESPESA": 45553,
+    "RELACAO": "23,98"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.6 Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",
+    "RECEITA": 523332,
+    "DESPESA": 452008,
+    "RELACAO": "13,63"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.7 Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",
+    "RECEITA": 1654123,
+    "DESPESA": 1595967,
+    "RELACAO": "3,52"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "20.9 Fabricação de produtos e preparados químicos diversos",
+    "RECEITA": 847226,
+    "DESPESA": 776276,
+    "RELACAO": "8,37"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "21 Fabricação de produtos farmoquímicos e farmacêuticos",
+    "RECEITA": 157525,
+    "DESPESA": 158613,
+    "RELACAO": "-0,69"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "22 Fabricação de produtos de borracha e de material plástico",
+    "RECEITA": 7429813,
+    "DESPESA": 7153103,
+    "RELACAO": "3,72"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "22.1 Fabricação de produtos de borracha",
+    "RECEITA": 490602,
+    "DESPESA": 422959,
+    "RELACAO": "13,79"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "22.2 Fabricação de produtos de material plástico",
+    "RECEITA": 6939211,
+    "DESPESA": 6730144,
+    "RELACAO": "3,01"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "23 Fabricação de produtos de minerais não-metálicos",
+    "RECEITA": 6336787,
+    "DESPESA": 5910030,
+    "RELACAO": "6,73"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "23.1 Fabricação de vidro e de produtos do vidro",
+    "RECEITA": 445793,
+    "DESPESA": 448727,
+    "RELACAO": "-0,66"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "23.2 Fabricação de cimento",
+    "RECEITA": 660651,
+    "DESPESA": 461352,
+    "RELACAO": "30,17"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "23.3 Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "RECEITA": 1817811,
+    "DESPESA": 1662386,
+    "RELACAO": "8,55"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "23.4 Fabricação de produtos cerâmicos",
+    "RECEITA": 3240657,
+    "DESPESA": 3157274,
+    "RELACAO": "2,57"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "23.9 Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos",
+    "RECEITA": 171875,
+    "DESPESA": 180291,
+    "RELACAO": "-4,90"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "24 Metalurgia",
+    "RECEITA": 7657712,
+    "DESPESA": 5880646,
+    "RELACAO": "23,21"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "24.2 Siderurgia",
+    "RECEITA": 3522922,
+    "DESPESA": 1348879,
+    "RELACAO": "61,71"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "24.4 Metalurgia dos metais não-ferrosos",
+    "RECEITA": 2039680,
+    "DESPESA": 2327495,
+    "RELACAO": "-14,11"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "24.5 Fundição",
+    "RECEITA": 1237762,
+    "DESPESA": 1273139,
+    "RELACAO": "-2,86"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "25 Fabricação de produtos de metal, exceto máquinas e equipamentos",
+    "RECEITA": 5027665,
+    "DESPESA": 4565111,
+    "RELACAO": "9,20"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "25.1 Fabricação de estruturas metálicas e obras de caldeiraria pesada",
+    "RECEITA": 1621306,
+    "DESPESA": 1384121,
+    "RELACAO": "14,63"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "25.2 Fabricação de tanques, reservatórios metálicos e caldeiras",
+    "RECEITA": 289634,
+    "DESPESA": 266702,
+    "RELACAO": "7,92"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "25.3 Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",
+    "RECEITA": 654569,
+    "DESPESA": 598027,
+    "RELACAO": "8,64"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "25.4 Fabricação de artigos de cutelaria, de serralheria e ferramentas",
+    "RECEITA": 595333,
+    "DESPESA": 555162,
+    "RELACAO": "6,75"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "25.9 Fabricação de produtos de metal não especificados anteriormente",
+    "RECEITA": 1866823,
+    "DESPESA": 1761099,
+    "RELACAO": "5,66"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "26 Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",
+    "RECEITA": 570076,
+    "DESPESA": 812698,
+    "RELACAO": "-42,56"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "26.1 Fabricação de componentes eletrônicos",
+    "RECEITA": 69689,
+    "DESPESA": 65229,
+    "RELACAO": "6,40"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "26.2 Fabricação de equipamentos de informática e periféricos",
+    "RECEITA": 80862,
+    "DESPESA": 67340,
+    "RELACAO": "16,72"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "26.3 Fabricação de equipamentos de comunicação",
+    "RECEITA": 122492,
+    "DESPESA": 417689,
+    "RELACAO": "-240,99"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "26.4 Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",
+    "RECEITA": 64213,
+    "DESPESA": 57352,
+    "RELACAO": "10,68"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "26.5 Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
+    "RECEITA": 220960,
+    "DESPESA": 195866,
+    "RELACAO": "11,36"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27 Fabricação de máquinas, aparelhos e materiais elétricos",
+    "RECEITA": 11546967,
+    "DESPESA": 10582846,
+    "RELACAO": "8,35"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27.1 Fabricação de geradores, transformadores e motores elétricos",
+    "RECEITA": 5951634,
+    "DESPESA": 5253696,
+    "RELACAO": "11,73"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27.2 Fabricação de pilhas, baterias e acumuladores elétricos",
+    "RECEITA": 77762,
+    "DESPESA": 89862,
+    "RELACAO": "-15,56"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27.3 Fabricação de equipamentos para distribuição e controle de energia elétrica",
+    "RECEITA": 1184905,
+    "DESPESA": 1167301,
+    "RELACAO": "1,49"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27.4 Fabricação de lâmpadas e outros equipamentos de iluminação",
+    "RECEITA": 122008,
+    "DESPESA": 115870,
+    "RELACAO": "5,03"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27.5 Fabricação de eletrodomésticos",
+    "RECEITA": 4104294,
+    "DESPESA": 3852057,
+    "RELACAO": "6,15"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "27.9 Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente",
+    "RECEITA": 106364,
+    "DESPESA": 104060,
+    "RELACAO": "2,17"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28 Fabricação de máquinas e equipamentos",
+    "RECEITA": 8924529,
+    "DESPESA": 8545766,
+    "RELACAO": "4,24"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28.1 Fabricação de motores, bombas, compressores e equipamentos de transmissão",
+    "RECEITA": 3255414,
+    "DESPESA": 3235857,
+    "RELACAO": "0,60"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28.2 Fabricação de máquinas e equipamentos de uso geral",
+    "RECEITA": 1702656,
+    "DESPESA": 1616312,
+    "RELACAO": "5,07"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28.3 Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária",
+    "RECEITA": 1406916,
+    "DESPESA": 1312443,
+    "RELACAO": "6,71"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28.4 Fabricação de máquinas-ferramenta",
+    "RECEITA": 469484,
+    "DESPESA": 466888,
+    "RELACAO": "0,55"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28.5 Fabricação de máquinas e equipamentos de uso na extração mineral e na construção",
+    "RECEITA": 305411,
+    "DESPESA": 270509,
+    "RELACAO": "11,43"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "28.6 Fabricação de máquinas e equipamentos de uso industrial específico",
+    "RECEITA": 1784648,
+    "DESPESA": 1643757,
+    "RELACAO": "7,89"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "29 Fabricação de veículos automotores, reboques e carrocerias",
+    "RECEITA": 4508064,
+    "DESPESA": 4539686,
+    "RELACAO": "-0,70"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "29.1 Fabricação de automóveis, camionetas e utilitários",
+    "RECEITA": 10855,
+    "DESPESA": 393508,
+    "RELACAO": "-3525,13"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "29.3 Fabricação de cabines, carrocerias e reboques para veículos automotores",
+    "RECEITA": 693276,
+    "DESPESA": 735840,
+    "RELACAO": "-6,14"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "29.4 Fabricação de peças e acessórios para veículos automotores",
+    "RECEITA": 3746136,
+    "DESPESA": 3355941,
+    "RELACAO": "10,42"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "29.5 Recondicionamento e recuperação de motores para veículos automotores",
+    "RECEITA": 57797,
+    "DESPESA": 54397,
+    "RELACAO": "5,88"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "30 Fabricação de outros equipamentos de transporte, exceto veículos automotores",
+    "RECEITA": 1716462,
+    "DESPESA": 1847124,
+    "RELACAO": "-7,61"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "30.1 Construção de embarcações",
+    "RECEITA": 1476912,
+    "DESPESA": 1633862,
+    "RELACAO": "-10,63"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "30.9 Fabricação de equipamentos de transporte não especificados anteriormente",
+    "RECEITA": 239550,
+    "DESPESA": 213262,
+    "RELACAO": "10,97"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "31 Fabricação de móveis",
+    "RECEITA": 2723361,
+    "DESPESA": 2603231,
+    "RELACAO": "4,41"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "31.0 Fabricação de móveis",
+    "RECEITA": 2723361,
+    "DESPESA": 2603231,
+    "RELACAO": "4,41"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "32 Fabricação de produtos diversos",
+    "RECEITA": 1724554,
+    "DESPESA": 1686860,
+    "RELACAO": "2,19"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "32.1 Fabricação de artigos de joalheria, bijuteria e semelhantes",
+    "RECEITA": 20628,
+    "DESPESA": 18345,
+    "RELACAO": "11,07"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "32.3 Fabricação de artefatos para pesca e esporte",
+    "RECEITA": 68614,
+    "DESPESA": 55992,
+    "RELACAO": "18,40"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "32.5 Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos",
+    "RECEITA": 873550,
+    "DESPESA": 885154,
+    "RELACAO": "-1,33"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "32.9 Fabricação de produtos diversos",
+    "RECEITA": 595412,
+    "DESPESA": 615862,
+    "RELACAO": "-3,43"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "33 Manutenção, reparação e instalação de máquinas e equipamentos",
+    "RECEITA": 876820,
+    "DESPESA": 723531,
+    "RELACAO": "17,48"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "33.1 Manutenção e reparação de máquinas e equipamentos",
+    "RECEITA": 654642,
+    "DESPESA": 554276,
+    "RELACAO": "15,33"
+  },
+  {
+    "ANO": 2015,
+    "ATIVIDADE": "33.2 Instalação de máquinas e equipamentos",
+    "RECEITA": 222178,
+    "DESPESA": 169255,
+    "RELACAO": "23,82"
+  }
+]
