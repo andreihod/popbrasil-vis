@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+
+</style>
+<body>
+	<h1>Receitas/despesas vs ano por atividade</h1>
+	<div id="comboarea">
+		
+	</div>
+	<svg width="960" height="500"></svg>
+</body>
+<script src="../grafico2/recdesp.json"></script>
+<script src="http://underscorejs.org/underscore-min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+  	var combo = _.map(recdesp, function(d){ return d.ATIVIDADE;});
+
+  	var comboarea = document.getElementById("comboarea");
+  	var atividadeList = document.createElement("select");
+	atividadeList.id = "atividadeSelect";
+	comboarea.appendChild(atividadeList);
+	for (var i = 0; i < combo.length; i++) {
+	    var option = document.createElement("option");
+	    if(i==0) option.selected = true;
+	    option.value = combo[i];
+	    option.text = combo[i];
+	    atividadeList.appendChild(option);
+	}
+
+	var draw = function () {
+
+		var valor = atividadeList.value;
+
+	  	data = _.filter(recdesp, function(d){ return d.ATIVIDADE == valor});
+
+	  	var mapanos = _.map(data, function(d){return d.ANO});
+
+	  	newdata = [];
+	  	_.each(data, function(d){
+	  		var obj = {"ANO": d.ANO, "RELACAO": d.RECEITA - d.DESPESA, "ATIVIDADE": d.ATIVIDADE};
+	  		newdata.push(obj);
+	  	});
+
+	  	var svg = d3.select("svg");
+	  	svg.selectAll("*").remove(); // Limpa o gráfico
+
+	  	var margin = {top: 20, right: 20, bottom: 0, left: 70},
+		    width = +svg.attr("width") - margin.left - margin.right,
+		    height = +svg.attr("height") - margin.top - margin.bottom,
+		    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+		var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
+    		y = d3.scaleLinear().rangeRound([height, 0]);
+
+    	x.domain(mapanos);
+		y.domain(d3.extent(newdata, function(d) { return d.RELACAO; }));
+
+		g.append("g")
+		  .attr("class", "axis axis--x")
+		  .attr("transform", "translate(0," + 0 + ")")
+		  .call(d3.axisBottom(x));
+
+		g.append("g")
+		  .attr("class", "axis axis--y")
+		  .call(d3.axisLeft(y))
+		.append("text")
+		  .attr("transform", "rotate(-90)")
+		  .attr("y", 6)
+		  .attr("dy", "0.71em")
+		  .attr("text-anchor", "end")
+		  .text("Frequency");
+
+		g.selectAll(".bar")
+		.data(newdata)
+		.enter().append("rect")
+		  .attr("class", "bar")
+		  .attr("fill", "steelblue")
+		  .attr("x", function(d) { return x(d.ANO); })
+    	  .attr("y", function(d) {
+    	  	var h = y(d.RELACAO) - y(0);
+    	  	if (h <= 0) {
+    	  		console.log(y(0) - y(d.RELACAO))
+    	  		return y(0) - y(d.RELACAO);
+    	  	}
+    	  	else
+    	  		return y(0);
+    	  })
+		  .attr("width", x.bandwidth())
+		  .attr("height", function(d) {
+		  	var h = y(d.RELACAO) - y(0);
+		  	if (h <= 0)
+		  		return y(d.RELACAO);
+		  	else 
+		  		return h;
+		  });
+	}
+
+	atividadeList.onchange = draw;
+	draw();
+
+
+</script>
