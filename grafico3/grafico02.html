@@ -6,15 +6,19 @@
 	<meta charset="utf-8">
 	<style>
 
-	.axis--x path {
-	  display: none;
-	}
+		.axis--x path {
+		  display: none;
+		}
 
-	.line {
-	  fill: none;
-	  stroke: steelblue;
-	  stroke-width: 1.5px;
-	}
+		.line {
+		  fill: none;
+		  stroke: steelblue;
+		  stroke-width: 1.5px;
+		}
+
+		.container {
+			text-align: center;
+		}
 
 
 	</style>
@@ -22,13 +26,13 @@
 	<script type="text/javascript" src="empregos_data.json"></script>
 	<script>
 
-		function getDataAnual(regiao) {
+		function getDataMensal(regiao, ano) {
 			var data = [];
 			
-			var getIndex = function(ano) {
+			var getIndex = function(mes, ano) {
 				for (var index = 0; index < data.length; index++) {
 					var row = data[index];
-					if (row.ano == ano) {
+					if (row.ano == ano && row.mes == mes) {
 						return index;
 					}
 				}
@@ -38,9 +42,9 @@
 
 			for (var index = 0; index < dados.length; index++) {
 				var row = dados[index];
-				if (row.regiao == regiao) {
+				if (row.regiao == regiao && row.ano == ano) {
 
-					var idxData = getIndex(row.ano);
+					var idxData = getIndex(row.mes, row.ano);
 					if (idxData != -1) {
 						if (row.var_codigo == "TX_DESL") 
 							data[idxData].perc_desl += parseFloat(row.percentual);	
@@ -51,8 +55,7 @@
 
 					} else {
 
-						var dado = {perc_desl:  0, perc_adm: 0, ano: row.ano, qtde: 1};
-						parseFloat(row.percentual)
+						var dado = {perc_desl:  0, perc_adm: 0, ano: row.ano, mes: row.mes, qtde: 1};
 
 						if (row.var_codigo == "TX_DESL") 
 							dado.perc_desl += parseFloat(row.percentual);	
@@ -66,36 +69,37 @@
 
 			for (var index in data) {
 				var row = data[index];
-				data[index] = {ano: row.ano, perc_desl: row.perc_desl / (row.qtde / 2), perc_adm: row.perc_adm / (row.qtde / 2)};
+				data[index] = {ano: row.ano, mes: row.mes, perc_desl: row.perc_desl / (row.qtde / 2), perc_adm: row.perc_adm / (row.qtde / 2)};
 			}
 
 			return data;
 		}
 		
 
-		function drawGraficoComparativoAnual() {
+		function drawGraficoComparativoMensal(ano) {
 
-			document.getElementById("titulo").innerHTML = "Comparativo de Admissões/Desligamentos entre Santa Catarina Vs Brasil";
+			document.getElementById("titulo").innerHTML = "Comparativo Mensal de Admissões/Desligamentos entre Santa Catarina Vs Brasil: " + ano;
 
-			var dataBrasil = getDataAnual("Brasil");
-			var dataSC = getDataAnual("Santa Catarina");
+			var dataBrasil = getDataMensal("Brasil", ano);
+			var dataSC = getDataMensal("Santa Catarina", ano);
 
-			console.log(dataBrasil);
-			console.log(dataSC);
 			var data = [];
 			for (var index = 0; index < dataBrasil.length; index++) {
 				var rowBR = dataBrasil[index];
 				var rowSC = dataSC[index];
-				var obj = {ano: rowBR.ano, TX_ADM_BR: rowBR.perc_adm, TX_DESL_BR: rowBR.perc_desl, TX_DESL_SC: rowSC.perc_desl, 
+				var obj = {mes: rowBR.mes, TX_ADM_BR: rowBR.perc_adm, TX_DESL_BR: rowBR.perc_desl, TX_DESL_SC: rowSC.perc_desl, 
 						TX_ADM_SC: rowSC.perc_adm};
 				data.push(obj);
 			}
+			var svg = d3.select("svg");
+			svg.selectAll("*").remove();
 
-			var svg = d3.select("svg"),
+			svg = d3.select("svg"),
 			    margin = {top: 20, right: 20, bottom: 30, left: 40},
 			    width = +svg.attr("width") - margin.left - margin.right,
 			    height = +svg.attr("height") - margin.top - margin.bottom,
 			    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 
 			var x0 = d3.scaleBand()
 			    .rangeRound([0, width])
@@ -113,7 +117,7 @@
 
 			  var keys = ["TX_ADM_SC", "TX_ADM_BR", "TX_DESL_SC", "TX_DESL_BR"];
 
-			  x0.domain(data.map(function(d) { return d.ano; }));
+			  x0.domain(data.map(function(d) { return d.mes; }));
 			  x1.domain(keys).rangeRound([0, x0.bandwidth()]);
 			  var index = 0;
 			  y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
@@ -122,7 +126,7 @@
 				    .selectAll("g")
 				    .data(data)
 				    .enter().append("g")
-				      .attr("transform", function(d) { return "translate(" + x0(d.ano) + ",0)"; })
+				      .attr("transform", function(d) { return "translate(" + x0(d.mes) + ",0)"; })
 				    .selectAll("rect")
 				    .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
 				    .enter().append("rect")
@@ -171,8 +175,6 @@
 				      .attr("y", 9.5)
 				      .attr("dy", "0.32em")
 				      .text(function(d) { return d; });
-
-
 	
 		}
 
@@ -182,11 +184,44 @@
 		  return d;
 		}
 
+		var ano = 2001;
+
+		window.onload = function() {
+			var temp = window.location.hash.slice(1);
+			if (!isNaN(temp)) {
+				ano = temp;
+			}
+			document.getElementById("inputAno").value = ano;
+			drawGraficoComparativoMensal(ano);
+		}
 
 		</script>
 </head>
-<body onload="drawGraficoComparativoAnual()">
-	<h3 id="titulo"></h3>
-	<svg width="1290" height="500"></svg>
+<body>
+
+	<div class="container">
+		<a href="grafico01.html">Voltar</a>
+
+		<h3 id="titulo"></h3>
+		Ano:
+		<select id="inputAno" onchange="drawGraficoComparativoMensal(this.value)">
+			<option value="2001">2001</option>
+			<option value="2002">2002</option>
+			<option value="2003">2003</option>
+			<option value="2004">2004</option>
+			<option value="2005">2005</option>
+			<option value="2006">2006</option>
+			<option value="2007">2007</option>
+			<option value="2008">2008</option>
+			<option value="2009">2009</option>
+			<option value="2010">2010</option>
+			<option value="2011">2011</option>
+			<option value="2012">2012</option>
+			<option value="2013">2013</option>
+			<option value="2014">2014</option>
+		</select><br>
+		<svg width="1290" height="500"></svg>
+	</div>
+	
 </body>
 </html>

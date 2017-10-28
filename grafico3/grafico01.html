@@ -10,6 +10,9 @@
 	  display: none;
 	}
 
+	.container {
+		text-align: center;
+	}
 
 	</style>
 	<script src="d3.v4.min.js"></script>
@@ -69,7 +72,7 @@
 
 		function drawGraficoComparativoAnual() {
 
-			document.getElementById("titulo").innerHTML = "Comparativo de Admissões/Desligamentos entre Santa Catarina Vs Brasil";
+			document.getElementById("titulo").innerHTML = "Comparativo Anual de Admissões/Desligamentos entre Santa Catarina Vs Brasil";
 
 			var dataBrasil = getDataAnual("Brasil");
 			var dataSC = getDataAnual("Santa Catarina");
@@ -118,7 +121,7 @@
 				    .enter().append("g")
 				      .attr("transform", function(d) { return "translate(" + x0(d.ano) + ",0)"; })
 				    .selectAll("rect")
-				    .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+				    .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key], ano: d.ano}; }); })
 				    .enter().append("rect")
 				      .attr("x", function(d) { return x1(d.key); })
 				      .attr("y", function(d) { return y(d.value); })
@@ -166,7 +169,28 @@
 				      .attr("dy", "0.32em")
 				      .text(function(d) { return d; });
 
+				svg.selectAll("rect")
+				       	.on("mouseover", function(d){
 
+				          var delta = d.y1 - d.y0;
+				          var xPos = parseFloat(d3.select(this).attr("x"));
+				          var yPos = parseFloat(d3.select(this).attr("y"));
+				          var height = parseFloat(d3.select(this).attr("height"))
+
+				          d3.select(this).attr("stroke","black").attr("stroke-width",2);
+				          
+				       })
+				       .on("mouseout",function(){
+				          svg.select(".tooltip").remove();
+				          d3.select(this).attr("stroke","pink").attr("stroke-width",0.2);
+				                                
+				        });
+
+
+				svg.selectAll("rect").on("click", function(d) {
+					document.location.href = "grafico02.html#" + d.ano;
+				});
+				
 	
 		}
 
@@ -180,7 +204,10 @@
 		</script>
 </head>
 <body onload="drawGraficoComparativoAnual()">
-	<h3 id="titulo"></h3>
-	<svg width="1290" height="500"></svg>
+
+	<div class="container">
+		<h3 id="titulo"></h3>
+		<svg width="1290" height="500"></svg>
+	</div>
 </body>
 </html>

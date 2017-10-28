@@ -1,18 +1,20 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<html>
+<head>
+  <meta charset="utf-8">
 <style>
-
+  
+  .container {
+    text-align: center;
+  }
 
 </style>
-<h1>Produção de Maçã vs Área Colhida em SC</h1>
-<svg width="960" height="500"></svg>
 <script src="pxc.json"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-  console.log(prodmaca);
-
-  var svg = d3.select("svg"),
+  function draw() {
+      var svg = d3.select("svg"),
     margin = {top: 20, right: 60, bottom: 30, left: 50},
     width = +svg.attr("width") - margin.left - margin.right,
     height = +svg.attr("height") - margin.top - margin.bottom,
@@ -87,7 +89,22 @@
       .attr("stroke-linecap", "round")
       .attr("stroke-width", 1.5)
       .attr("d", line2)
-    .append("text")
-
+    .append("text");
+  }
+  
+  window.onload = draw;
 
 </script>
+  
+</head>
+
+<body>
+  <div class="container">
+    <h1>Produção de Maçã vs Área Colhida em SC</h1>
+    <svg width="960" height="500"></svg>  
+  </div>
+  
+</body>
+</html>
+
+
