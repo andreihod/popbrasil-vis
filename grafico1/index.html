@@ -48,6 +48,7 @@
 
   g.append("g")
       .call(d3.axisLeft(y))
+      .attr("fill", "steelblue")
     .append("text")
       .attr("fill", "steelblue")
       .attr("transform", "rotate(-90)")
@@ -59,6 +60,7 @@
   g.append("g")      
     .attr("transform", "translate(" + width + " ,0)")
     .call(d3.axisRight(y2))
+    .attr("fill", "red")
     .append("text")
       .attr("fill", "red")
       .attr("transform", "rotate(-90)")
