@@ -5,7 +5,7 @@
 
 </style>
 <body>
-	<h1>Receitas/despesas vs ano por atividade</h1>
+	<h1>Relação Receita/Despesa vs Ano por Atividade (SC)</h1>
 	<div id="comboarea">
 		
 	</div>
@@ -59,9 +59,9 @@
 		y.domain(d3.extent(newdata, function(d) { return d.RELACAO; }));
 
 		g.append("g")
-		  .attr("class", "axis axis--x")
-		  .attr("transform", "translate(0," + 0 + ")")
-		  .call(d3.axisBottom(x));
+		  .attr("class", "axis")
+		  .attr("transform", "translate(0, 0)")
+		  .call(d3.axisTop(x));
 
 		g.append("g")
 		  .attr("class", "axis axis--y")
@@ -77,12 +77,11 @@
 		.data(newdata)
 		.enter().append("rect")
 		  .attr("class", "bar")
-		  .attr("fill", "steelblue")
+		  .attr("fill", function(d) { return (y(d.RELACAO) - y(0)) <= 0 ? "steelblue" : "red";})
 		  .attr("x", function(d) { return x(d.ANO); })
     	  .attr("y", function(d) {
     	  	var h = y(d.RELACAO) - y(0);
     	  	if (h <= 0) {
-    	  		console.log(y(0) - y(d.RELACAO))
     	  		return y(0) - y(d.RELACAO);
     	  	}
     	  	else
