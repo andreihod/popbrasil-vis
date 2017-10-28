@@ -93,23 +93,23 @@
 		.data(newdata)
 		.enter().append("rect")
 		  .attr("class", "bar")
-		  .attr("fill", function(d) { return (y(d.RELACAO) - y(0)) <= 0 ? "steelblue" : "red";})
+		  .attr("fill", function(d) { return d.RELACAO <= 0 ? "red" : "blue";})
 		  .attr("x", function(d) { return x(d.ANO); })
     	  .attr("y", function(d) {
     	  	var h = y(d.RELACAO) - y(0);
-    	  	if (h <= 0) {
-    	  		return y(0) - y(d.RELACAO);
-    	  	}
-    	  	else
+    	  	if (d.RELACAO < 0)
     	  		return y(0);
+    	  	else
+    	  		return y(d.RELACAO);
     	  })
 		  .attr("width", x.bandwidth())
 		  .attr("height", function(d) {
+		  	console.log(d);
 		  	var h = y(d.RELACAO) - y(0);
-		  	if (h <= 0)
-		  		return y(d.RELACAO);
+		  	if (d.RELACAO > 0)
+		  		return y(0) - y(d.RELACAO);
 		  	else 
-		  		return h;
+		  		return y(d.RELACAO);
 		  });
 	}
 
