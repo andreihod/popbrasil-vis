@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+
+</style>
+<body>
+	<h1>Receita Líquida por Ano de SC (somando os setores)</h1>
+	<svg width="960" height="500"></svg>
+</body>
+<script src="../grafico2/recdesp.json"></script>
+<script src="http://underscorejs.org/underscore-min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+
+  	var mapanos = _.uniq(_.map(recdesp, function(d){return d.ANO}));
+
+  	var data = _.groupBy(recdesp, function(d){return d.ANO});
+
+  	var newdata = [];
+
+  	_.each(mapanos, function (d) {
+  		var obj = {"ano": d, "receitas": 0, "despesas": 0};
+  		_.each(data[d], function(d2){ obj.receitas += d2.RECEITA; obj.despesas += d2.DESPESA;});
+  		obj.relacao = obj.receitas - obj.despesas;
+  		newdata.push(obj);
+  	})
+  	
+  	var svg = d3.select("svg"),
+    margin = {top: 20, right: 20, bottom: 30, left: 70},
+    width = +svg.attr("width") - margin.left - margin.right,
+    height = +svg.attr("height") - margin.top - margin.bottom,
+    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+	var x = d3.scaleLinear()
+	    .rangeRound([0, width]);
+
+	var y = d3.scaleLinear()
+	    .rangeRound([height, 0]);
+
+	var line = d3.line()
+	    .x(function(d) { return x(d.ano); })
+	    .y(function(d) { return y(d.relacao); });
+
+	x.domain(d3.extent(mapanos));
+	y.domain(d3.extent(newdata, function(d) { return d.relacao; }));
+
+	g.append("g")
+	  .attr("transform", "translate(0," + height + ")")
+	  .call(d3.axisBottom(x))
+	.select(".domain")
+	  .remove();
+
+	g.append("g")
+	  .call(d3.axisLeft(y))
+	.append("text")
+	  .attr("fill", "#000")
+	  .attr("transform", "rotate(-90)")
+	  .attr("y", 6)
+	  .attr("dy", "0.71em")
+	  .attr("text-anchor", "end")
+	  .text("Receita Líquida (R$)");
+
+	g.append("path")
+	  .datum(newdata)
+	  .attr("fill", "none")
+	  .attr("stroke", "steelblue")
+	  .attr("stroke-linejoin", "round")
+	  .attr("stroke-linecap", "round")
+	  .attr("stroke-width", 1.5)
+	  .attr("d", line);	
+
+</script>
