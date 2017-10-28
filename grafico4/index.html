@@ -1,18 +1,33 @@
 <!DOCTYPE html>
+<html>
+
+<head>
+
 <meta charset="utf-8">
 <style>
-
+	.container {
+			text-align: center;
+		}
 
 </style>
-<body>
-	<h1>Receita Líquida por Ano de SC (somando os setores)</h1>
-	<svg width="960" height="500"></svg>
-</body>
 <script src="../grafico2/recdesp.json"></script>
 <script src="http://underscorejs.org/underscore-min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script>
+</head>
 
+
+	<body>
+		<div class="container">
+			<a href="../trabalhoFinal.html">Capa</a>
+			<h1>Receita Líquida por Ano em SC (somando os setores)</h1>
+			<svg width="960" height="500"></svg>
+		</div>
+	
+	</body>
+
+	<script>
+
+	
 
   	var mapanos = _.uniq(_.map(recdesp, function(d){return d.ANO}));
 
@@ -71,4 +86,6 @@
 	  .attr("stroke-width", 1.5)
 	  .attr("d", line);	
 
-</script>
+</script>	
+
+</html>

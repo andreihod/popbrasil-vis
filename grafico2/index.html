@@ -1,36 +1,42 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<html>
+<head>
+	<meta charset="utf-8">
 <style>
-
-
+	
+	.container {
+	    text-align: center;
+	  }
+	
 </style>
-<body>
-	<h1>Receitas/despesas vs ano por atividade</h1>
-	<div id="comboarea">
-		
-	</div>
-	<svg width="960" height="500"></svg>
-</body>
 <script src="recdesp.json"></script>
 <script src="http://underscorejs.org/underscore-min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-  	var combo = _.map(recdesp, function(d){ return d.ATIVIDADE;});
+	function init() {
+		var combo = _.map(recdesp, function(d){ return d.ATIVIDADE;});
 
-  	var comboarea = document.getElementById("comboarea");
-  	var atividadeList = document.createElement("select");
-	atividadeList.id = "atividadeSelect";
-	comboarea.appendChild(atividadeList);
-	for (var i = 0; i < combo.length; i++) {
-	    var option = document.createElement("option");
-	    if(i==0) option.selected = true;
-	    option.value = combo[i];
-	    option.text = combo[i];
-	    atividadeList.appendChild(option);
+	  	var comboarea = document.getElementById("comboarea");
+	  	var atividadeList = document.createElement("select");
+		atividadeList.id = "atividadeSelect";
+		comboarea.appendChild(atividadeList);
+		for (var i = 0; i < combo.length; i++) {
+		    var option = document.createElement("option");
+		    if(i==0) option.selected = true;
+		    option.value = combo[i];
+		    option.text = combo[i];
+		    atividadeList.appendChild(option);
+		}
+		atividadeList.onchange = draw;
+	
+		draw();
 	}
+  	
 
 	var draw = function () {
+
+		var atividadeList = document.getElementById("atividadeSelect");
 
 		var valor = atividadeList.value;
 
@@ -119,8 +125,22 @@
 		  .text(function(d) { return d; });
 	}
 
-	atividadeList.onchange = draw;
-	draw();
+	
+	window.onload = init;
 
+</script>	
+</head>
+<body>
 
-</script>
+	<div class="container">
+		<a href="../trabalhoFinal.html">Capa</a>
+		
+		<h3>Receitas/despesas vs ano por atividade</h3>
+		<div id="comboarea">	
+		</div>
+		<svg width="960" height="500"></svg>
+
+	</div>
+
+</body>
+</html>

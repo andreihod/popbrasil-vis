@@ -195,12 +195,36 @@
 			drawGraficoComparativoMensal(ano);
 		}
 
+		function keyPressHandler(e) {
+			var key = e.which || e.keyCode;
+			if (key == 109) {
+				if (ano >= 2014) {
+					ano = 2001;
+				} else {
+					ano++;
+				}
+				drawGraficoComparativoMensal(ano);
+			} else if(key == 110) {
+				if (ano <= 2001) {
+					ano = 2014;
+				} else {
+					ano--;
+				}
+				drawGraficoComparativoMensal(ano);
+			}
+
+		}
+
+		document.onkeypress = keyPressHandler;
+
 		</script>
 </head>
 <body>
 
 	<div class="container">
-		<a href="grafico01.html">Voltar</a>
+
+		<a href="grafico01.html">Voltar</a>&nbsp;<a href="../trabalhoFinal.html">Capa</a>
+
 
 		<h3 id="titulo"></h3>
 		Ano:
